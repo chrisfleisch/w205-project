@@ -19,6 +19,7 @@ tail -n +2  $VAFILE > $VAFILE"_" ; mv $VAFILE"_" $VAFILE
 
 #Strip out non-ascii characters which for some reason exist in some of these files.
 sed -i 's/[\d128-\d255]//g' data/*.csv
+sed '1s/^\xEF\xBB\xBF//' data/*.csv
 
 #Generate headers into separate files
 mkdir headers
