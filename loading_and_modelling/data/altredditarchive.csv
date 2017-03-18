@@ -1,4 +1,3 @@
-id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review_date,alt_brand
 0,2012-12-14 10:03:18,100 pipers,merlinblack,http://www.reddit.com/r/Scotch/comments/14uder/100_pipers_blend_review_10/c7ghjy2,68.0,blend,,2012-12-14,100 pipers
 1,2015-06-22 11:40:00,11 wells minnesota 13 white whiskey,KozureOkami,http://www.reddit.com/r/worldwhisky/comments/3aq5pi/review_1_11_wells_minnesota_13_mn13_white_whiskey/,75.0,white,30.0,2015-06-22,11 wells minnesota 13 white
 2,2016-10-31 16:14:05,1792 full proof,dmsn7d,https://www.reddit.com/r/bourbon/comments/5aezxj/review_42_1792_full_proof/,85.0,bourbon,,2016-10-31,1792 full proof
@@ -295,9 +294,9 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 293,2014-06-22 17:10:30,aberlour 20 darkness! oloroso,Scotch_Fanatic,http://www.reddit.com/r/Scotch/comments/28091m/darkness_aberlour_20_oloroso_and_px_review_26_27/,93.0,speyside,,2014-06-14,aberlour 20 darkness! oloroso
 294,2015-01-18 16:11:58,aberlour 20 darkness! oloroso,Texacer,http://www.reddit.com/r/Scotch/comments/2svcb2/aberlour_darkness_20_year_old_oloroso_a_review/,93.0,speyside,,2015-01-18,aberlour 20 darkness! oloroso
 295,2014-08-21 11:38:36,aberlour 20 darkness! oloroso,Zillah1985,http://www.reddit.com/r/Scotch/comments/2e6ol3/master_of_malts_series_darkness_macallan_15_pedro/,75.0,speyside,,2014-08-21,aberlour 20 darkness! oloroso
-296,2015-06-06 03:34:03,aberlour 20 darkness! pedro ximénez,cake_my_day,http://www.reddit.com/r/Scotch/comments/38pri8/aberlour_20_px_cask_finish_a_review/,78.0,speyside,,2015-06-05,aberlour 20 darkness! pedro ximénez
-297,2014-08-26 19:59:32,aberlour 20 darkness! pedro ximénez,ecb29,http://www.reddit.com/r/Scotch/comments/2eokeo/reviews_benrinnes_18_darkness_aberlour_20_px/,91.0,speyside,,2014-08-26,aberlour 20 darkness! pedro ximénez
-298,2014-06-22 17:12:01,aberlour 20 darkness! pedro ximénez,Scotch_Fanatic,http://www.reddit.com/r/Scotch/comments/28091m/darkness_aberlour_20_oloroso_and_px_review_26_27/,94.0,speyside,,2014-06-14,aberlour 20 darkness! pedro ximénez
+296,2015-06-06 03:34:03,aberlour 20 darkness! pedro ximnez,cake_my_day,http://www.reddit.com/r/Scotch/comments/38pri8/aberlour_20_px_cask_finish_a_review/,78.0,speyside,,2015-06-05,aberlour 20 darkness! pedro ximnez
+297,2014-08-26 19:59:32,aberlour 20 darkness! pedro ximnez,ecb29,http://www.reddit.com/r/Scotch/comments/2eokeo/reviews_benrinnes_18_darkness_aberlour_20_px/,91.0,speyside,,2014-08-26,aberlour 20 darkness! pedro ximnez
+298,2014-06-22 17:12:01,aberlour 20 darkness! pedro ximnez,Scotch_Fanatic,http://www.reddit.com/r/Scotch/comments/28091m/darkness_aberlour_20_oloroso_and_px_review_26_27/,94.0,speyside,,2014-06-14,aberlour 20 darkness! pedro ximnez
 299,2016-01-01 13:37:30,aberlour 20 oloroso cask finish,cake_my_day,http://www.reddit.com/r/Scotch/comments/3yz38m/aberlour_20_oloroso_cask_finish_a_review/,88.0,speyside,,2016-01-01,aberlour 20 oloroso cask finish
 300,2016-05-16 06:42:23,aberlour 23 tbwc,Unclimbability,https://www.reddit.com/r/Scotch/comments/4jkqjt/the_brizzy_session_aberlour_23_tbwc/,65.0,speyside,,2016-05-16,aberlour 23 tbwc
 301,2014-05-29 11:36:41,aberlour 25 1988 old malt cask,pepe_le_shoe,http://www.reddit.com/r/Scotch/comments/26so4e/showdown_of_5_whiskies_distilled_in_1988/chu2llh,66.0,speyside,,2014-05-29,aberlour 25 1988 old malt cask
@@ -563,7 +562,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 561,2015-11-12 20:41:01,allt-a-bhainne 18,Tankles,https://www.reddit.com/r/Scotch/comments/3aci43/review_11_berrys_allt_a_bhainne_18/,62.0,speyside,110.0,2015-06-19,allt-a-bhainne 18
 562,2015-10-10 01:47:32,allt-a-bhainne 18 1995 chapter 7,cake_my_day,http://www.reddit.com/r/Scotch/comments/3o13rl/alltabhainne_18_1995_a_review/,84.0,speyside,,2015-10-08,allt-a-bhainne 18 1995 chapter 7
 563,2016-11-07 21:04:37,allt-a-bhainne 18 1995 signatory,bpnelson7,https://www.reddit.com/r/Scotch/comments/5bqrfq/review_9_1995_altabhainne_18_signatory/,82.0,highland,70.0,2016-11-07,allt-a-bhainne 18 1995 signatory
-564,2015-12-10 08:11:39,allt-á-bhainne 1980 vintage signatory,TOModera,https://www.reddit.com/r/Scotch/comments/3w846q/allt_abhainne_1980_signatory_reviewfeathers/,70.0,speyside,,2015-12-10,allt-á-bhainne 1980 vintage signatory
+564,2015-12-10 08:11:39,allt--bhainne 1980 vintage signatory,TOModera,https://www.reddit.com/r/Scotch/comments/3w846q/allt_abhainne_1980_signatory_reviewfeathers/,70.0,speyside,,2015-12-10,allt--bhainne 1980 vintage signatory
 565,2014-10-24 06:22:01,allt-a-bhainne 21 signatory cs,Dworgi,http://www.reddit.com/r/Scotch/comments/2htt8r/review_218_alltabhainne_21_signatory_cs/ckvxny2,87.0,speyside,,2014-09-30,allt-a-bhainne 21 signatory cs
 566,2016-08-24 15:41:29,allt-a-bhainne 22 port finished,devilsadvocate23,https://www.reddit.com/r/Scotch/comments/4u6eaw/review_33_mystery_sample/,87.0,speyside,,2016-08-24,allt-a-bhainne 22 port finished
 567,,allt-a-bhainne 22 port finished,cjotto9,https://www.reddit.com/r/Scotch/comments/4wq5yt/review_260_alltabhainne_22_year_port_finished/?ref=search_posts,87.0,speyside,100.0,,allt-a-bhainne 22 port finished
@@ -1601,7 +1600,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 1599,2016-06-15 06:06:49,ardmore traditional cask peated,Unclimbability,https://www.reddit.com/r/Scotch/comments/4o6mw7/ardmore_traditional_cask_review_124/,67.0,highland,,2016-06-15,ardmore traditional cask peated
 1600,2017-02-20 09:57:39,ardmore traditional cask peated,xile_,https://www.reddit.com/r/Scotch/comments/5v46za/review_139_ardmore_traditional_cask/,80.0,highland,,2017-02-20,ardmore traditional cask peated
 1601,2017-01-31 17:44:50,ardmore triple wood,Gr1ggs,https://www.reddit.com/r/Scotch/comments/5lkfu5/review_1216_casc_whisky_club_invergordon_18/,84.0,highland,,2017-01-02,ardmore triple wood
-1602,2016-01-08 13:44:52,armorik 2002 millésime,Shane_IL,https://www.reddit.com/r/worldwhisky/comments/402nrp/mmi_craft_whisky_evening_reviews_1820/,83.0,france,,2016-01-08,armorik 2002 millésime
+1602,2016-01-08 13:44:52,armorik 2002 millsime,Shane_IL,https://www.reddit.com/r/worldwhisky/comments/402nrp/mmi_craft_whisky_evening_reviews_1820/,83.0,france,,2016-01-08,armorik 2002 millsime
 1603,2014-11-14 17:53:24,armorik breton single malt,muaddib99,http://www.reddit.com/r/worldwhisky/comments/2mbxp1/review_22_armorik_breton_single_malt/,82.0,france,,2014-11-14,armorik breton single malt
 1604,2013-05-22 08:09:55,armorik breton single malt,TOModera,http://www.reddit.com/r/worldwhisky/comments/1ety2m/armorik_breton_single_malt_review/,80.0,france,,2013-05-22,armorik breton single malt
 1605,2015-06-25 22:27:06,armorik classic,TheWhiskeyJug,http://www.reddit.com/r/worldwhisky/comments/3897wy/review_58_armorik_classic_single_malt/,82.0,france,45.0,2015-06-02,armorik classic
@@ -2078,7 +2077,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 2076,2012-12-21 22:35:21,bain's cape mountain whisky,ecb29,http://www.reddit.com/r/Scotch/comments/159lph/whiskymas_reviews_days_1115/,58.0,south africa,,2012-12-21,bain cape mountain
 2077,2016-10-22 07:35:00,bain's cape mountain whisky,Shane_IL,https://www.reddit.com/r/worldwhisky/comments/58sx3s/james_sedgwick_distillery_visit_reviews_3738/,85.0,south africa,,2016-10-22,bain cape mountain
 2078,2015-05-15 08:08:38,bain's cape mountain whisky,TOModera,http://www.reddit.com/r/worldwhisky/comments/3621p4/bains_cape_mountain_whisky_review/,73.0,south africa,,2015-05-15,bain cape mountain
-2079,2016-04-15 10:54:13,bain’s cape mountain whisky,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/4exbmo/ww_review_16_bains_cape_mountain_whisky/,81.0,south africa,,2016-04-15,bain’s cape mountain
+2079,2016-04-15 10:54:13,bains cape mountain whisky,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/4exbmo/ww_review_16_bains_cape_mountain_whisky/,81.0,south africa,,2016-04-15,bains cape mountain
 2080,2014-06-15 20:22:19,baker's 107,CalZeta,http://www.reddit.com/r/bourbon/comments/288s4y/review_7_bakers_107/ci8iww0,75.0,bourbon,7.0,2014-06-16,baker 107
 2081,2015-05-21 07:19:12,baker's 107,Dworgi,http://www.reddit.com/r/bourbon/comments/2l41ve/review_12_bakers/clr9jxd,76.0,bourbon,,2014-11-03,baker 107
 2082,2014-02-01 16:52:50,baker's 107,EMoneySC2,http://www.reddit.com/r/bourbon/comments/1wrd9f/emoneysc2s_mega_american_whiskey_archive_reviews/ ,70.0,bourbon,35.0,2014-02-01,baker 107
@@ -2897,11 +2896,11 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 2895,2013-12-05 00:05:00,benriach 15 madeira wood finish,Father_Boddingtons,http://www.reddit.com/r/Scotch/comments/1s55oo/reviews_53_and_54_a_little_benriach_vertical/,89.0,speyside,75.0,2013-12-04,benriach 15 madeira wood finish
 2896,2013-06-05 23:28:01,benriach 15 madeira wood finish,gaxkang,http://www.reddit.com/r/Scotch/comments/1fnpmb/review_34_benriach_15_madeira_wood_finish/,86.0,speyside,110.0,2013-06-04,benriach 15 madeira wood finish
 2897,2016-02-19 06:40:47,benriach 15 madeira wood finish,TOModera,https://www.reddit.com/r/Scotch/comments/46ke1t/benriach_finished_threesome_review_15_px_sherry/,76.0,speyside,,2016-02-19,benriach 15 madeira wood finish
-2898,2012-03-05 12:10:59,benriach 15 pedro ximénez,cbass8282,http://www.reddit.com/r/Scotch/comments/qga6y/review_the_benriach_pedro_ximinez_15/,78.0,speyside,84.0,2012-03-03,benriach 15 pedro ximénez
-2899,2012-12-22 09:26:33,benriach 15 pedro ximénez,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/15a5pu/review_benriach_bonanza_part_34_aged_15_years/,,speyside,,2012-12-22,benriach 15 pedro ximénez
-2900,2013-02-10 15:11:33,benriach 15 pedro ximénez,pwsmith3,http://www.reddit.com/r/Scotch/comments/189kbz/benriach_pedro_ximinez_sherry_wood_finish_review_1/,83.0,speyside,72.0,2013-02-10,benriach 15 pedro ximénez
-2901,2016-11-23 22:27:05,benriach 15 pedro ximénez,throwboats,https://www.reddit.com/r/Scotch/comments/54uw7g/review_53_benriach_15_year_px_sherry_wood_finish/,84.0,speyside,,2016-09-28,benriach 15 pedro ximénez
-2902,2016-02-19 06:40:44,benriach 15 pedro ximénez,TOModera,https://www.reddit.com/r/Scotch/comments/46ke1t/benriach_finished_threesome_review_15_px_sherry/,72.0,speyside,,2016-02-19,benriach 15 pedro ximénez
+2898,2012-03-05 12:10:59,benriach 15 pedro ximnez,cbass8282,http://www.reddit.com/r/Scotch/comments/qga6y/review_the_benriach_pedro_ximinez_15/,78.0,speyside,84.0,2012-03-03,benriach 15 pedro ximnez
+2899,2012-12-22 09:26:33,benriach 15 pedro ximnez,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/15a5pu/review_benriach_bonanza_part_34_aged_15_years/,,speyside,,2012-12-22,benriach 15 pedro ximnez
+2900,2013-02-10 15:11:33,benriach 15 pedro ximnez,pwsmith3,http://www.reddit.com/r/Scotch/comments/189kbz/benriach_pedro_ximinez_sherry_wood_finish_review_1/,83.0,speyside,72.0,2013-02-10,benriach 15 pedro ximnez
+2901,2016-11-23 22:27:05,benriach 15 pedro ximnez,throwboats,https://www.reddit.com/r/Scotch/comments/54uw7g/review_53_benriach_15_year_px_sherry_wood_finish/,84.0,speyside,,2016-09-28,benriach 15 pedro ximnez
+2902,2016-02-19 06:40:44,benriach 15 pedro ximnez,TOModera,https://www.reddit.com/r/Scotch/comments/46ke1t/benriach_finished_threesome_review_15_px_sherry/,72.0,speyside,,2016-02-19,benriach 15 pedro ximnez
 2903,2016-04-20 12:37:33,benriach 15 sauternes wood finish,Sinjun86,https://www.reddit.com/r/Scotch/comments/4foijg/benriach_15yr_sauternes_wood_finish_review_122/,86.0,speyside,,2016-04-20,benriach 15 sauternes wood finish
 2904,2016-02-19 06:40:50,benriach 15 sauternes wood finish,TOModera,https://www.reddit.com/r/Scotch/comments/46ke1t/benriach_finished_threesome_review_15_px_sherry/,79.0,speyside,,2016-02-19,benriach 15 sauternes wood finish
 2905,2015-07-20 20:27:20,benriach 15 single cask,Brian_MB_05,https://www.reddit.com/r/Scotch/comments/3e0jt3/reviews_3133_a_trifecta_of_delicious/,94.0,speyside,,2015-07-17,benriach 15 single cask
@@ -3243,7 +3242,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 3241,2015-04-10 12:57:04,benromach 10 100 proof,Shane_IL,http://www.reddit.com/r/Scotch/comments/3252h8/benromach_10_100_proof_not_blind_review_48/,100.0,speyside,65.0,2015-04-10,benromach 10 100 proof
 3242,2014-11-19 15:23:23,benromach 10 100 proof,Tja_so,reddit.com/r/Scotch/comments/2mt571/review_benromach_10yo_100_proof/,85.0,speyside,58.0,2014-11-19,benromach 10 100 proof
 3243,2016-07-07 06:28:20,benromach 10 100 proof,Unclimbability,https://www.reddit.com/r/Scotch/comments/4qwt1s/scotchtrip_part_5_glendronach_and_co/,76.0,speyside,,2016-07-02,benromach 10 100 proof
-3244,2017-03-08 13:22:34,benromach 10 100° proof,throwboats,https://www.reddit.com/r/Scotch/comments/5y60c8/review_205_benromach_10_100_proof/,87.0,speyside,,2017-03-08,benromach 10 100° proof
+3244,2017-03-08 13:22:34,benromach 10 100 proof,throwboats,https://www.reddit.com/r/Scotch/comments/5y60c8/review_205_benromach_10_100_proof/,87.0,speyside,,2017-03-08,benromach 10 100 proof
 3245,2015-07-26 12:20:31,benromach 10 blue label,kdz13,https://www.reddit.com/r/Scotch/comments/3eoc2k/benromach_review_roundup/,94.0,speyside,,,benromach 10 blue
 3246,2015-07-26 12:19:59,benromach 10 red label,kdz13,https://www.reddit.com/r/Scotch/comments/3eoc2k/benromach_review_roundup/,91.0,speyside,86.0,2015-07-25,benromach 10 red
 3247,2015-08-14 05:16:02,benromach 15,Shane_IL,https://www.reddit.com/r/Scotch/comments/3gykog/benromach_15_review_94/,79.0,speyside,,2015-08-14,benromach 15
@@ -4224,7 +4223,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 4222,2016-12-09 06:12:34,bruichladdich black art 4.1 ,TOModera,https://www.reddit.com/r/Scotch/comments/5hdeod/bruichladdich_black_arts_41_review/,84.0,islay,,2016-12-09,bruichladdich black art 4.1
 4223,2017-02-16 13:39:03,bruichladdich black art 5.1,rhabarba,https://www.reddit.com/r/Scotch/comments/5uhajz/review_12_bruichladdich_black_art_051/,94.0,islay,,2017-02-16,bruichladdich black art 5.1
 4224,2016-11-27 04:51:50,bruichladdich black art 5.1,Unclimbability,https://www.reddit.com/r/Scotch/comments/58g3qf/bruichladdich_black_art_51_port_charlotte_10/,86.0,islay,,2016-10-20,bruichladdich black art 5.1
-4225,2016-03-01 08:33:31,bruichladdich black art fèis ìle 2015 edition high noon,TOModera,https://www.reddit.com/r/Scotch/comments/48gnvo/bruichladdich_black_art_f%C3%A8is_%C3%ACle_2015_edition/,86.0,islay,,2016-03-01,bruichladdich black art fèis ìle 2015 edition high noon
+4225,2016-03-01 08:33:31,bruichladdich black art fis le 2015 edition high noon,TOModera,https://www.reddit.com/r/Scotch/comments/48gnvo/bruichladdich_black_art_f%C3%A8is_%C3%ACle_2015_edition/,86.0,islay,,2016-03-01,bruichladdich black art fis le 2015 edition high noon
 4226,2015-04-16 07:21:19,bruichladdich br5 elements of islay,TOModera,http://www.reddit.com/r/Scotch/comments/32spt4/bruichladdich_br5_elements_of_islay_review/,86.0,islay,,2015-04-16,bruichladdich br5 elements of islay
 4227,2016-05-11 07:22:59,bruichladdich br6 elements of islay,Unclimbability,https://www.reddit.com/r/Scotch/comments/4iufr9/the_brizzy_session_br6_elements_of_islay/,70.0,islay,,2016-05-11,bruichladdich br6 elements of islay
 4228,2014-09-05 21:37:17,bruichladdich cuvee 382: la berenice,aphextal,http://www.reddit.com/r/Scotch/comments/27lmis/reviews_57_the_bruichladdich_cuvee_numerical/,84.0,islay,200.0,2014-06-07,bruichladdich cuvee 382: la berenice
@@ -4476,7 +4475,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 4474,2016-08-24 07:33:44,bruichladdich port charlotte 12 2003 whiskybroker,buddy_dosser,https://www.reddit.com/r/Scotch/comments/3muqwf/review_03_port_charlotte_whiskybrokercouk_12yo/,88.0,islay,,2015-09-29,bruichladdich port charlotte 12 2003 broker
 4475,2016-07-23 13:01:28,bruichladdich port charlotte 12 oloroso cask warehouse tasting sample,Shane_IL,https://www.reddit.com/r/Scotch/comments/4u99er/my_islay_trip_part_7_bruichladdich_reviews_290292/,92.0,islay,,2016-07-23,bruichladdich port charlotte 12 oloroso cask warehouse tasting sample
 4476,,bruichladdich port charlotte 13 jurancon cask,cjotto9,https://www.reddit.com/r/Scotch/comments/4msvuq/review_229_port_charlotte_13_year_jurancon_cask/?ref=search_posts,84.0,islay,210.0,,bruichladdich port charlotte 13 jurancon cask
-4477,2015-10-31 09:53:16,bruichladdich port charlotte 13 rest & be thankful jurançon,szila,https://www.reddit.com/r/Scotch/comments/3ksf7y/review_25_port_charlotte_13_year_old_juran%C3%A7on/,94.0,islay,,2015-09-13,bruichladdich port charlotte 13 rest & be thankful jurançon
+4477,2015-10-31 09:53:16,bruichladdich port charlotte 13 rest & be thankful juranon,szila,https://www.reddit.com/r/Scotch/comments/3ksf7y/review_25_port_charlotte_13_year_old_juran%C3%A7on/,94.0,islay,,2015-09-13,bruichladdich port charlotte 13 rest & be thankful juranon
 4478,2016-11-25 08:50:21,bruichladdich port charlotte 2001 archives,Shane_IL,https://www.reddit.com/r/Scotch/comments/5etutq/port_charlotte_2001_archives_review_352/,92.0,islay,127.0,2016-11-25,bruichladdich port charlotte 2001 archives
 4479,2016-01-22 13:22:11,bruichladdich port charlotte 2002 smws 127.42,Shane_IL,https://www.reddit.com/r/Scotch/comments/4272bq/port_charlotte_2002_smws_12742_review_176/,86.0,islay,,2016-01-22,bruichladdich port charlotte 2002 smws 127.42
 4480,2016-01-07 06:17:14,bruichladdich port charlotte 2003 cask sample,Unclimbability,https://www.reddit.com/r/Scotch/comments/3snyw9/scotchtrip_part_5_last_day_best_day_and_reviews/,82.0,islay,,2015-11-13,bruichladdich port charlotte 2003 cask sample
@@ -4594,7 +4593,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 4592,2014-01-19 16:18:39,bruichladdich port charlotte tro na linntean,Texacer,http://www.reddit.com/r/Scotch/comments/1vmc20/bruichladdich_port_charlotte_10_year_tro_an/,91.0,islay,,2014-01-19,bruichladdich port charlotte tro na linntean
 4593,2013-03-29 06:08:25,bruichladdich port charlotte tro na linntean,UncleTobys,http://www.reddit.com/r/Scotch/comments/1b8k5t/review_bruichladdich_port_charlotte_pc10_tro_na/,93.0,islay,,2013-03-29,bruichladdich port charlotte tro na linntean
 4594,2017-01-04 11:49:04,bruichladdich port charlotte tro na linntean,xile_,https://www.reddit.com/r/Scotch/comments/5io8s0/review_94_bruichladdich_pc10_tro_na_linntean/,89.0,islay,,2016-12-16,bruichladdich port charlotte tro na linntean
-4595,2016-12-18 19:18:01,bruichladdich port charlotte valinch #11 taigh a’ mhuilinn,throwboats,https://www.reddit.com/r/Scotch/comments/5j3246/bruichladdich_port_charlotte_valinch_11_taigh_a/,90.0,islay,,2016-12-18,bruichladdich port charlotte valinch #11 taigh a’ mhuilinn
+4595,2016-12-18 19:18:01,bruichladdich port charlotte valinch #11 taigh a mhuilinn,throwboats,https://www.reddit.com/r/Scotch/comments/5j3246/bruichladdich_port_charlotte_valinch_11_taigh_a/,90.0,islay,,2016-12-18,bruichladdich port charlotte valinch #11 taigh a mhuilinn
 4596,2011-12-15 21:12:06,bruichladdich resurrection dram,mamjjasond,http://www.reddit.com/r/Scotch/comments/n6wti/review_bruichladdich_the_resurrection_dram/c36q039,88.0,islay,,2011-12-09,bruichladdich resurrection dram
 4597,2013-03-01 11:18:08,bruichladdich resurrection dram,pacifien,http://www.reddit.com/r/Scotch/comments/18sqom/review_bruichladdich_resurrection_dram/c8hmlj3,85.0,islay,70.0,2013-02-19,bruichladdich resurrection dram
 4598,2012-02-13 20:41:18,bruichladdich resurrection dram,StudioRat,http://www.reddit.com/r/Scotch/comments/pogpw/review_bruichladdich_2010_the_resurrection_dram/,84.0,islay,,2012-02-13,bruichladdich resurrection dram
@@ -4972,8 +4971,8 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 4970,2017-02-02 08:01:53,bunnahabhain 10 2005 signatory,Unbreakablesausage,https://www.reddit.com/r/Scotch/comments/5njj76/review_43_signatory_bunnahabhain_10_single_cask/,87.0,islay,,2017-01-12,bunnahabhain 10 2005 signatory
 4971,2016-12-18 13:27:43,bunnahabhain 10 2005 signatory,throwboats,https://www.reddit.com/r/Scotch/comments/5i8ssp/review_126_bunnahabhain_10_signatory_2005/,90.0,islay,,2016-12-14,bunnahabhain 10 2005 signatory
 4972,2016-05-16 17:14:50,bunnahabhain 10 2005 signatory,HawkI84,https://www.reddit.com/r/Scotch/comments/4jnn6e/review_214_bunnahabhain_10_signatory_cs/,90.0,islay,,2016-05-16,bunnahabhain 10 2005 signatory
-4973,2014-03-18 02:39:49,bunnahabhain 10 chieftain’s,Dworgi,http://www.reddit.com/r/Scotch/comments/1zx7ey/review_156_texacers_mystery_1/cfxrtq8,86.0,islay,,2014-03-08,bunnahabhain 10 chieftain’s
-4974,2013-11-12 11:41:28,bunnahabhain 10 chieftain’s,Texacer,http://www.reddit.com/r/Scotch/comments/1qgr0c/bunnahabhain_10_year_old_chieftains_a_review/,80.0,islay,,2013-11-12,bunnahabhain 10 chieftain’s
+4973,2014-03-18 02:39:49,bunnahabhain 10 chieftains,Dworgi,http://www.reddit.com/r/Scotch/comments/1zx7ey/review_156_texacers_mystery_1/cfxrtq8,86.0,islay,,2014-03-08,bunnahabhain 10 chieftains
+4974,2013-11-12 11:41:28,bunnahabhain 10 chieftains,Texacer,http://www.reddit.com/r/Scotch/comments/1qgr0c/bunnahabhain_10_year_old_chieftains_a_review/,80.0,islay,,2013-11-12,bunnahabhain 10 chieftains
 4975,,bunnahabhain 10 first fill sherry,cjotto9,https://www.reddit.com/r/Scotch/comments/4mswgj/review_232_bunnahabhain_10_year_first_fill_sherry/?ref=search_posts,86.0,islay,70.0,,bunnahabhain 10 first fill sherry
 4976,2015-12-26 05:38:29,bunnahabhain 10 islay malt 2005,Shane_IL,https://www.reddit.com/r/Scotch/comments/3ya0l5/bunnahabhian_10_islay_malt_2015_whiskybroker/,83.0,islay,,2015-12-26,bunnahabhain 10 islay malt 2005
 4977,2015-09-08 13:45:32,bunnahabhain 10 moine pipe house,Shane_IL,https://www.reddit.com/r/Scotch/comments/3k4jp2/bunnahabhain_moine_10_pipehouse_review_101/,84.0,islay,,2015-09-08,bunnahabhain 10 moine pipe house
@@ -5152,7 +5151,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5150,2013-07-02 10:42:43,bunnahabhain 1997 signatory unchillfiltered,-mattybatty-,http://www.reddit.com/r/Scotch/comments/1hh71d/bunnahabhain_1997_cask_5365_refill_butt/,90.0,islay,,2013-07-01,bunnahabhain 1997 signatory unchillfiltered
 5151,2015-04-01 13:11:45,bunnahabhain 1997 van wees peated,Shane_IL,http://www.reddit.com/r/Scotch/comments/30l4u9/bunnahabhain_1997_vw_peated_review_41/,90.0,islay,,2015-03-28,bunnahabhain 1997 van wees peated
 5152,2013-04-08 09:30:11,"bunnahabhain 1997 wemyss ""billowing embers""",primedape,http://www.reddit.com/r/Scotch/comments/1bx2oj/review_18_wemyss_bunnahabhain_1997_billowing/,80.0,islay,68.0,2013-04-08,"bunnahabhain 1997 wemyss ""billowing embers"""
-5153,2015-06-11 15:53:28,bunnahabhain 20 cadenhead’s,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/29e4kz/review_115_118_the_dramming_table/,88.0,islay,,2015-06-11,bunnahabhain 20 cadenhead’s
+5153,2015-06-11 15:53:28,bunnahabhain 20 cadenheads,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/29e4kz/review_115_118_the_dramming_table/,88.0,islay,,2015-06-11,bunnahabhain 20 cadenheads
 5154,2011-12-22 00:47:42,bunnahabhain 2001 mcgibbon's provenance,Taigatrommel,http://www.reddit.com/r/Scotch/comments/niyyn/mcgibbons_provenance_bunnahabhain_2001_9_year_old/,68.0,islay,,2011-12-20,bunnahabhain 2001 mcgibbon provenance
 5155,2014-10-11 00:00:12,bunnahabhain 2001 mcgibbon's provenance,NobleArc,https://www.reddit.com/r/Scotch/comments/2ix8d1/review_24_mcgibbons_provenance_bunnahabhain_9/,83.0,islay,,2014-10-10,bunnahabhain 2001 mcgibbon provenance
 5156,2016-08-22 23:25:00,bunnahabhain 2001 signatory ,rt3506,https://www.reddit.com/r/Scotch/comments/39uu5q/signatory_bunnahabhain_2001_a_review/cs6mu2n,83.0,islay,65.0,2015-06-14,bunnahabhain 2001 signatory
@@ -5168,8 +5167,8 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5166,2017-02-23 17:15:20,bunnahabhain 21 sherry adelphi liddesdale batch 10,throwboats,https://www.reddit.com/r/Scotch/comments/5m37ub/review_138_adelphi_liddesdale_batch_10/,91.0,islay,150.0,2017-01-05,bunnahabhain 21 sherry adelphi liddesdale batch 10
 5167,2016-12-18 12:35:00,bunnahabhain 21 sherry adelphi liddesdale batch 8 ,throwboats,https://www.reddit.com/r/Scotch/comments/5hbz1v/review_125_adelphi_liddesdale_batch_8/,93.0,islay,,2016-12-09,bunnahabhain 21 sherry adelphi liddesdale batch 8
 5168,2013-09-28 09:53:51,bunnahabhain 21 the maltman,ayedfy,http://www.reddit.com/r/Scotch/comments/1nba8q/review_100_the_maltman_bunnahabhain_21/cch0fl8,90.0,islay,146.0,2013-09-28,bunnahabhain 21 the maltman
-5169,2014-01-06 08:13:42,bunnahabhain 22 1990 whisky-fässle,ayedfy,http://www.reddit.com/r/Scotch/comments/1ujbvn/review_two_mysteries_from_uncletobys/ceinuj0,80.0,islay,,2014-01-06,bunnahabhain 22 1990 -fässle
-5170,2013-09-11 09:11:03,bunnahabhain 22 1990 whisky-fässle,UncleTobys,http://www.reddit.com/r/Scotch/comments/1m6cdi/review_bunnahabhain_22_1990_whiskyf%C3%A4ssle_duck/,92.0,islay,,2013-09-11,bunnahabhain 22 1990 -fässle
+5169,2014-01-06 08:13:42,bunnahabhain 22 1990 whisky-fssle,ayedfy,http://www.reddit.com/r/Scotch/comments/1ujbvn/review_two_mysteries_from_uncletobys/ceinuj0,80.0,islay,,2014-01-06,bunnahabhain 22 1990 -fssle
+5170,2013-09-11 09:11:03,bunnahabhain 22 1990 whisky-fssle,UncleTobys,http://www.reddit.com/r/Scotch/comments/1m6cdi/review_bunnahabhain_22_1990_whiskyf%C3%A4ssle_duck/,92.0,islay,,2013-09-11,bunnahabhain 22 1990 -fssle
 5171,2014-12-13 00:12:05,bunnahabhain 22 k&l,ecb29,http://www.reddit.com/r/Scotch/comments/2p5il2/review_kl_bunnahabhain_22/,91.0,islay,,2014-12-13,bunnahabhain 22 k&l
 5172,2015-01-24 11:03:56,bunnahabhain 22 old and rare,jleese,http://www.reddit.com/r/Scotch/comments/2tiw3y/bunnahabhain_12_year_and_bunnahabhain_22_year_old/,89.0,islay,,2015-01-24,bunnahabhain 22 old and rare
 5173,2015-03-11 15:45:00,bunnahabhain 22 vf,Shane_IL,http://www.reddit.com/r/Scotch/comments/2ypg36/vom_fass_bunnahabhain_22yo_review_26/,85.0,islay,,2015-03-11,bunnahabhain 22 vf
@@ -5217,14 +5216,14 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5215,2014-10-16 13:42:02,bunnahabhain 8 gordon & macphail's heavily peated,ShitStainedLegoBrick,http://www.reddit.com/r/Scotch/comments/2jfv3p/multi_review_from_a_tasting_i_attended_recently/,90.0,islay,,2014-10-16,bunnahabhain 8 gordon & macphail heavily peated
 5216,2014-04-20 21:10:28,bunnahabhain 8 gordon & macphail's heavily peated,sphericalbovinae,http://www.reddit.com/r/Scotch/comments/23icgd/reviews_137_this_took_way_too_fucking_long/,82.0,islay,70.0,2014-04-20,bunnahabhain 8 gordon & macphail heavily peated
 5217,2016-02-18 08:10:59,bunnahabhain adelphi liddesdale islay batch 8,TOModera,https://www.reddit.com/r/Scotch/comments/46ev4s/devoz_mystery_sample_review/,81.0,islay,,2016-02-18,bunnahabhain adelphi liddesdale islay batch 8
-5218,2017-01-30 11:20:25,bunnahabhain ceòbanach,muaddib99,https://www.reddit.com/r/Scotch/comments/5r1z9j/burns_night_2017_includes_reviews_231238/,88.0,islay,,2017-01-27,bunnahabhain ceòbanach
-5219,,bunnahabhain ceòbanach,cjotto9,https://www.reddit.com/r/Scotch/comments/39kxl0/review_61_bunnahabhain_ceobanach/?ref=search_posts,86.0,islay,90.0,,bunnahabhain ceòbanach
-5220,2017-01-10 15:50:34,bunnahabhain ceòbanach,kinohead,https://www.reddit.com/r/Scotch/comments/3do5lk/review_108_bunnahabhain_ceobanach/ ,88.0,islay,,2015-10-01,bunnahabhain ceòbanach
-5221,2016-01-02 16:12:21,bunnahabhain ceòbanach,thatfamousgrouse,https://www.reddit.com/r/Scotch/comments/3z6ysl/review_14_bunnahabhain_ce%C3%B2banach/,89.0,islay,,2016-01-02,bunnahabhain ceòbanach
-5222,2015-10-28 07:51:03,bunnahabhain ceòbanach,TOModera,https://www.reddit.com/r/Scotch/comments/3qjyf3/bunnahabhain_ceobanach_review/,82.0,islay,,2015-10-28,bunnahabhain ceòbanach
-5223,2016-11-14 15:41:47,bunnahabhain ceòbanach,VarianJones,https://www.reddit.com/r/Scotch/comments/5cn4jh/review_1_bunnahabhain_ce%C3%B2banach/,90.0,islay,,2016-11-13,bunnahabhain ceòbanach
-5224,2012-04-11 10:44:59,bunnahabhain cruach mhòna,Esman78,http://www.reddit.com/r/Scotch/comments/rzm1n/bunnahabhain_cruach_mh%C3%B2na_the_review/,78.0,islay,93.0,2012-04-09,bunnahabhain cruach mhòna
-5225,2014-05-28 05:45:46,bunnahabhain cruach mhòna,UncleTobys,http://www.reddit.com/r/Scotch/comments/246m41/review_bunnahabhain_cruach_mhona/,70.0,islay,,2014-05-28,bunnahabhain cruach mhòna
+5218,2017-01-30 11:20:25,bunnahabhain cebanach,muaddib99,https://www.reddit.com/r/Scotch/comments/5r1z9j/burns_night_2017_includes_reviews_231238/,88.0,islay,,2017-01-27,bunnahabhain cebanach
+5219,,bunnahabhain cebanach,cjotto9,https://www.reddit.com/r/Scotch/comments/39kxl0/review_61_bunnahabhain_ceobanach/?ref=search_posts,86.0,islay,90.0,,bunnahabhain cebanach
+5220,2017-01-10 15:50:34,bunnahabhain cebanach,kinohead,https://www.reddit.com/r/Scotch/comments/3do5lk/review_108_bunnahabhain_ceobanach/ ,88.0,islay,,2015-10-01,bunnahabhain cebanach
+5221,2016-01-02 16:12:21,bunnahabhain cebanach,thatfamousgrouse,https://www.reddit.com/r/Scotch/comments/3z6ysl/review_14_bunnahabhain_ce%C3%B2banach/,89.0,islay,,2016-01-02,bunnahabhain cebanach
+5222,2015-10-28 07:51:03,bunnahabhain cebanach,TOModera,https://www.reddit.com/r/Scotch/comments/3qjyf3/bunnahabhain_ceobanach_review/,82.0,islay,,2015-10-28,bunnahabhain cebanach
+5223,2016-11-14 15:41:47,bunnahabhain cebanach,VarianJones,https://www.reddit.com/r/Scotch/comments/5cn4jh/review_1_bunnahabhain_ce%C3%B2banach/,90.0,islay,,2016-11-13,bunnahabhain cebanach
+5224,2012-04-11 10:44:59,bunnahabhain cruach mhna,Esman78,http://www.reddit.com/r/Scotch/comments/rzm1n/bunnahabhain_cruach_mh%C3%B2na_the_review/,78.0,islay,93.0,2012-04-09,bunnahabhain cruach mhna
+5225,2014-05-28 05:45:46,bunnahabhain cruach mhna,UncleTobys,http://www.reddit.com/r/Scotch/comments/246m41/review_bunnahabhain_cruach_mhona/,70.0,islay,,2014-05-28,bunnahabhain cruach mhna
 5226,2017-01-05 20:01:56,bunnahabhain darach ur,anxst,https://www.reddit.com/r/Scotch/comments/1v1p2e/review_3_bunnahabhain_darach_ur/,82.0,islay,,2014-01-12,bunnahabhain darach ur
 5227,2014-06-16 13:41:19,bunnahabhain darach ur,Beer_lips,http://www.reddit.com/r/Scotch/comments/2803r9/my_latest_haul_im_like_a_kid_in_an_adult_candy/ ,84.0,islay,50.0,2014-06-14,bunnahabhain darach ur
 5228,2014-01-10 14:53:16,bunnahabhain darach ur,hailchaos,http://www.reddit.com/r/Scotch/comments/1uw1id/review_68_bunnahabhain_durach_ur/,85.0,islay,,2014-01-10,bunnahabhain darach ur
@@ -5496,7 +5495,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5494,2016-11-02 20:21:57,caol ila 13 2001 hermitage wood g&m,muaddib99,https://www.reddit.com/r/Scotch/comments/5atmxw/reviews_201205_mystery_drams_from_udevoz/,93.0,islay,,2016-11-02,caol ila 13 2001 hermitage wood g&m
 5495,2016-06-15 07:40:37,caol ila 13 2001 hermitage wood g&m,TOModera,https://www.reddit.com/r/Scotch/comments/4o737r/caol_ila_2001_gordon_macphail_hermitage_wood/,81.0,islay,,2016-06-15,caol ila 13 2001 hermitage wood g&m
 5496,2016-11-17 02:04:46,caol ila 13 2001 hermitage wood g&m,throzen,https://www.reddit.com/r/Scotch/comments/5av85o/review_22_gm_caol_ila_hermitage_2001/,85.0,islay,,2016-11-03,caol ila 13 2001 hermitage wood g&m
-5497,2012-03-03 18:39:06,caol ila 13 chieftain’s medoc finish,baconhigh,http://www.reddit.com/r/Scotch/comments/qgj0f/mother_of_god/,75.0,islay,,2012-03-02,caol ila 13 chieftain’s medoc finish
+5497,2012-03-03 18:39:06,caol ila 13 chieftains medoc finish,baconhigh,http://www.reddit.com/r/Scotch/comments/qgj0f/mother_of_god/,75.0,islay,,2012-03-02,caol ila 13 chieftains medoc finish
 5498,2014-01-12 16:57:01,caol ila 14 black adder raw cask,Allumina,http://www.reddit.com/r/Scotch/comments/1rbi4k/a_review_blackadder_raw_cask_caol_ila_14/cdli2hw,94.0,islay,,2013-11-06,caol ila 14 black adder raw cask
 5499,2013-12-22 15:26:09,caol ila 14 black adder raw cask,trzk,http://www.reddit.com/r/Scotch/comments/1thdo1/reviews_20_21_caol_ila_12_caol_ila_14_raw_cask/ce7yjcd,96.0,islay,97.0,2013-12-22,caol ila 14 black adder raw cask
 5500,2016-11-02 20:20:35,caol ila 14 cadenhead's cs,muaddib99,https://www.reddit.com/r/Scotch/comments/5atmxw/reviews_201205_mystery_drams_from_udevoz/,86.0,islay,,2016-11-02,caol ila 14 cadenhead cs
@@ -5562,7 +5561,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5560,2012-11-04 20:10:08,caol ila 1979 omc,esajz24,http://www.reddit.com/r/Scotch/comments/12n1g7/review_65_caol_ila_19792005_omc_its_good/,95.0,islay,150.0,2012-11-04,caol ila 1979 omc
 5561,2013-01-21 20:33:54,caol ila 1982 archives,esajz24,http://www.reddit.com/r/Scotch/comments/16y9w5/review_113_archives_caol_ila_19822012_tied_for_my/,95.0,islay,120.0,2013-01-20,caol ila 1982 archives
 5562,2013-05-22 16:08:25,caol ila 1982 archives,Jan-12,http://pt.reddit.com/r/Scotch/comments/1euycv/a_fruity_single_malt_from_islay_caol_ila_1982/,88.0,islay,,2013-05-22,caol ila 1982 archives
-5563,2013-01-15 14:05:47,caol ila 1983 cárn mór vintage,primedape,http://www.reddit.com/r/Scotch/comments/16mx38/review_11_c%C3%A1rn_m%C3%B3r_vintage_1983_caol_ila/,87.0,islay,,2013-01-15,caol ila 1983 cárn mór vintage
+5563,2013-01-15 14:05:47,caol ila 1983 crn mr vintage,primedape,http://www.reddit.com/r/Scotch/comments/16mx38/review_11_c%C3%A1rn_m%C3%B3r_vintage_1983_caol_ila/,87.0,islay,,2013-01-15,caol ila 1983 crn mr vintage
 5564,2016-12-15 09:22:35,caol ila 1983 signatory,Unclimbability,https://www.reddit.com/r/Scotch/comments/5ihk87/caol_ila_ib_reviews_twe_show_report/,86.0,islay,,2016-12-15,caol ila 1983 signatory
 5565,2015-11-13 06:48:29,caol ila 1984 vw,Shane_IL,https://www.reddit.com/r/Scotch/comments/3sndql/caol_ila_1984_vw_review_120/,89.0,islay,,2015-11-13,caol ila 1984 vw
 5566,2016-01-07 05:45:36,caol ila 1988 visitor's centre cask,Unclimbability,https://www.reddit.com/r/Scotch/comments/3rztxv/scotchtrip_part_2_and_reviews_39_bow_bunna_caol/,76.0,islay,,2015-11-08,caol ila 1988 visitor centre cask
@@ -5610,8 +5609,8 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5608,2014-06-16 22:03:06,caol ila 25 gordon & macphail,HawkI84,http://www.reddit.com/r/Scotch/comments/28bhaf/review_9_caol_ila_25_yo_gordon_macphail/,91.0,islay,140.0,2014-06-16,caol ila 25 gordon & macphail
 5609,2012-07-18 12:00:05,caol ila 26 duncan taylor,msheinberg,http://www.reddit.com/r/Scotch/comments/smt2b/caol_ila_26_year_by_duncan_taylor_a_review/ ,,islay,,2012-04-22,caol ila 26 duncan taylor
 5610,2012-03-12 10:02:18,caol ila 27 signatory cs,Texacer,http://www.reddit.com/r/Scotch/comments/qt14o/caol_ila_27_year_cask_strength_signatory/,94.0,islay,,2012-03-12,caol ila 27 signatory cs
-5611,2014-04-20 21:12:49,caol ila 29 cadenhead’s,sphericalbovinae,http://www.reddit.com/r/Scotch/comments/23icgd/reviews_137_this_took_way_too_fucking_long/,90.0,islay,280.0,2014-04-20,caol ila 29 cadenhead’s
-5612,2015-06-18 14:13:12,caol ila 29 cadenhead’s,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/2xi7zv/review_184_caol_ila_29_year_old_cadenhead_small/,92.0,islay,,2015-06-11,caol ila 29 cadenhead’s
+5611,2014-04-20 21:12:49,caol ila 29 cadenheads,sphericalbovinae,http://www.reddit.com/r/Scotch/comments/23icgd/reviews_137_this_took_way_too_fucking_long/,90.0,islay,280.0,2014-04-20,caol ila 29 cadenheads
+5612,2015-06-18 14:13:12,caol ila 29 cadenheads,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/2xi7zv/review_184_caol_ila_29_year_old_cadenhead_small/,92.0,islay,,2015-06-11,caol ila 29 cadenheads
 5613,2015-09-19 08:10:46,caol ila 29 carn mor,criollo_and_barley,https://www.reddit.com/r/Scotch/comments/2kx8kb/port_ellen_caol_ila_review_11_12/,98.0,islay,,2014-11-01,caol ila 29 carn mor
 5614,2016-05-11 09:10:15,caol ila 30,cpfselfbuilt,https://www.reddit.com/r/Scotch/comments/4iv125/reviews_12_caol_ila_12_and_30_year_olds/,96.0,islay,,2016-05-11,caol ila 30
 5615,2016-08-25 10:13:25,caol ila 30,Devoz,https://www.reddit.com/r/Scotch/comments/4eueuj/caol_ila_showdown_ob_30yr_smws_21yr_caol_ila_6yr/,90.0,islay,,2016-04-25,caol ila 30
@@ -5641,7 +5640,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5639,2016-04-29 16:41:09,caol ila 5 hepburn's choice k&l,maxrecline,https://www.reddit.com/r/Scotch/comments/4h1ndj/an_advertisement_for_kl_reviews_4850/,82.0,islay,50.0,2016-04-29,caol ila 5 hepburn choice k&l
 5640,2016-12-13 23:00:02,caol ila 6 hepburn's choice sherry,Imaslapyou,https://www.reddit.com/r/Scotch/comments/5i8pos/review_14_hepburns_choice_caol_ila_6_yr_sherry/?ref=share&ref_source=link,84.0,islay,,2016-12-13,caol ila 6 hepburn choice sherry
 5641,2016-12-02 16:56:31,caol ila 6 hepburn's choice sherry,throwboats,https://www.reddit.com/r/Scotch/comments/5fh30a/review_107_caol_ila_6_hepburns_choice_2009/,88.0,islay,,2016-11-29,caol ila 6 hepburn choice sherry
-5642,2016-11-01 22:06:51,caol ila 6 hepburn’s choice sherry barrel ,nteagle,https://www.reddit.com/r/Scotch/comments/5ann6h/scotchit_review_13_hepburns_choice_sherry_barrel/,86.0,islay,,2016-11-01,caol ila 6 hepburn’s choice sherry barrel
+5642,2016-11-01 22:06:51,caol ila 6 hepburns choice sherry barrel ,nteagle,https://www.reddit.com/r/Scotch/comments/5ann6h/scotchit_review_13_hepburns_choice_sherry_barrel/,86.0,islay,,2016-11-01,caol ila 6 hepburns choice sherry barrel
 5643,2016-08-25 10:16:00,caol ila 6 red wine cask (creative whisky co.),Devoz,https://www.reddit.com/r/Scotch/comments/4eueuj/caol_ila_showdown_ob_30yr_smws_21yr_caol_ila_6yr/,93.0,islay,,2016-04-25,caol ila 6 red wine cask (creative co.)
 5644,2016-11-18 20:31:55,caol ila 7 g&m cask strength binny's,HawkI84,https://www.reddit.com/r/Scotch/comments/5dqe5o/review_246_caol_ila_7_gm_cask_strength/,92.0,islay,60.0,2016-11-18,caol ila seven g&m cask strength binny
 5645,2017-01-01 13:10:09,caol ila 8 unpeated,cake_my_day,http://www.reddit.com/r/Scotch/comments/5lcr0k/caol_ila_8_unpeated_style_a_review/?,88.0,islay,,2016-12-31,caol ila 8 unpeated
@@ -5734,7 +5733,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5732,2015-03-18 13:54:51,caperdonich 19 signatory,jleese,http://www.reddit.com/r/Scotch/comments/2zhwpv/reviews_50_and_51_a_comparison_of_two_ib/,90.0,speyside,,2015-03-18,caperdonich 19 signatory
 5733,2014-08-10 18:42:16,caperdonich 19 signatory,Scotch_Fanatic,http://www.reddit.com/r/Scotch/comments/2d6p0o/signatory_caperdronich_19_1992_review_50/,50.0,speyside,,2014-08-11,caperdonich 19 signatory
 5734,2013-03-18 16:40:16,caperdonich 1972 whiskybase,Jan-12,http://pt.reddit.com/r/Scotch/comments/1ajxzg/a_39_years_old_single_malt_from_a_distillery_that/,86.0,speyside,230.0,2013-03-18,caperdonich 1972 base
-5735,2014-01-17 09:34:39,caperdonich 1992 berry’s,UncleTobys,http://www.reddit.com/r/Scotch/comments/1vg9ay/review_caperdonich_1992_berrys/,80.0,speyside,,2014-01-17,caperdonich 1992 berry’s
+5735,2014-01-17 09:34:39,caperdonich 1992 berrys,UncleTobys,http://www.reddit.com/r/Scotch/comments/1vg9ay/review_caperdonich_1992_berrys/,80.0,speyside,,2014-01-17,caperdonich 1992 berrys
 5736,2013-08-20 19:27:09,caperdonich 1995 berry's,esajz24,http://www.reddit.com/r/Scotch/comments/1krri2/review_caperdonich_19952013_berrys/,88.0,speyside,,2013-08-20,caperdonich 1995 berry
 5737,2017-02-06 05:47:04,caperdonich 35 1972/2008 duncan taylor 'rare auld',TOModera,https://www.reddit.com/r/Scotch/comments/5sds2p/caperdonich_35_19722008_duncan_taylor_rare_auld/,83.0,speyside,,2017-02-06,caperdonich 35 1972/2008 duncan taylor 'rare auld'
 5738,2015-03-18 13:54:07,caperdonich that boutique-y whisky company batch 4,jleese,http://www.reddit.com/r/Scotch/comments/2zhwpv/reviews_50_and_51_a_comparison_of_two_ib/,78.0,speyside,,2015-03-18,caperdonich that boutique-y company batch 4
@@ -5773,7 +5772,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 5771,2015-02-16 20:16:26,catoctin creek roundstone rye,MTMR,http://www.reddit.com/r/bourbon/comments/2w5b1y/catoctin_creek_roundstone_rye_92_proof_a_review/,92.0,rye,53.0,2015-02-16,catoctin creek roundstone rye
 5772,2013-11-23 11:04:01,catskill distilling co buckwheat,fungiside,http://www.reddit.com/r/bourbon/comments/1raivd/review_3_catskill_distilling_cos_buckwheat_otay/,77.0,bourbon,40.0,2013-11-23,catskill distilling co buckwheat
 5773,2016-11-02 04:45:35,catto's rare old,NobleArc,https://www.reddit.com/r/Scotch/comments/5aozfk/reviews_5563_auchentoshan_bowmore_glenfarclas/,80.0,blend,40.0,2016-11-01,catto rare old
-5774,2016-09-06 23:13:22,catto’s rare old,Uptons_BJs,https://www.reddit.com/r/Scotch/comments/51dez3/review_1_cattos_rare_old/,75.0,blend,38.0,2016-09-06,catto’s rare old
+5774,2016-09-06 23:13:22,cattos rare old,Uptons_BJs,https://www.reddit.com/r/Scotch/comments/51dez3/review_1_cattos_rare_old/,75.0,blend,38.0,2016-09-06,cattos rare old
 5775,2016-09-01 18:38:56,cedar ridge iowa bourbon,mfeds,https://www.reddit.com/r/bourbon/comments/2mqgx7/quick_review_cedar_ridge_iowa_bourbon_whiskey/,60.0,bourbon,,2014-11-01,cedar ridge iowa
 5776,2016-09-01 15:39:00,cedar ridge iowa single malt barrel #28 sauternes cask,Mfeds,https://www.reddit.com/r/bourbon/comments/4nrqvw/quick_review_cedar_ridge_iowa_single_malt_single/,75.0,america,,2016-06-30,cedar ridge iowa single malt barrel #28 sauternes cask
 5777,2017-02-26 21:01:37,centennial rye dark chocolate,muaddib99,https://www.reddit.com/r/worldwhisky/comments/5weadm/reviews_8788_highwood_flavoured_whiskies_white/,19.0,canada,,2017-02-26,centennial rye dark chocolate
@@ -6601,9 +6600,9 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 6599,2015-06-18 14:17:45,crown royal special reserve,Whisky_Lads,http://www.reddit.com/r/worldwhisky/comments/2yodi9/ww_review_20_crown_royal_limited_edition/,82.0,canada,,2015-06-11,crown royal special reserve
 6600,2012-10-17 01:47:20,crown royal xr red,egzwygart,http://www.reddit.com/r/worldwhisky/comments/11ma14/for_my_beloved_texacer_a_review_of_crown_royal_xr/,85.0,canada,100.0,2012-10-17,crown royal xr red
 6601,2016-09-27 12:14:56,cu bocan 1988,Shane_IL,https://www.reddit.com/r/Scotch/comments/54rmrz/cu_bocan_1988_review_335/,75.0,highland,,2016-09-27,cu bocan 1988
-6602,2014-06-06 22:19:06,cú dhub,kinohead,http://www.reddit.com/r/Scotch/comments/27ivwq/review_53_cu_dhub/,62.0,speyside,,2014-06-06,cú dhub
-6603,2014-08-18 03:54:24,cú dhub,Rallerboy888,http://www.reddit.com/r/Scotch/comments/2cvfj1/review_2_c%C3%BA_dhub_the_black_single_malt/,74.0,speyside,50.0,2014-08-08,cú dhub
-6604,2013-03-05 04:34:42,cú dhub,raygunak,http://www.reddit.com/r/Scotch/comments/19p7z4/review_1_cu_dhub_a_black_single_malt_scotch/,,speyside,,2013-03-05,cú dhub
+6602,2014-06-06 22:19:06,c dhub,kinohead,http://www.reddit.com/r/Scotch/comments/27ivwq/review_53_cu_dhub/,62.0,speyside,,2014-06-06,c dhub
+6603,2014-08-18 03:54:24,c dhub,Rallerboy888,http://www.reddit.com/r/Scotch/comments/2cvfj1/review_2_c%C3%BA_dhub_the_black_single_malt/,74.0,speyside,50.0,2014-08-08,c dhub
+6604,2013-03-05 04:34:42,c dhub,raygunak,http://www.reddit.com/r/Scotch/comments/19p7z4/review_1_cu_dhub_a_black_single_malt_scotch/,,speyside,,2013-03-05,c dhub
 6605,2014-02-14 20:39:25,cumberland cask barrel cut tennessee straight whiskey,signde,http://www.reddit.com/r/bourbon/comments/1v8vqc/review_4_cumberland_cask_barrel_cut_tennessee/,86.0,america,40.0,2014-01-15,cumberland cask barrel cut straight
 6606,2015-06-22 15:12:09,cut spike nebraska single malt,razzafrachen,http://www.reddit.com/r/bourbon/comments/3aoc9j/review_18_udevilsadvocate23s_mystery_sample/csegiwx,83.0,america,,2015-06-21,cut spike nebraska single malt
 6607,2014-10-30 15:18:16,cutty sark,Allurex,http://www.reddit.com/r/Scotch/comments/2ktcvp/reviews_2122_cutty_sark_and_cutty_sark/,66.0,blend,19.0,2014-10-30,cutty sark
@@ -6644,7 +6643,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 6642,2014-10-24 08:44:44,dad's hat rye port barrel finished,LetThereBeR0ck,http://www.reddit.com/r/bourbon/comments/2k713i/review_dads_hat_rye_port_barrel_finished/,72.0,rye,,2014-10-24,dad hat rye port barrel finished
 6643,2015-05-07 21:12:52,dad's hat rye vermouth barrel finished,Ethanized,https://www.reddit.com/r/bourbon/comments/358sck/bourbon_review_25_dads_hat_rye_vermouth_finish/,85.0,rye,65.0,2015-05-06,dad hat rye vermouth barrel finished
 6644,2015-01-22 10:53:25,dad's hat rye vermouth barrel finished,mentel42,http://www.reddit.com/r/bourbon/comments/2t8uws/dads_hat_rye_vermouth_finished_review_45/,70.0,rye,,2015-01-21,dad hat rye vermouth barrel finished
-6645,2015-01-05 09:45:49,dad’s hat pennsylvania straight rye whiskey 2,kdz13,http://www.reddit.com/r/bourbon/comments/2r56f1/dads_hat_pennsylvania_straight_rye_whiskey_a/,71.0,rye,60.0,2015-01-02,dad’s hat pennsylvania straight rye 2
+6645,2015-01-05 09:45:49,dads hat pennsylvania straight rye whiskey 2,kdz13,http://www.reddit.com/r/bourbon/comments/2r56f1/dads_hat_pennsylvania_straight_rye_whiskey_a/,71.0,rye,60.0,2015-01-02,dads hat pennsylvania straight rye 2
 6646,2013-03-01 09:38:53,dailuaine 11 hart brothers,ayedfy,http://www.reddit.com/r/Scotch/comments/19gkz2/review_two_mystery_drams_from_uncletobys/c8ntiml,65.0,speyside,60.0,2013-01-03,dailuaine 11 hart brothers
 6647,2013-01-21 06:16:56,dailuaine 11 hart brothers,UncleTobys,http://www.reddit.com/r/Scotch/comments/16zh9e/review_dailuaine_11_hart_brothers_ib_special_part/,74.0,speyside,60.0,2013-01-21,dailuaine 11 hart brothers
 6648,2016-03-30 12:39:20,dailuaine 11 smws 41.68,Sinjun86,https://www.reddit.com/r/Scotch/comments/4cluh5/smws_4168_dailuaine_11yr_review_120/,90.0,speyside,,2016-03-30,dailuaine 11 smws 41.68
@@ -6930,7 +6929,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 6928,,delilahs 15th rye,signde,https://www.reddit.com/r/bourbon/comments/5k078e/chicago_whiskey_bars_booze_tour/,90.0,rye,,2016-12-23,delilahs 15th rye
 6929,2012-07-02 16:29:03,desert queen,TOModera,http://www.reddit.com/r/Scotch/comments/vy0co/desert_queen_malt_whiskey_a_review/,72.0,india,,2012-07-02,desert queen
 6930,2016-11-02 04:44:56,deveron 12,NobleArc,https://www.reddit.com/r/Scotch/comments/5aozfk/reviews_5563_auchentoshan_bowmore_glenfarclas/,74.0,highland,71.0,2016-11-01,deveron 12
-6931,2014-07-29 11:32:52,devil’s share california small batch,Texacer,http://www.reddit.com/r/bourbon/comments/2c1xhp/devils_share_california_small_batch_bourbon_a/,53.0,bourbon,,2014-07-29,devil’s share california small batch
+6931,2014-07-29 11:32:52,devils share california small batch,Texacer,http://www.reddit.com/r/bourbon/comments/2c1xhp/devils_share_california_small_batch_bourbon_a/,53.0,bourbon,,2014-07-29,devils share california small batch
 6932,2012-07-16 12:54:52,dew of ben nevis,ErisianRationalist,http://www.reddit.com/r/Scotch/comments/wnk1a/review_2_dew_of_ben_nevis_blended_scotch_whisky/,55.0,highland ,,2012-07-16,dew of ben nevis
 6933,2016-03-10 10:40:06,dewar's 12,CandyMan77,https://www.reddit.com/r/Scotch/comments/49u6x8/review_18_dewars_12_is_a_surprisingly_delicious/,83.0,blend,,2016-03-10,dewar 12
 6934,2014-05-20 19:48:57,dewar's 12,droidicus,http://www.reddit.com/r/Scotch/comments/262vej/dewers_12_review_4/,82.0,blend,,2014-05-20,dewar 12
@@ -7180,7 +7179,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 7178,2016-08-08 10:49:48,edradour 10 straight from the cask,gildedrain,https://www.reddit.com/r/Scotch/comments/4wqob5/edradour_10_year_straight_from_the_cask_607abv/,94.0,highland,,2016-08-08,edradour 10 straight from the cask
 7179,,edradour 11 bourbon cask,cjotto9,https://www.reddit.com/r/Scotch/comments/3zfe8g/review_146_edradour_11_year_bourbon_cask/?ref=search_posts,71.0,highland,70.0,,edradour 11 cask
 7180,2017-03-08 13:08:28,edradour 11 chateauneuf du pape cask finish,throwboats,https://www.reddit.com/r/Scotch/comments/5x07zl/review_196_edradour_11_chateauneuf_du_pape_cask/,93.0,highland,,2017-03-02,edradour 11 chateauneuf du pape cask finish
-7181,2016-09-12 11:43:22,edradour 11 chateauneuf du pape finish (binny’s),vertical_bog,https://www.reddit.com/r/Scotch/comments/50zgaw/tasting_4_edradour_reviews_2225/,86.0,highland,,2016-09-03,edradour 11 chateauneuf du pape finish (binny’s)
+7181,2016-09-12 11:43:22,edradour 11 chateauneuf du pape finish (binnys),vertical_bog,https://www.reddit.com/r/Scotch/comments/50zgaw/tasting_4_edradour_reviews_2225/,86.0,highland,,2016-09-03,edradour 11 chateauneuf du pape finish (binnys)
 7182,2016-10-27 09:24:44,edradour 11 straight from the cask burgundy finish,belbivfreeordie,https://www.reddit.com/r/ScotchSwap/comments/59ioer/its_happening_2016_mystery_swap_review_thread_go/d99e359/?context=3,87.0,highland,,2016-10-26,edradour 11 straight from the cask burgundy finish
 7183,2016-09-27 16:20:02,edradour 11 straight from the cask burgundy finish,Brent_in_Aurora,https://www.reddit.com/r/Scotch/comments/54ob4s/edradour_11_sftb_586/,85.0,highland,55.0,2016-09-26,edradour 11 straight from the cask burgundy finish
 7184,2015-07-07 14:30:26,edradour 12 caledonia,boonz,https://www.reddit.com/r/Scotch/comments/3cgmkg/review_4_edradour_caledonia_12/,72.0,highland,55.0,2015-07-07,edradour 12 caledonia
@@ -7221,7 +7220,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 7219,,edradour barolo cask,cjotto9,https://www.reddit.com/r/Scotch/comments/4bc7ew/review_190_edradour_barolo_cask/?ref=search_posts,81.0,highland,75.0,,edradour barolo cask
 7220,2015-08-06 12:15:11,edradour barolo cask,LetThereBeR0ck,http://www.reddit.com/r/Scotch/comments/3g038u/edradour_trifecta_review_edradour_barolo_cask/,87.0,highland,,2015-08-06,edradour barolo cask
 7221,2015-08-06 12:15:47,edradour caledonia,LetThereBeR0ck,http://www.reddit.com/r/Scotch/comments/3g038u/edradour_trifecta_review_edradour_barolo_cask/,89.0,highland,,2015-08-06,edradour caledonia
-7222,2014-01-16 02:28:10,edradour châteauneuf du pape finish,noblearc,http://www.reddit.com/r/Scotch/comments/1v9dkp/my_reviews_9_15/,83.0,highland ,115.0,2014-01-15,edradour châteauneuf du pape finish
+7222,2014-01-16 02:28:10,edradour chteauneuf du pape finish,noblearc,http://www.reddit.com/r/Scotch/comments/1v9dkp/my_reviews_9_15/,83.0,highland ,115.0,2014-01-15,edradour chteauneuf du pape finish
 7223,2014-09-29 17:02:29,edradour port cask,jleese,http://www.reddit.com/r/Scotch/comments/2htvud/edradour_ruby_port_matured_batch_2_a_review/,85.0,highland,,2014-09-29,edradour port cask
 7224,2014-01-01 10:21:38,edradour port cask,Texacer,http://www.reddit.com/r/Scotch/comments/1u5tec/edradour_port_cask_a_review/,90.0,highland ,,2014-01-01,edradour port cask
 7225,2015-01-23 15:10:03,edradour ruby port,jleese,http://www.reddit.com/r/Scotch/comments/2htvud/edradour_ruby_port_matured_batch_2_a_review/,89.0,highland,,2014-10-01,edradour ruby port
@@ -8312,9 +8311,9 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 8310,2014-07-07 14:09:53,glen garioch founder's reserve,thatguy142,http://www.reddit.com/r/Scotch/comments/2a2n7q/glen_garioch_founders_reserve_a_review/,88.0,highland ,37.0,2014-07-07,glen garioch founder reserve
 8311,2014-06-19 08:12:56,glen garioch founder's reserve,TOModera,http://www.reddit.com/r/Scotch/comments/28jqwq/glen_garioch_1797_founders_reserve_review/,82.0,highland ,,2014-06-19,glen garioch founder reserve
 8312,2015-01-16 15:13:42,glen garioch founder's reserve,uninnocent,http://www.reddit.com/r/Scotch/comments/2so2e4/review_02_glen_garioch_founders_reserve/,84.0,highland,,2015-01-16,glen garioch founder reserve
-8313,2016-07-15 11:02:17,glen garioch founder’s reserve,Gr1ggs,https://www.reddit.com/r/Scotch/comments/4rquhj/review_5_glen_garioch_founders_reserve/,73.0,highland,,2016-07-07,glen garioch founder’s reserve
-8314,2013-07-28 13:11:46,glen garioch founder’s reserve,mattofmattfame,http://www.reddit.com/r/Scotch/comments/1j856y/review_82_glen_garioch_founders_reserve/,81.0,highland ,,2013-07-28,glen garioch founder’s reserve
-8315,2013-08-15 10:40:31,glen garioch founder’s reserve,reddbdb,http://www.reddit.com/r/Scotch/comments/1kf9d8/review_40_glen_garioch_founders_reserve/,83.0,highland ,45.0,2013-08-14,glen garioch founder’s reserve
+8313,2016-07-15 11:02:17,glen garioch founders reserve,Gr1ggs,https://www.reddit.com/r/Scotch/comments/4rquhj/review_5_glen_garioch_founders_reserve/,73.0,highland,,2016-07-07,glen garioch founders reserve
+8314,2013-07-28 13:11:46,glen garioch founders reserve,mattofmattfame,http://www.reddit.com/r/Scotch/comments/1j856y/review_82_glen_garioch_founders_reserve/,81.0,highland ,,2013-07-28,glen garioch founders reserve
+8315,2013-08-15 10:40:31,glen garioch founders reserve,reddbdb,http://www.reddit.com/r/Scotch/comments/1kf9d8/review_40_glen_garioch_founders_reserve/,83.0,highland ,45.0,2013-08-14,glen garioch founders reserve
 8316,2012-07-13 09:04:47,glen grant 10,DE884,http://www.reddit.com/r/Scotch/comments/whyrg/glen_grant_10_something_simple_review/,79.0,speyside,,2012-07-07,glen grant 10
 8317,2016-07-10 15:22:02,glen grant 10,GuidoN1974,https://www.reddit.com/r/Scotch/comments/4s4i5n/review_7_glengrant_10_years/?st=iqh1njwr&sh=dc8d4e5d,80.0,speyside,29.0,2016-07-10,glen grant 10
 8318,2013-11-26 18:22:56,glen grant 10,Porkpants81,http://www.reddit.com/r/Scotch/comments/1rj999/review_4_glen_grant_10/,88.0,speyside,42.0,2013-11-26,glen grant 10
@@ -8364,7 +8363,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 8362,2015-05-09 06:30:31,glen grant five decades,cake_my_day,http://www.reddit.com/r/Scotch/comments/3534m6/glen_grant_five_decades_a_review/,85.0,speyside,,2015-05-06,glen grant five
 8363,,"glen grant smws 9.94 ""jam & jerusalem""",Lasidar,https://www.reddit.com/r/Scotch/comments/49rli9/reviews_6365_smws_994_790_and_3213_a_new_members/,88.0,speyside,,2016-03-09,"glen grant smws 9.94 ""jam & jerusalem"""
 8364,2016-08-11 08:06:46,"glen grant smws 9.94 ""jam & jerusalem""",TOModera,https://www.reddit.com/r/Scotch/comments/4x7uwr/glen_grant_smws_994_jam_jerusalem_review/,73.0,speyside,,2016-08-11,"glen grant smws 9.94 ""jam & jerusalem"""
-8365,2017-03-03 20:29:56,glen grant smws 9.95 “playful popping in a fruit market.”,hardyman7,https://www.reddit.com/r/Scotch/comments/5xemnq/glen_grant_smws_995_playful_popping_in_a_fruit/,82.0,speyside,195.0,2017-03-03,glen grant smws 9.95 “playful popping in a fruit market.”
+8365,2017-03-03 20:29:56,glen grant smws 9.95 playful popping in a fruit market.,hardyman7,https://www.reddit.com/r/Scotch/comments/5xemnq/glen_grant_smws_995_playful_popping_in_a_fruit/,82.0,speyside,195.0,2017-03-03,glen grant smws 9.95 playful popping in a fruit market.
 8366,2014-03-16 19:44:39,glen grant the major's reserve,ahugenerd,http://www.reddit.com/r/Scotch/comments/1zomd2/review_17_glen_grant_the_majors_reserve/,75.0,speyside,40.0,2014-03-06,glen grant the major reserve
 8367,2014-06-17 20:37:02,glen grant the major's reserve,Gator19,http://www.reddit.com/r/Scotch/comments/28cibs/reviews_15/,82.0,speyside,,2014-06-18,glen grant the major reserve
 8368,2016-05-20 16:51:20,glen grant the major's reserve,lille45,https://www.reddit.com/r/Scotch/comments/4k9r9v/review_9_10_whiskies_on_the_cheap_glen_grant/,65.0,speyside,26.0,2016-05-20,glen grant the major reserve
@@ -8478,7 +8477,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 8476,2016-05-19 18:57:39,glen scotia 1992 cask strength gordon & macphail,uninnocent,https://www.reddit.com/r/Scotch/comments/4k5huq/review_22_glen_scotia_1992_cask_strength_gordon/,90.0,campbeltown,,2016-05-19,glen scotia 1992 cask strength gordon & macphail
 8477,2016-10-07 00:42:41,glen scotia 1992 thosop,Implar,https://www.reddit.com/r/Scotch/comments/569wt5/review_18_glen_scotia_1992_thosop/,88.0,campbeltown,,2016-10-07,glen scotia 1992 thosop
 8478,2015-04-06 04:11:36,glen scotia 21,cake_my_day,http://www.reddit.com/r/Scotch/comments/31kdv6/glen_scotia_21_a_review/,85.0,campbeltown,,2015-04-05,glen scotia 21
-8479,2013-12-24 10:32:53,glen scotia 21 cadenhead’s,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/1tjg4f/review_39_43_campbeltown_whisky_tasting/,88.0,campbeltown,65.0,2013-12-23,glen scotia 21 cadenhead’s
+8479,2013-12-24 10:32:53,glen scotia 21 cadenheads,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/1tjg4f/review_39_43_campbeltown_whisky_tasting/,88.0,campbeltown,65.0,2013-12-23,glen scotia 21 cadenheads
 8480,2014-12-29 14:52:10,glen scotia 21 smws 93.57,Sinjun86,http://www.reddit.com/r/Scotch/comments/2qqtjt/smws_9357_glen_scotia_21yr_review_71/,88.0,campbeltown,,2014-12-29,glen scotia 21 smws 93.57
 8481,,glen scotia 22 ,cjotto9,https://www.reddit.com/r/Scotch/comments/4xtt7c/review_264_glen_scotia_22_year_signatory/?ref=search_posts,86.0,campbeltown,100.0,,glen scotia 22
 8482,2016-12-21 07:15:50,glen scotia 24 hart brothers madeira ,buddy_dosser,https://www.reddit.com/r/Scotch/comments/5jju0q/review_41_24yo_glen_scotia_hart_brothers_madeira/,88.0,campbeltown,,2016-12-21,glen scotia 24 hart brothers madeira
@@ -8899,7 +8898,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 8897,2015-07-27 18:30:21,glenesk 1984 gordon & macphail,gregbenson314,https://www.reddit.com/r/Scotch/comments/2s3zfk/1984_glenesk_gordon_and_macphail_review/,,highland,,2015-01-11,glenesk 1984 gordon & macphail
 8898,2017-01-23 06:12:06,glenesk 1984 gordon & macphail connoisseur's choice,TOModera,https://www.reddit.com/r/Scotch/comments/5poaz6/glenesk_1984_gordon_macphail_connoisseurs_choice/,70.0,highland,,2017-01-23,glenesk 1984 gordon & macphail connoisseur choice
 8899,2016-12-10 15:58:56,glenfarclas '103' for twe,Buddy_dosser,https://www.reddit.com/r/Scotch/comments/5hmjac/review_39_glenfarclas_103_for_twe_586/,86.0,speyside ,,2016-12-10,glenfarclas '103' for twe
-8900,2016-02-21 19:36:42,glenfarclas £511.19s.0d family reserve,JCappy,https://www.reddit.com/r/Scotch/comments/46yh4h/review_65_glenfarclas_51119s0d_family_reserve/,84.0,speyside,,2016-02-21,glenfarclas £511.19s.0d family reserve
+8900,2016-02-21 19:36:42,glenfarclas 511.19s.0d family reserve,JCappy,https://www.reddit.com/r/Scotch/comments/46yh4h/review_65_glenfarclas_51119s0d_family_reserve/,84.0,speyside,,2016-02-21,glenfarclas 511.19s.0d family reserve
 8901,2014-01-12 17:05:51,glenfarclas 10,Allumina,http://www.reddit.com/r/Scotch/comments/1sgokp/a_vertical_review_glenfarclas_105_10_12_17_21_25/cdxe2xn,83.0,speyside,,2013-12-01,glenfarclas 10
 8902,2014-12-08 11:30:51,glenfarclas 10,ayedfy,http://www.reddit.com/r/Scotch/comments/2onulg/review_glenfarclas_10/cmouxnd,80.0,speyside,,2014-12-09,glenfarclas 10
 8903,2016-02-07 08:50:34,glenfarclas 10,boonz,https://www.reddit.com/r/Scotch/comments/44ltxg/review_5_glenfarclas_10/,80.0,speyside,32.0,2016-02-07,glenfarclas 10
@@ -10187,7 +10186,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 10185,2015-10-07 15:08:37,glenlivet nadurra oloroso,muaddib99,https://www.reddit.com/r/Scotch/comments/3nvr1v/corrected_review_112_glenlivet_nadurra_olorosso/,87.0,speyside,,2015-10-06,glenlivet nadurra oloroso
 10186,2014-08-11 18:22:38,glenlivet nadurra oloroso,tortrix,http://www.reddit.com/r/Scotch/comments/2da6kg/review_15_glenlivet_nadurra_oloroso/,89.0,speyside,77.0,2014-08-11,glenlivet nadurra oloroso
 10187,2017-02-16 15:18:03,glenlivet nadurra oloroso,Boyd86,https://www.reddit.com/r/Scotch/comments/5uhx4k/review_10_glenlivet_nadurra_oloroso/,82.0,speyside,,2017-02-16,glenlivet nadurra oloroso
-10188,2016-06-28 12:06:50,glenlivet nàdurra peated,Shane_IL,https://www.reddit.com/r/Scotch/comments/4qai0t/glenlivet_n%C3%A0durra_peated_whisky_cask_finish/,83.0,speyside,,2016-06-28,glenlivet nàdurra peated
+10188,2016-06-28 12:06:50,glenlivet ndurra peated,Shane_IL,https://www.reddit.com/r/Scotch/comments/4qai0t/glenlivet_n%C3%A0durra_peated_whisky_cask_finish/,83.0,speyside,,2016-06-28,glenlivet ndurra peated
 10189,2016-09-17 13:15:42,glenlivet solera vatted,revanon,https://www.reddit.com/r/Scotch/comments/538drz/review_69_glenlivet_solera_vatted/,77.0,speyside,65.0,2016-09-17,glenlivet solera vatted
 10190,2017-03-06 21:48:02,glenlivet xxv,Lasidar,https://www.reddit.com/r/Scotch/comments/5xy5mw/review_120_glenlivet_xxv/,87.0,speyside,,2017-03-06,glenlivet xxv
 10191,2012-07-18 11:18:18,glenlochy 1970 signatory,DE884,http://www.reddit.com/r/Scotch/comments/wrj7h/glenlochy_1970_signatory_review/,83.0,highland ,,2012-07-18,glenlochy 1970 signatory
@@ -10927,7 +10926,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 10925,2016-07-20 17:26:58,green spot,washeewashee,https://www.reddit.com/r/worldwhisky/comments/4ttr01/review_12_green_spot/,80.0,ireland,56.0,2016-07-20,green spot
 10926,2017-03-06 15:10:43,green spot,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/5xvwz6/ww_reviews_4748_green_spot_and_green_spot_chateau/,85.0,ireland,,2017-03-06,green spot
 10927,2017-03-07 20:02:28,green spot chateau leoville barton,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/5xvwz6/ww_reviews_4748_green_spot_and_green_spot_chateau/,89.0,ireland,,2017-03-06,green spot chateau leoville barton
-10928,2017-01-31 10:14:14,green spot château léoville barton,xile_,https://www.reddit.com/r/worldwhisky/comments/5r60kb/ww_review_13_green_spot_ch%C3%A2teau_l%C3%A9oville_barton/,85.0,ireland,,2017-01-30,green spot château léoville barton
+10928,2017-01-31 10:14:14,green spot chteau loville barton,xile_,https://www.reddit.com/r/worldwhisky/comments/5r60kb/ww_review_13_green_spot_ch%C3%A2teau_l%C3%A9oville_barton/,85.0,ireland,,2017-01-30,green spot chteau loville barton
 10929,2013-10-26 13:22:52,greenore 8 single grain,Dworgi,http://www.reddit.com/r/worldwhisky/comments/1p9f47/review_3_greenore_8_single_grain/cd02are,72.0,ireland,,2013-10-26,greenore 8 single grain
 10930,2012-12-12 09:52:24,greenore 8 single grain,Hello_Nasty,http://www.reddit.com/r/worldwhisky/comments/14q888/review_greenore_8_year_old_irish_grain_whisky/,,ireland,,2012-12-12,greenore 8 single grain
 10931,2012-07-27 16:55:45,greenore 8 single grain,Jan-12,http://pt.reddit.com/r/Scotch/comments/x9oo3/an_irishman_you_wont_meet_every_day_the_greenore/,77.0,ireland,50.0,2012-07-27,greenore 8 single grain
@@ -11781,13 +11780,13 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 11779,2012-03-07 12:35:10,highland park 41 1968 duncan taylor peerless,Texacer,http://www.reddit.com/r/Scotch/comments/qm1nt/highland_park_41_year_old_1968_peerless_duncan/ ,90.0,island,,2012-03-07,highland park 41 1968 duncan taylor peerless
 11780,2014-10-30 21:54:46,highland park 8 macphail's collection,jamesrc,http://www.reddit.com/r/Scotch/comments/2kujw6/review_11_highland_park_8_macphails_collection/,83.0,island,30.0,2014-10-30,highland park 8 macphail collection
 11781,2014-06-03 17:50:06,highland park 8 macphail's collection,kinohead,http://www.reddit.com/r/Scotch/comments/278qmy/review_52_highland_park_8_year_old_cask_strength/,89.0,island,,2014-06-03,highland park 8 macphail collection
-11782,2013-02-25 19:22:33,highland park 8 macphail’s collection,BaroquenRecord,http://www.reddit.com/r/Scotch/comments/1981us/highland_park_8_first_review/,88.0,island,30.0,2013-02-25,highland park 8 macphail’s collection
-11783,2012-03-25 20:09:01,highland park 8 macphail’s collection,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/rdjmy/review_the_macphails_collection_highland_park_8/,85.0,island,34.0,2012-03-25,highland park 8 macphail’s collection
-11784,2012-11-06 18:28:16,highland park 8 macphail’s collection,cpelletier89,http://www.reddit.com/r/Scotch/comments/12rfss/reviews_6860_highland_park_vertical_8_18_25_years/c6xisuw,80.0,island,,2012-11-06,highland park 8 macphail’s collection
-11785,2013-09-24 14:01:51,highland park 8 macphail’s collection,reddbdb,http://www.reddit.com/r/Scotch/comments/132wc1/gordon_macphail_tasting_and_review_of_highland/,81.0,island,35.0,2012-11-12,highland park 8 macphail’s collection
-11786,2012-06-24 23:06:21,highland park 8 macphail’s collection,RustyPipes,http://www.reddit.com/r/Scotch/comments/ssymq/review_mystery_whisky_from_bigpapicdog_part_of_a/,84.0,island,,2012-04-25,highland park 8 macphail’s collection
-11787,2012-05-16 20:54:02,highland park 8 macphail’s collection,Texacer,http://www.reddit.com/r/Scotch/comments/tqyc0/highland_park_8_year_from_gordon_macphail_a_review/,84.0,island,,2012-05-16,highland park 8 macphail’s collection
-11788,2012-11-24 18:51:41,highland park 8 macphail’s collection,wvlurker,http://www.reddit.com/r/Scotch/comments/13qkcp/review_8_highland_park_8_a_gift_from_baronscarpia/c768tpt,89.0,island,,2012-11-24,highland park 8 macphail’s collection
+11782,2013-02-25 19:22:33,highland park 8 macphails collection,BaroquenRecord,http://www.reddit.com/r/Scotch/comments/1981us/highland_park_8_first_review/,88.0,island,30.0,2013-02-25,highland park 8 macphails collection
+11783,2012-03-25 20:09:01,highland park 8 macphails collection,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/rdjmy/review_the_macphails_collection_highland_park_8/,85.0,island,34.0,2012-03-25,highland park 8 macphails collection
+11784,2012-11-06 18:28:16,highland park 8 macphails collection,cpelletier89,http://www.reddit.com/r/Scotch/comments/12rfss/reviews_6860_highland_park_vertical_8_18_25_years/c6xisuw,80.0,island,,2012-11-06,highland park 8 macphails collection
+11785,2013-09-24 14:01:51,highland park 8 macphails collection,reddbdb,http://www.reddit.com/r/Scotch/comments/132wc1/gordon_macphail_tasting_and_review_of_highland/,81.0,island,35.0,2012-11-12,highland park 8 macphails collection
+11786,2012-06-24 23:06:21,highland park 8 macphails collection,RustyPipes,http://www.reddit.com/r/Scotch/comments/ssymq/review_mystery_whisky_from_bigpapicdog_part_of_a/,84.0,island,,2012-04-25,highland park 8 macphails collection
+11787,2012-05-16 20:54:02,highland park 8 macphails collection,Texacer,http://www.reddit.com/r/Scotch/comments/tqyc0/highland_park_8_year_from_gordon_macphail_a_review/,84.0,island,,2012-05-16,highland park 8 macphails collection
+11788,2012-11-24 18:51:41,highland park 8 macphails collection,wvlurker,http://www.reddit.com/r/Scotch/comments/13qkcp/review_8_highland_park_8_a_gift_from_baronscarpia/c768tpt,89.0,island,,2012-11-24,highland park 8 macphails collection
 11789,2013-07-12 11:09:50,highland park cask strength edition,chasz788,http://www.reddit.com/r/Scotch/comments/1i3mit/review_12_highland_park_cask_strength/,94.0,island,,2013-08-11,highland park cask strength edition
 11790,2013-08-20 12:11:53,highland park cask strength edition,Dworgi,http://www.reddit.com/r/Scotch/comments/1kqsuo/review_56_highland_park_cask_strength/cbrnrf7,80.0,island,40.0,2013-08-20,highland park cask strength edition
 11791,2013-04-25 18:31:29,highland park cask strength edition,Shugoras,http://www.reddit.com/r/Scotch/comments/1d46we/review_1_highland_park_cask_strength_edition/,89.0,island,,2013-04-26,highland park cask strength edition
@@ -11899,7 +11898,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 11897,2012-03-29 21:40:18,ichiro's malt: mizunara wood reserve,adremeaux,http://www.reddit.com/r/Scotch/comments/rkee6/ichiros_malt_mizunara_wood_reserve_nvreview/,89.0,japan,125.0,2012-03-26,ichiro malt: mizunara wood reserve
 11898,2016-03-19 12:46:55,ichiro's malt: mizunara wood reserve,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/4b3zs4/ww_review_1213_ichiros_malt_mizunara_wood_reserve/,80.0,japan,,2016-03-19,ichiro malt: mizunara wood reserve
 11899,2017-02-23 15:37:48,ichiro's mwr,theslicknick6,https://www.reddit.com/r/worldwhisky/comments/5fepcy/review_5_ichiros_mwr/,70.0,japan,,2016-11-28,ichiro mwr
-11900,2017-01-26 13:56:51,ichiro’s malt chichibu the floor malted,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/5qce32/ww_review_37_ichiros_malt_chichibu_the_floor/,85.0,japan,,2017-01-26,ichiro’s malt chichibu the floor malted
+11900,2017-01-26 13:56:51,ichiros malt chichibu the floor malted,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/5qce32/ww_review_37_ichiros_malt_chichibu_the_floor/,85.0,japan,,2017-01-26,ichiros malt chichibu the floor malted
 11901,2014-01-05 11:52:40,ileach,bassefrom,http://www.reddit.com/r/Scotch/comments/1ue5si/the_ileach_1st_review/,65.0,islay,45.0,2014-01-04,ileach
 11902,2016-05-30 13:21:27,ileach,bieliebielie,https://www.reddit.com/r/Scotch/comments/4ln50i/review_24_the_ileach/,55.0,islay,25.0,2016-05-29,ileach
 11903,2015-01-09 13:45:20,ileach,fat-chunk,https://www.reddit.com/r/Scotch/comments/2rvbas/review_11_the_ileach_the_man_from_islay/,68.0,islay,,2015-01-09,ileach
@@ -12321,7 +12320,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 12319,2012-10-17 23:28:08,jim beam white label,Zillah1985,http://www.reddit.com/r/bourbon/comments/wuskw/just_a_lil_jim_beam_bourbon_review/,72.0,bourbon,,2012-07-19,jim beam white
 12320,,jim beam white label,signde,https://www.reddit.com/r/bourbon/comments/50t3d3/community_review_36_jim_beam/d76ouci/,65.0,bourbon,,2016-09-02,jim beam white
 12321,2014-11-29 10:43:31,jim beam white label 7 red cap,headlessparrot,http://www.reddit.com/r/bourbon/comments/2nqiln/review_jim_beam_white_label_7_years_old_white/,80.0,bourbon,,2014-11-28,jim beam white seven red cap
-12322,2015-01-02 21:16:32,jimmy’s texas bourbon,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2grufp/review_74_jimmys_texas_bourbon/,84.0,bourbon,50.0,2014-09-18,jimmy’s texas
+12322,2015-01-02 21:16:32,jimmys texas bourbon,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2grufp/review_74_jimmys_texas_bourbon/,84.0,bourbon,50.0,2014-09-18,jimmys texas
 12323,2014-08-28 17:51:05,jj neukomm missouri malt,TheMemeIsALie,http://www.reddit.com/r/bourbon/comments/2dxpc6/review_7_spirits_of_st_louis_jj_neukomm_missouri/,39.0,america,,2014-08-18,jj neukomm missouri malt
 12324,2013-07-22 17:19:20,john b. stetson kentucky straight bourbon whiskey,crkhobbit,http://www.reddit.com/r/bourbon/comments/1ig8an/john_b_stetson_review/,80.0,bourbon,,2013-07-17,john b. stetson kentucky straight
 12325,2013-03-27 10:59:57,john b. stetson kentucky straight bourbon whiskey,kevinoshea,http://www.reddit.com/r/bourbon/comments/1b3xd6/first_review_john_b_stetson_kentucky_straight/,80.0,bourbon,30.0,2013-03-27,john b. stetson kentucky straight
@@ -13380,7 +13379,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 13378,2014-08-14 20:12:07,kopper kettle,MTMR,http://www.reddit.com/r/bourbon/comments/2dleis/kopper_kettle_virginia_whiskey_a_review/,75.0,america,28.0,2014-08-14,kopper kettle
 13379,2014-06-28 19:22:37,kopper kettle,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/1m7fvb/review_4_kopper_kettle_virginia_whiskey/,90.0,america,22.0,2013-09-11,kopper kettle
 13380,2013-02-05 21:08:17,kornog st ivy,esajz24,http://www.reddit.com/r/worldwhisky/comments/17z5ye/review_134_kornog_sant_ivy/,82.0,france,,2013-02-05,kornog st ivy
-13381,2015-05-13 08:07:32,kornog taouarc’h seizved 14 bc,TOModera,http://www.reddit.com/r/worldwhisky/comments/35tquz/kornog_taouarch_seizved_14_bc_review/,79.0,france,,2015-05-13,kornog taouarc’h seizved 14 bc
+13381,2015-05-13 08:07:32,kornog taouarch seizved 14 bc,TOModera,http://www.reddit.com/r/worldwhisky/comments/35tquz/kornog_taouarch_seizved_14_bc_review/,79.0,france,,2015-05-13,kornog taouarch seizved 14 bc
 13382,2014-04-24 21:33:08,koval lion's pride 100% rye,TheMemeIsALie,http://www.reddit.com/r/bourbon/comments/23nn11/review_2_koval_lions_pride_organic_100_rye/,90.0,rye,15.0,2014-04-22,koval lion pride 100% rye
 13383,2013-04-23 21:36:08,koval lion's pride dark rye,kmillns,http://www.reddit.com/r/bourbon/comments/1czekl/review_koval_lions_pride_dark_rye/,89.0,rye,50.0,2013-04-23,koval lion pride dark rye
 13384,2015-04-18 12:25:23,koval rye single barrel whiskey,MacMuse,http://www.reddit.com/r/bourbon/comments/2tomvn/koval_rye_single_barrel_whiskey_review/,79.0,rye,50.0,2015-01-25,koval rye single barrel
@@ -14450,7 +14449,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 14448,2015-01-02 22:31:17,laphroaig select,TheWhiskeyJug,http://www.reddit.com/r/Scotch/comments/2do54m/review_37_laphroaig_select/,88.0,islay,40.0,2014-08-15,laphroaig select
 14449,2016-11-23 23:24:49,laphroaig select,throwboats,https://www.reddit.com/r/Scotch/comments/59lnlm/review_72_laphroaig_select/,83.0,islay,,2016-10-27,laphroaig select
 14450,2015-04-12 06:18:59,laphroaig select,TOModera,http://www.reddit.com/r/Scotch/comments/32bnlv/laphroaig_select_review/,80.0,islay,,2015-04-12,laphroaig select
-14451,2017-03-02 23:19:33,laphroaig smws 29.185 “sweet dreams.”,hardyman7,https://www.reddit.com/r/Scotch/comments/5x8jbi/laphroaig_smws_29185_sweet_dreams/,87.0,islay,215.0,2017-03-02,laphroaig smws 29.185 “sweet dreams.”
+14451,2017-03-02 23:19:33,laphroaig smws 29.185 sweet dreams.,hardyman7,https://www.reddit.com/r/Scotch/comments/5x8jbi/laphroaig_smws_29185_sweet_dreams/,87.0,islay,215.0,2017-03-02,laphroaig smws 29.185 sweet dreams.
 14452,2017-01-18 07:40:31,laphroaig triplewood,kdz13,https://www.reddit.com/r/Scotch/comments/5h1sq6/laphroaig_triple_wood_a_review/,94.0,islay,70.0,2015-06-25,laphroaig triplewood
 14453,2017-01-30 11:20:44,laphroaig triplewood,muaddib99,https://www.reddit.com/r/Scotch/comments/5r1z9j/burns_night_2017_includes_reviews_231238/,86.0,islay,,2017-01-27,laphroaig triplewood
 14454,2012-12-06 18:04:53,laphroaig triplewood,12side,http://www.reddit.com/r/Scotch/comments/14et49/laphroaig_vertical_tasting_lies/,85.0,islay,,2012-12-06,laphroaig triplewood
@@ -14512,7 +14511,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 14510,2013-08-28 08:55:15,larceny small batch bourbon,Zillah1985,http://www.reddit.com/r/bourbon/comments/1l9b0b/larceny_a_review/,79.0,bourbon,,2013-08-28,larceny small batch
 14511,2016-01-10 01:28:12,lark,all_smoke_n_mirrors,https://www.reddit.com/r/worldwhisky/comments/3t8twm/ww_review_6_7_larks_43_and_heartwood_epiphany_at/,85.0,australia,,2015-11-10,lark
 14512,2014-07-21 05:44:49,lark cask strength,FromPaul,http://www.reddit.com/r/worldwhisky/comments/2b1w6n/dinosaurs_across_the_palate_wtim_duckett_of/,91.0,australia,,2014-07-19,lark cask strength
-14513,2015-01-27 17:47:53,lark distiller’s selection port cask #396,ernestreviews,http://www.reddit.com/r/worldwhisky/comments/2twg01/review_6_lark_distillers_selection_cask_396_small/,97.0,australia,,2015-01-27,lark distiller’s selection port cask #396
+14513,2015-01-27 17:47:53,lark distillers selection port cask #396,ernestreviews,http://www.reddit.com/r/worldwhisky/comments/2twg01/review_6_lark_distillers_selection_cask_396_small/,97.0,australia,,2015-01-27,lark distillers selection port cask #396
 14514,2015-07-10 05:58:32,lark lubiano basso ,ernestreviews,https://www.reddit.com/r/worldwhisky/comments/3c44ex/reviews_1112_lark_new_world_projects_chichibu/,85.0,australia,,2015-07-04,lark lubiano basso
 14515,2014-01-02 08:26:33,lark new make,UncleTobys,http://www.reddit.com/r/Scotch/comments/1u84sv/review_three_mystery_drams_from_thetrumpetplayer,,australia,,2014-01-03,lark new make
 14516,2015-01-03 00:33:11,lark single malt bourbon cask,TheWhiskeyJug,http://www.reddit.com/r/worldwhisky/comments/2nabyz/review_26_lark_single_cask/,83.0,australia,132.0,2014-11-24,lark single malt cask
@@ -14523,7 +14522,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 14521,2013-04-26 08:44:16,lark single malt port cask,UncleTobys,http://www.reddit.com/r/worldwhisky/comments/1d5i5m/review_lark_single_malt_port_cask/,80.0,australia,,2013-04-26,lark single malt port cask
 14522,2016-03-15 08:27:51,lark single malt rum cask,LetThereBeR0ck,https://www.reddit.com/r/worldwhisky/comments/49lhdm/three_more_aussie_reviews_lark_rum_cask_lark_port/,92.0,australia,,2016-03-08,lark single malt rum cask
 14523,2014-01-27 10:45:46,lark single malt sherry cask cask strength,ayedfy,http://www.reddit.com/r/worldwhisky/comments/1w9yvq/review_lark_sherry_58/cf00mbv,91.0,australia,130.0,2014-01-27,lark single malt sherry cask cask strength
-14524,2016-04-06 11:44:06,last drop distillers 50 old “double matured” blended scotch whisky ,homebargirl,https://www.reddit.com/r/Scotch/comments/4dmhvc/review_1_the_last_drop_distillers_50_year_double/,95.0,lowland,4500.0,2016-04-06,last drop distillers 50 old “double matured” blended scotch
+14524,2016-04-06 11:44:06,last drop distillers 50 old double matured blended scotch whisky ,homebargirl,https://www.reddit.com/r/Scotch/comments/4dmhvc/review_1_the_last_drop_distillers_50_year_double/,95.0,lowland,4500.0,2016-04-06,last drop distillers 50 old double matured blended scotch
 14525,2017-01-05 18:19:47,last straw darker side of the moonshine,Devoz,https://www.reddit.com/r/worldwhisky/comments/5m07oe/review_29_last_straw_darker_side_of_the_moonshine/,56.0,canada,,2017-01-04,last straw darker side of the moonshine
 14526,2017-01-03 20:46:02,last straw darker side of the moonshine,muaddib99,https://www.reddit.com/r/worldwhisky/comments/5lwgvx/review_72_last_straw_darker_side_of_the_moonshine/,,canada,,2016-01-03,last straw darker side of the moonshine
 14527,2016-12-29 08:25:58,last straw darker side of the moonshine,TOModera,https://www.reddit.com/r/worldwhisky/comments/5kx15z/last_straw_darker_side_of_the_moonshine_review/,65.0,canada,,2016-12-29,last straw darker side of the moonshine
@@ -14576,7 +14575,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 14574,2015-01-16 22:23:38,ledaig 16 gordon & macphail,rhashish1,https://www.reddit.com/r/Scotch/comments/2spdrf/review_1_ledaig_16_gordon_macphail/,70.0,island,65.0,2015-01-16,ledaig 16 gordon & macphail
 14575,2016-06-24 10:03:05,ledaig 17 cooper's choice 1998,Shane_IL,https://www.reddit.com/r/Scotch/comments/4pnb0b/ledaig_1998_coopers_choice_review_261/,90.0,island,,2016-06-24,ledaig 17 cooper choice 1998
 14576,2016-06-14 09:19:05,ledaig 17 cooper's choice 1998,xile_,https://www.reddit.com/r/Scotch/comments/4nxuvr/review_7_ledaig_coopers_choice_1998_17_year_old/,90.0,island,,2016-06-13,ledaig 17 cooper choice 1998
-14577,2016-08-25 09:55:04,ledaig 17 cooper’s choice 1998,Devoz,https://www.reddit.com/r/Scotch/comments/4mwrg6/monday_night_ledaig_headtohead_smws_4215_vs/,90.0,island,,2016-06-22,ledaig 17 cooper’s choice 1998
+14577,2016-08-25 09:55:04,ledaig 17 coopers choice 1998,Devoz,https://www.reddit.com/r/Scotch/comments/4mwrg6/monday_night_ledaig_headtohead_smws_4215_vs/,90.0,island,,2016-06-22,ledaig 17 coopers choice 1998
 14578,2016-08-25 18:13:40,ledaig 18,HawkI84,https://www.reddit.com/r/Scotch/comments/4zlh67/review_231_ledaig_18/,85.0,island,,2016-08-25,ledaig 18
 14579,2016-05-14 10:02:12,ledaig 18,Shane_IL,https://www.reddit.com/r/Scotch/comments/4jbpty/ledaig_18_review_238/,87.0,island,,2016-05-14,ledaig 18
 14580,2016-10-12 07:45:42,ledaig 18,Unclimbability,https://www.reddit.com/r/Scotch/comments/573f0t/ledaig_10_18_1996_twe_show_report/,81.0,island,,2016-10-12,ledaig 18
@@ -14603,7 +14602,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 14601,2016-05-05 15:04:50,"ledaig 2005 8 old,the exclusive malts ",slanderousu,https://www.reddit.com/r/Scotch/comments/42ihxz/the_exclusive_malts_ledaig_2005_8_years_old_review/,86.0,island,,2016-01-24,"ledaig 2005 8 old,the exclusive malts"
 14602,2016-05-05 14:45:16,"ledaig 2005 archives, 7 old",slanderousu,https://www.reddit.com/r/Scotch/comments/3ggtxm/review_20_ledaig_2005_archives_628_7_years_old/,91.0,island,,2015-08-10,"ledaig 2005 archives, seven old"
 14603,2016-10-13 06:44:32,ledaig 2005 signatory cask 900145,Unclimbability,https://www.reddit.com/r/Scotch/comments/579rsk/ledaig_indie_reviews_twe_show_report/,84.0,island,,2016-10-13,ledaig 2005 signatory cask 900145
-14604,2015-07-04 13:19:23,ledaig 2005 whisky fässle,Shane_IL,https://www.reddit.com/r/Scotch/comments/3c4gzu/ledaig_2005_whisky_fassel_review_80/,91.0,island,,2015-07-04,ledaig 2005 fässle
+14604,2015-07-04 13:19:23,ledaig 2005 whisky fssle,Shane_IL,https://www.reddit.com/r/Scotch/comments/3c4gzu/ledaig_2005_whisky_fassel_review_80/,91.0,island,,2015-07-04,ledaig 2005 fssle
 14605,2012-04-29 16:39:51,ledaig 6 murray mcdavid,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/sjbg3/review_ledaig_6_year_old_2004_murray_mcdavid/,85.0,island ,43.0,2012-04-20,ledaig 6 murray mcdavid
 14606,2013-05-27 21:52:54,ledaig 6 murray mcdavid,bubsyouruncle,http://www.reddit.com/r/Scotch/comments/1f6bis/bigmoneysalsa_mystery_dram_review_a_day_late_and,86.0,island ,,2013-05-27,ledaig 6 murray mcdavid
 14607,,ledaig 6 sherry cask,cjotto9,https://www.reddit.com/r/Scotch/comments/48aokk/review_178_ledaig_6_year_sherry_cask_single_malts/?ref=search_posts,87.0,island,60.0,,ledaig 6 sherry cask
@@ -15428,8 +15427,8 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 15426,2012-05-31 17:30:53,mackmyra brukswhisky,le_canuck,http://www.reddit.com/r/Scotch/comments/uem7f/mackmyra_brukswhisky_a_review/,90.0,sweden,,2012-05-31,mackma bruks
 15427,2015-08-25 10:05:47,mackmyra brukswhisky,TOModera,https://www.reddit.com/r/worldwhisky/comments/3ica6t/mackmyra_the_first_edition_mackmyra_brukswhisky/,66.0,sweden,,2015-08-25,mackma bruks
 15428,2016-05-11 05:17:28,mackmyra brukswhisky,Unclimbability,https://www.reddit.com/r/worldwhisky/comments/4ipkr2/the_brizzy_session_mackmyra_brukswhisky_review_1/,65.0,sweden,,2016-05-10,mackma bruks
-15429,2012-08-27 14:45:02,mackmyra den första utgåvan,DE884,http://www.reddit.com/r/Scotch/comments/yx3mg/mackmyra_den_f%C3%B6rsta_utg%C3%A5van_svensk_single_malt/,79.0,sweden,,2012-08-15,mackma den första utgåvan
-15430,2012-03-24 11:43:08,mackmyra den första utgåvan,ecb29,http://www.reddit.com/r/Scotch/comments/r4jw1/review_mackmyra_1st_edition/,88.0,sweden,52.0,2012-03-20,mackma den första utgåvan
+15429,2012-08-27 14:45:02,mackmyra den frsta utgvan,DE884,http://www.reddit.com/r/Scotch/comments/yx3mg/mackmyra_den_f%C3%B6rsta_utg%C3%A5van_svensk_single_malt/,79.0,sweden,,2012-08-15,mackma den frsta utgvan
+15430,2012-03-24 11:43:08,mackmyra den frsta utgvan,ecb29,http://www.reddit.com/r/Scotch/comments/r4jw1/review_mackmyra_1st_edition/,88.0,sweden,52.0,2012-03-20,mackma den frsta utgvan
 15431,2014-07-09 09:43:35,mackmyra first edition,Cannalyzer,http://www.reddit.com/r/worldwhisky/comments/2a8opb/review_1_mackmyra_first_edition/cisk3pm,80.0,sweden,,2014-07-09,mackma first edition
 15432,2016-01-12 16:08:26,mackmyra first edition,cpfselfbuilt,https://www.reddit.com/r/worldwhisky/comments/40opi8/reviews_3_mackmyra_the_first_edition/,88.0,sweden,66.0,2016-01-12,mackma first edition
 15433,2011-11-18 19:45:52,mackmyra first edition,Diligent_Nose,http://www.reddit.com/r/Scotch/comments/m1vuv/review_mackmyra_whisky_first_edition/,89.0,sweden,,2011-11-05,mackma first edition
@@ -15439,7 +15438,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 15437,2012-12-14 08:58:46,mackmyra special 01 eminent sherry,mattofmattfame,http://www.reddit.com/r/Scotch/comments/14uegi/advent_calendar_days_812/,87.0,sweden,,2012-12-14,mackma special 01 eminent sherry
 15438,2013-10-05 04:07:39,mackmyra special 02,ayedfy,http://www.reddit.com/r/Scotch/comments/1npyz3/review_10_mystery_drams_from_uncletobys/cckwqh9,45.0,sweden,,2013-10-04,mackma special 02
 15439,2013-05-08 09:23:04,mackmyra special 02,UncleTobys,http://www.reddit.com/r/worldwhisky/comments/1dxkzx/review_mackmyra_special_02/,85.0,sweden,,2013-05-08,mackma special 02
-15440,2015-04-12 08:07:51,mackmyra special 10 kaffegök,bow-tie-guy,http://www.reddit.com/r/Scotch/comments/328y83/review_no_7_glenmorangie_astar_vs_mackmyra/,85.0,sweden,85.0,2015-04-11,mackma special 10 kaffegök
+15440,2015-04-12 08:07:51,mackmyra special 10 kaffegk,bow-tie-guy,http://www.reddit.com/r/Scotch/comments/328y83/review_no_7_glenmorangie_astar_vs_mackmyra/,85.0,sweden,85.0,2015-04-11,mackma special 10 kaffegk
 15441,2013-11-08 11:52:09,macleod's 8,JetJagusaurus,http://www.reddit.com/r/Scotch/comments/1q6rpl/macleods_8_yo_review_2_scotch_review_1/,70.0,islay,49.0,2013-11-08,macleod 8
 15442,2016-09-06 15:24:59,macphunn 19,lvl1dramacenter,https://www.reddit.com/r/Scotch/comments/50wgdu/reviews_1619_quadruple_mystery/,91.0,speyside,,2016-09-03,macphunn 19
 15443,2016-06-25 08:43:26,maduff 15 provenance,Shane_IL,https://www.reddit.com/r/Scotch/comments/4pshs6/douglas_laing_tasting_reviews_262266/,75.0,highland,,2016-06-25,maduff 15 provenance
@@ -16033,7 +16032,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 16031,2012-08-20 18:12:30,o' kanagan nas,Jan-12,http://www.reddit.com/r/Scotch/comments/yjsic/the_o_kanagan_a_cheap_unknown_irish_blend_review/,71.0,ireland,20.0,2012-08-19,o' kanagan nas
 16032,2016-12-16 08:19:40,o'begley hell's kitchen - blue corn,TOModera,https://www.reddit.com/r/bourbon/comments/5iof2a/obegley_distillery_tasting_review/,74.0,bourbon,,2016-12-16,o'begley hell kitchen - blue corn
 16033,2016-12-16 08:19:29,o'begley single malt,TOModera,https://www.reddit.com/r/bourbon/comments/5iof2a/obegley_distillery_tasting_review/,76.0,bourbon,,2016-12-16,o'begley single malt
-16034,2015-06-25 22:31:32,o’briens,TheWhiskeyJug,http://www.reddit.com/r/worldwhisky/comments/3a7xhf/review_64_obriens_irish_whiskey/,73.0,ireland,20.0,2015-06-17,o’briens
+16034,2015-06-25 22:31:32,obriens,TheWhiskeyJug,http://www.reddit.com/r/worldwhisky/comments/3a7xhf/review_64_obriens_irish_whiskey/,73.0,ireland,20.0,2015-06-17,obriens
 16035,2015-05-19 20:11:27,oban 14,ahugenerd,https://www.reddit.com/r/Scotch/comments/36kfjl/review_24_oban_14/,75.0,highland,115.0,2015-05-19,oban 14
 16036,2015-01-07 13:16:22,oban 14,akira084,http://www.reddit.com/r/Scotch/comments/2rifhn/community_review_38_oban_14/cnhgwz0,81.0,highland,,2015-01-02,oban 14
 16037,2013-08-17 11:36:52,oban 14,Allumina,http://www.reddit.com/r/Scotch/comments/1kk0rk/a_review_oban_14/,78.0,highland ,,2013-08-17,oban 14
@@ -16518,12 +16517,12 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 16516,2016-01-28 17:29:37,old pulteney 1989 limited edition,Shane_IL,https://www.reddit.com/r/Scotch/comments/435zr4/old_pulteney_tasting_reviews_179_182/,89.0,highland,,2016-01-28,old pulteney 1989 limited edition
 16517,2017-01-16 06:17:42,old pulteney 1989 vintage,TOModera,https://www.reddit.com/r/Scotch/comments/5oaiiy/old_pulteney_1989_vintage_review/,77.0,highland,,2017-01-16,old pulteney 1989 vintage
 16518,2017-01-04 12:04:07,old pulteney 1989 vintage,xile_,https://www.reddit.com/r/Scotch/comments/5llq8e/review_101_old_pultenay_26y_1989_vintage_lightly/,86.0,highland,,2017-01-02,old pulteney 1989 vintage
-16519,2013-10-03 11:09:18,old pulteney 1990 – single cask bottling for the official line,ayedfy,http://www.reddit.com/r/Scotch/comments/1ni6e9/review_old_pulteney_1990_single_cask_bottling_for/ccislsj,92.0,highland ,,2013-10-02,old pulteney 1990 – single cask bottling for the official line
-16520,2013-11-27 18:14:48,old pulteney 1990 – single cask bottling for the official line,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/1nigmw/review_old_pulteney_1990_single_cask_bottling_for/,85.0,highland ,,2013-10-01,old pulteney 1990 – single cask bottling for the official line
-16521,2013-10-01 19:56:16,old pulteney 1990 – single cask bottling for the official line,ecb29,http://www.reddit.com/r/Scotch/comments/1njv4t/review_old_pulteney_1990_single_cask_bottling_for/,93.0,highland ,,2013-10-01,old pulteney 1990 – single cask bottling for the official line
-16522,2013-10-01 08:45:36,old pulteney 1990 – single cask bottling for the official line,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/1nid95/old_pulteney_1990_single_cask_bottling_for_the/,,highland ,,2013-10-01,old pulteney 1990 – single cask bottling for the official line
-16523,2013-10-03 06:57:26,old pulteney 1990 – single cask bottling for the official line,hryelle,http://www.reddit.com/r/Scotch/comments/1ni6x8/old_pulteney_1990_single_cask_bottling_for_the/ccispvq,83.0,highland ,,2013-10-02,old pulteney 1990 – single cask bottling for the official line
-16524,2013-10-01 06:29:47,old pulteney 1990 – single cask bottling for the official line,UncleTobys,http://www.reddit.com/r/Scotch/comments/1ni5z5/review_old_pulteney_1990_single_cask_bottling_for/,94.0,highland ,,2013-10-01,old pulteney 1990 – single cask bottling for the official line
+16519,2013-10-03 11:09:18,old pulteney 1990  single cask bottling for the official line,ayedfy,http://www.reddit.com/r/Scotch/comments/1ni6e9/review_old_pulteney_1990_single_cask_bottling_for/ccislsj,92.0,highland ,,2013-10-02,old pulteney 1990  single cask bottling for the official line
+16520,2013-11-27 18:14:48,old pulteney 1990  single cask bottling for the official line,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/1nigmw/review_old_pulteney_1990_single_cask_bottling_for/,85.0,highland ,,2013-10-01,old pulteney 1990  single cask bottling for the official line
+16521,2013-10-01 19:56:16,old pulteney 1990  single cask bottling for the official line,ecb29,http://www.reddit.com/r/Scotch/comments/1njv4t/review_old_pulteney_1990_single_cask_bottling_for/,93.0,highland ,,2013-10-01,old pulteney 1990  single cask bottling for the official line
+16522,2013-10-01 08:45:36,old pulteney 1990  single cask bottling for the official line,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/1nid95/old_pulteney_1990_single_cask_bottling_for_the/,,highland ,,2013-10-01,old pulteney 1990  single cask bottling for the official line
+16523,2013-10-03 06:57:26,old pulteney 1990  single cask bottling for the official line,hryelle,http://www.reddit.com/r/Scotch/comments/1ni6x8/old_pulteney_1990_single_cask_bottling_for_the/ccispvq,83.0,highland ,,2013-10-02,old pulteney 1990  single cask bottling for the official line
+16524,2013-10-01 06:29:47,old pulteney 1990  single cask bottling for the official line,UncleTobys,http://www.reddit.com/r/Scotch/comments/1ni5z5/review_old_pulteney_1990_single_cask_bottling_for/,94.0,highland ,,2013-10-01,old pulteney 1990  single cask bottling for the official line
 16525,2015-04-01 13:20:42,old pulteney 1990 limited edition,Shane_IL,http://www.reddit.com/r/Scotch/comments/30cfhu/old_pulteney_1990_le_peated_cask_review_31/,90.0,highland,,2015-03-26,old pulteney 1990 limited edition
 16526,2014-01-29 12:37:47,old pulteney 1990 limited edition,ziggy1283,http://www.reddit.com/r/Scotch/comments/1w1856/reviews_2729_old_pulteney_trio_navigator_12_1990/,98.0,highland ,,2014-01-25,old pulteney 1990 limited edition
 16527,,old pulteney 1997 cask 1636,Lasidar,https://www.reddit.com/r/Scotch/comments/4fqky0/review_83_old_pulteney_single_cask/,86.0,highland,,2016-04-20,old pulteney 1997 cask 1636
@@ -16763,7 +16762,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 16761,2014-08-10 04:57:57,overeem sherry cask cask strength,ernestreviews,http://www.reddit.com/r/worldwhisky/comments/2d4x2q/review_overeem_sherry_cask/,86.0,australia,,2014-08-10,overeem sherry cask cask strength
 16762,2012-07-14 10:21:51,overeem sherry cask cask strength,ayedfy,http://www.reddit.com/r/Scotch/comments/wju9r/ayedfys_tasmanian_whisky_odyssey_35_overeem/c5dxwzg,89.0,australia,160.0,2012-07-14,overeem sherry cask cask strength
 16763,2013-03-11 05:24:43,overeem sherry cask cask strength,UncleTobys,http://www.reddit.com/r/worldwhisky/comments/1a2rja/review_overeem_port_cask_cs_vs_sherry_cask_cs/,86.0,australia,,2013-03-11,overeem sherry cask cask strength
-16764,2012-08-12 00:14:37,owen schwäbischer whisky,Mail_Me_Yuengling,http://www.reddit.com/r/Scotch/comments/y2w71/owens_schw%C3%A4bischer_whisky_german_single_malt/,68.0,germany,,2012-07-12,owen schwäbischer
+16764,2012-08-12 00:14:37,owen schwbischer whisky,Mail_Me_Yuengling,http://www.reddit.com/r/Scotch/comments/y2w71/owens_schw%C3%A4bischer_whisky_german_single_malt/,68.0,germany,,2012-07-12,owen schwbischer
 16765,2013-12-10 19:56:35,oyo bourbon whiskey michelone reserve,dustlesswalnut,http://www.reddit.com/r/bourbon/comments/1sll2y/oyo_bourbon_whiskey_michelone_reserve_review_9/,84.0,bourbon,55.0,2013-12-10,oyo michelone reserve
 16766,2014-05-29 19:05:42,oyo bourbon whiskey michelone reserve,MicMumbles,http://www.reddit.com/r/bourbon/comments/26tzih/review_53_oyo_batch_1/,73.0,bourbon,,2014-05-29,oyo michelone reserve
 16767,2014-02-11 04:51:44,oyo bourbon whiskey michelone reserve,UncleTobys,http://www.reddit.com/r/bourbon/comments/1xlqyk/review_oyo_michelone_reserve/,70.0,bourbon,,2014-01-11,oyo michelone reserve
@@ -17134,7 +17133,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 17132,2015-01-14 05:50:31,reunion dram 25 w&d,Tja_so,reddit.com/r/Scotch/comments/2rvz71/review_reunion_dram_25yo_whisky_dreams/,89.0,highland,140.0,2015-01-09,reunion dram 25 w&d
 17133,2013-08-27 17:09:12,revel stoke spiced whisky,Vertigo666,http://www.reddit.com/r/worldwhisky/comments/1l7uid/revel_stoke_review/,75.0,canada,,2013-08-16,revel stoke spiced
 17134,2016-03-29 08:05:29,revel stoke spiced whisky,TOModera,https://www.reddit.com/r/worldwhisky/comments/4cfb3e/revel_stoke_spiced_whisky_review/,59.0,canada,,2016-03-29,revel stoke spiced
-17135,2016-02-19 18:34:12,rī1,ETAOIN_SHRDLU,https://www.reddit.com/r/bourbon/comments/3t8lvn/review_1_ri1/,60.0,rye,40.0,2015-11-17,rī1
+17135,2016-02-19 18:34:12,r1,ETAOIN_SHRDLU,https://www.reddit.com/r/bourbon/comments/3t8lvn/review_1_ri1/,60.0,rye,40.0,2015-11-17,r1
 17136,2012-09-23 07:02:50,rich & rare reserve ,Jan-12,http://pt.reddit.com/r/Scotch/comments/10aovj/rich_rare_reserve_blend_canada_review_49/,70.0,canada,,2012-09-22,rich & rare reserve
 17137,2013-01-11 13:16:18,rittenhouse rye 100,soonami,http://www.reddit.com/r/bourbon/comments/15xoo7/the_affordable_rye_challenge_rittenhouse_bib_vs/,89.0,rye,21.0,2013-01-04,rittenhouse rye 100
 17138,2016-08-24 10:50:01,rittenhouse rye 100,TOModera,http://www.reddit.com/r/bourbon/comments/29hu1c/community_review_15_rittenhouse_rye_bottled_in/cilby3t,77.0,rye,,2014-01-30,rittenhouse rye 100
@@ -17343,26 +17342,26 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 17341,2016-06-17 03:36:56,russell's reserve single barrel store select (el cerrito liquor),ArtGar95,https://www.reddit.com/r/bourbon/comments/4occaf/review_5_russells_reserve_single_barrel_store/,90.0,bourbon,55.0,2016-06-16,russell reserve single barrel store select (el cerrito liquor)
 17342,2015-02-13 02:51:51,russell's reserve small batch,sodo_moj0,http://us.reddit.com/r/bourbon/comments/2vqakn/review_29_russells_reserve_small_batch_10_year/,80.0,bourbon,34.0,2015-02-12,russell reserve small batch
 17343,2017-01-24 00:55:04,russell's reserve store select,FuzzyWildcat,https://www.reddit.com/r/bourbon/comments/5lp005/modern_turkey_review_2_review_11_russells_reserve/,86.0,bourbon,60.0,2017-01-02,russell reserve store select
-17344,2015-07-17 22:36:13,russell’s reserve rye 6,HawkI84,https://www.reddit.com/r/bourbon/comments/3dp8fu/review_85_russells_reserve_6_yr_rye/,83.0,rye,,2015-07-17,russell’s reserve rye 6
-17345,2014-09-16 20:42:04,russell’s reserve rye 6,MTMR,http://www.reddit.com/r/bourbon/comments/2gmatz/russells_reserve_rye_6_a_review/,84.0,rye,38.0,2014-09-16,russell’s reserve rye 6
-17346,2014-07-02 20:51:27,russell’s reserve rye 6,OfficerJerd,http://www.reddit.com/r/bourbon/comments/29pcr3/review_11_russells_reserve_rye_6/,87.0,rye,,2014-07-02,russell’s reserve rye 6
-17347,2014-06-28 20:55:06,russell’s reserve rye 6,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2960ki/review_69_russells_reserve_rye_6_yr/,90.0,rye,35.0,2014-06-26,russell’s reserve rye 6
+17344,2015-07-17 22:36:13,russells reserve rye 6,HawkI84,https://www.reddit.com/r/bourbon/comments/3dp8fu/review_85_russells_reserve_6_yr_rye/,83.0,rye,,2015-07-17,russells reserve rye 6
+17345,2014-09-16 20:42:04,russells reserve rye 6,MTMR,http://www.reddit.com/r/bourbon/comments/2gmatz/russells_reserve_rye_6_a_review/,84.0,rye,38.0,2014-09-16,russells reserve rye 6
+17346,2014-07-02 20:51:27,russells reserve rye 6,OfficerJerd,http://www.reddit.com/r/bourbon/comments/29pcr3/review_11_russells_reserve_rye_6/,87.0,rye,,2014-07-02,russells reserve rye 6
+17347,2014-06-28 20:55:06,russells reserve rye 6,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2960ki/review_69_russells_reserve_rye_6_yr/,90.0,rye,35.0,2014-06-26,russells reserve rye 6
 17348,2013-09-02 06:00:36,sainsbury's blended scotch whisky,TOModera,http://www.reddit.com/r/Scotch/comments/1lkk3k/sainsburys_blended_scotch_whisky_review/,61.0,blend,,2013-09-02,sainsbury blended scotch
 17349,2012-07-10 13:05:30,sainsbury's taste the difference islay single malt 12,ErisianRationalist,http://www.reddit.com/r/Scotch/comments/wc35r/sainsburys_taste_the_difference_islay_12_yr/,77.0,islay,20.0,2012-07-10,sainsbury taste the difference islay single malt 12
 17350,2012-12-21 22:53:58,saint isidore,Aldorama,http://www.reddit.com/r/Scotch/comments/157zud/review_3_saint_isidore_blended_scotch_whisky/,75.0,blend,,2012-12-21,saint isidore
 17351,2015-06-18 14:11:00,salty sea dog littlest hobo,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/2xjw1k/review_187_salty_sea_dog_batch_3_littlest_hobo/,88.0,blend,,2015-06-11,salty sea dog littlest hobo
 17352,,samaroli evolution 2011 blended malt,cjotto9,https://www.reddit.com/r/Scotch/comments/4713wc/review_173_samaroli_evolution_2011/?ref=search_posts,87.0,blend,280.0,,samaroli evolution 2011 blended malt
 17353,2012-10-17 23:27:40,samuel grant,rook2pawn,http://www.reddit.com/r/bourbon/comments/10hw49/samuel_grant_vintage_cask_safeway_branded_bourbon/,25.0,bourbon,9.0,2012-09-15,samuel grant
-17354,2012-11-20 07:54:04,säntis malt /abhainn dearg viking,Jan-12,http://www.reddit.com/r/Scotch/comments/13ia3m/the_first_vatted_marriage_between_scotland_and/,80.0,blend,,2012-11-20,säntis malt /abhainn dearg viking
-17355,2012-12-20 15:47:15,säntis malt cask #1130,Jan-12,http://www.reddit.com/r/worldwhisky/comments/156tn6/an_excellent_whisky_from_switzerland_santis_malt/,87.0,switzerland,150.0,2012-12-20,säntis malt cask #1130
-17356,2014-04-17 18:33:48,säntis malt cask strength peated,cake_my_day,http://www.reddit.com/r/worldwhisky/comments/23b9q3/säntis_malt_cask_strength_peated_a_review/,25.0,switzerland,,2014-04-18,säntis malt cask strength peated
-17357,2016-05-26 14:02:38,säntis malt cask strength peated,Shane_IL,https://www.reddit.com/r/worldwhisky/comments/4l6vu5/santis_peated_cask_strength_whisky_review_28/,40.0,switzerland,,2016-05-26,säntis malt cask strength peated
-17358,2014-09-08 09:21:43,säntis malt cask strength peated,TOModera,http://www.reddit.com/r/worldwhisky/comments/2ft52v/santis_highlander_edition_cask_strength_peated/,41.0,switzerland,,2014-09-08,säntis malt cask strength peated
-17359,2012-10-29 14:33:48,säntis malt edition alpstein,Jan-12,http://www.reddit.com/r/worldwhisky/comments/12an3o/a_nice_surprise_from_switzerland_the_santis_malt/,83.0,switzerland,,2012-10-28,säntis malt edition alpstein
-17360,2013-05-11 12:55:01,säntis malt edition dreifaltigkeit,Jan-12,http://www.reddit.com/r/worldwhisky/comments/1e4zd6/smoked_ham_from_switzerland_santis_malt_edition/,85.0,switzerland,75.0,2013-05-11,säntis malt edition dreifaltigkeit
-17361,2012-09-11 16:44:29,säntis malt edition germany,Jan-12,http://www.reddit.com/r/Scotch/comments/zqbgy/the_santis_edition_germany_an_other_interesting/,82.0,switzerland,,2012-09-11,säntis malt edition germany
-17362,2014-05-09 16:30:59,säntis malt edition sigel,cake_my_day,http://www.reddit.com/r/worldwhisky/comments/255srk/säntis_malt_edition_sigel_a_review/,56.0,switzerland,,2014-05-09,säntis malt edition sigel
-17363,2012-08-17 21:08:38,säntis malt small oak beer casks,Jan-12,http://www.reddit.com/r/Scotch/comments/yeqm1/something_different_from_switzerland_santis/,80.0,switzerland,,2012-08-17,säntis malt small oak beer casks
+17354,2012-11-20 07:54:04,sntis malt /abhainn dearg viking,Jan-12,http://www.reddit.com/r/Scotch/comments/13ia3m/the_first_vatted_marriage_between_scotland_and/,80.0,blend,,2012-11-20,sntis malt /abhainn dearg viking
+17355,2012-12-20 15:47:15,sntis malt cask #1130,Jan-12,http://www.reddit.com/r/worldwhisky/comments/156tn6/an_excellent_whisky_from_switzerland_santis_malt/,87.0,switzerland,150.0,2012-12-20,sntis malt cask #1130
+17356,2014-04-17 18:33:48,sntis malt cask strength peated,cake_my_day,http://www.reddit.com/r/worldwhisky/comments/23b9q3/sntis_malt_cask_strength_peated_a_review/,25.0,switzerland,,2014-04-18,sntis malt cask strength peated
+17357,2016-05-26 14:02:38,sntis malt cask strength peated,Shane_IL,https://www.reddit.com/r/worldwhisky/comments/4l6vu5/santis_peated_cask_strength_whisky_review_28/,40.0,switzerland,,2016-05-26,sntis malt cask strength peated
+17358,2014-09-08 09:21:43,sntis malt cask strength peated,TOModera,http://www.reddit.com/r/worldwhisky/comments/2ft52v/santis_highlander_edition_cask_strength_peated/,41.0,switzerland,,2014-09-08,sntis malt cask strength peated
+17359,2012-10-29 14:33:48,sntis malt edition alpstein,Jan-12,http://www.reddit.com/r/worldwhisky/comments/12an3o/a_nice_surprise_from_switzerland_the_santis_malt/,83.0,switzerland,,2012-10-28,sntis malt edition alpstein
+17360,2013-05-11 12:55:01,sntis malt edition dreifaltigkeit,Jan-12,http://www.reddit.com/r/worldwhisky/comments/1e4zd6/smoked_ham_from_switzerland_santis_malt_edition/,85.0,switzerland,75.0,2013-05-11,sntis malt edition dreifaltigkeit
+17361,2012-09-11 16:44:29,sntis malt edition germany,Jan-12,http://www.reddit.com/r/Scotch/comments/zqbgy/the_santis_edition_germany_an_other_interesting/,82.0,switzerland,,2012-09-11,sntis malt edition germany
+17362,2014-05-09 16:30:59,sntis malt edition sigel,cake_my_day,http://www.reddit.com/r/worldwhisky/comments/255srk/sntis_malt_edition_sigel_a_review/,56.0,switzerland,,2014-05-09,sntis malt edition sigel
+17363,2012-08-17 21:08:38,sntis malt small oak beer casks,Jan-12,http://www.reddit.com/r/Scotch/comments/yeqm1/something_different_from_switzerland_santis/,80.0,switzerland,,2012-08-17,sntis malt small oak beer casks
 17364,2016-08-23 07:07:38,saos 10 long nine,tvraisedme,https://www.reddit.com/r/bourbon/comments/4mwtuq/battle_of_the_annapolis_whiskey_society_saos/,85.0,bourbon,60.0,2016-06-06,saos 10 long nine
 17365,2016-08-23 07:07:05,saos 10 slandy's select,tvraisedme,https://www.reddit.com/r/bourbon/comments/4mwtuq/battle_of_the_annapolis_whiskey_society_saos/,87.0,bourbon,60.0,2016-06-06,saos 10 slandy select
 17366,2016-09-13 00:09:50,saos single barrel bourbon 9 barrel 2022 mcscrooge's store select,lvl1dramacenter,https://www.reddit.com/r/bourbon/comments/52ispu/reviews_1922_factory_whisky/,83.0,bourbon,,2016-09-12,saos single barrel 9 barrel 2022 mcscrooge store select
@@ -17526,7 +17525,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 17524,2015-01-16 16:18:45,singleton of dufftown spey cascade,fat-chunk,https://www.reddit.com/r/Scotch/comments/2so6gk/review_17_the_singleton_of_dufftown_spey_cascade/,65.0,speyside,,2015-01-16,singleton of dufftown spey cascade
 17525,2014-03-10 16:28:36,singleton of dufftown tailfire,Daft_Hunk,http://www.reddit.com/r/Scotch/comments/2033y1/review_16_singleton_of_dufftown_tailfire/,75.0,speyside,31.0,2014-03-10,singleton of dufftown tailfire
 17526,2015-06-18 14:38:25,singleton of dufftown tailfire,Whisky_Lads,http://www.reddit.com/r/Scotch/comments/317cqq/review_202_singleton_of_dufftown_tailfire/,83.0,speyside,,2015-06-11,singleton of dufftown tailfire
-17527,2013-05-29 12:49:23,singleton of dufftown unité,Snake_Byte,http://www.reddit.com/r/Scotch/comments/1fa46w/singleton_of_dufftown_unit%C3%A9_a_review/,80.0,speyside,60.0,2013-05-29,singleton of dufftown unité
+17527,2013-05-29 12:49:23,singleton of dufftown unit,Snake_Byte,http://www.reddit.com/r/Scotch/comments/1fa46w/singleton_of_dufftown_unit%C3%A9_a_review/,80.0,speyside,60.0,2013-05-29,singleton of dufftown unit
 17528,2014-06-08 11:44:47,singleton of glen ord 12,ayedfy,http://www.reddit.com/r/Scotch/comments/27mlee/review_the_singleton_of_glen_ord_12/ci28xla,60.0,speyside,65.0,2014-06-09,singleton of glen ord 12
 17529,2011-12-22 16:23:55,singleton of glen ord 12,BeardedDeath,http://www.reddit.com/r/Scotch/comments/nn2wy/review_of_singleton_of_glen_ord_12_year_old/,87.0,speyside,40.0,2011-12-22,singleton of glen ord 12
 17530,2014-12-30 10:39:39,singleton of glendullan,CandyMan77,http://www.reddit.com/r/Scotch/comments/2qtqod/review_78_good_scotch_bad_scotch_the_singleton_of/,80.0,speyside,,2014-12-30,singleton of glendullan
@@ -17652,8 +17651,8 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 17650,2015-01-02 21:59:07,sonoma county 2nd chance wheat whiskey,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2oov58/review_103_2nd_chance_wheat_whiskey/,83.0,wheat,53.0,2014-12-08,sonoma county 2nd chance wheat
 17651,2015-02-09 14:17:13,sonoma county rye #4,SaltPeanutss,http://www.reddit.com/r/bourbon/comments/2vc365/review_5_sonoma_county_rye_4/,86.0,rye,,2015-02-09,sonoma county rye #4
 17652,2015-01-02 22:00:20,sonoma rye whiskey,TheWhiskeyJug,http://www.reddit.com/r/bourbon/comments/2ovu76/review_104_sonoma_rye_whiskey/,85.0,rye,53.0,2014-12-10,sonoma rye
-17653,2016-07-21 08:42:38,sortilège,TOModera,https://www.reddit.com/r/worldwhisky/comments/4tx0ed/sortil%C3%A8ge_review/,42.0,canada,,2016-07-21,sortilège
-17654,2015-10-14 06:16:28,sortilège prestige,TOModera,https://www.reddit.com/r/ScotchSwap/comments/3ogj4e/its_happening_2015_mystery_swap_review_thread_go/cvyrb2j,82.0,canada,,2015-10-14,sortilège prestige
+17653,2016-07-21 08:42:38,sortilge,TOModera,https://www.reddit.com/r/worldwhisky/comments/4tx0ed/sortil%C3%A8ge_review/,42.0,canada,,2016-07-21,sortilge
+17654,2015-10-14 06:16:28,sortilge prestige,TOModera,https://www.reddit.com/r/ScotchSwap/comments/3ogj4e/its_happening_2015_mystery_swap_review_thread_go/cvyrb2j,82.0,canada,,2015-10-14,sortilge prestige
 17655,2016-06-01 08:08:25,south island 18,TOModera,https://www.reddit.com/r/worldwhisky/comments/4m1474/south_island_18_new_zealand_whisky_collection/,64.0,new zealand,,2016-06-01,south island 18
 17656,2015-01-03 00:34:09,south island 21,TheWhiskeyJug,http://www.reddit.com/r/worldwhisky/comments/2ne082/review_27_south_island_21/,89.0,new zealand,100.0,2014-11-25,south island 21
 17657,2013-04-07 10:18:19,southern coast batch 001 museum release,ayedfy,http://www.reddit.com/r/worldwhisky/comments/1bus93/review_southern_coast_distillers_batch_001_museum/c9a8xcd,94.0,australia,120.0,2013-04-07,southern coast batch 001 museum release
@@ -17663,7 +17662,7 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 17661,2013-12-06 15:22:32,spey river 12,Porkpants81,http://www.reddit.com/r/Scotch/comments/1s9r73/review_8_spey_river_12_first_rscotch_review_of/,95.0,speyside,40.0,2013-12-06,spey river 12
 17662,2014-05-21 07:45:13,spey river 12,TOModera,http://www.reddit.com/r/Scotch/comments/2645d2/spey_river_12_review/,64.0,speyside,,2014-05-21,spey river 12
 17663,2016-06-21 13:28:06,spey royal choice,Gaija,https://www.reddit.com/r/Scotch/comments/4o946z/reviews_2325_spey_royal_choice_a_feminine/,86.0,speyside,200.0,2016-06-16,spey royal choice
-17664,2016-11-04 10:37:41,spey tenné selected edition,yeahhhmuffins,https://www.reddit.com/r/Scotch/comments/5azxvj/review_1_spey_tenn%C3%A9_selected_edition/,78.0,speyside,,2016-11-02,spey tenné selected edition
+17664,2016-11-04 10:37:41,spey tenn selected edition,yeahhhmuffins,https://www.reddit.com/r/Scotch/comments/5azxvj/review_1_spey_tenn%C3%A9_selected_edition/,78.0,speyside,,2016-11-02,spey tenn selected edition
 17665,2014-08-10 20:54:26,speyburn 10,Allurex,http://www.reddit.com/r/Scotch/comments/2d723z/review_1_speyburn_10/,80.0,speyside,30.0,2014-08-10,speyburn 10
 17666,2011-11-18 19:56:38,speyburn 10,Arvald,http://www.reddit.com/r/Scotch/comments/l9vak/my_first_single_malt_audio_review/,,speyside,,2011-10-12,speyburn 10
 17667,2015-06-12 17:55:16,speyburn 10,cake_my_day,http://www.reddit.com/r/Scotch/comments/39n48c/speyburn_10_a_review/,81.0,speyside,,2015-06-13,speyburn 10
@@ -18401,38 +18400,38 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 18399,2014-09-07 00:37:34,talisker 5 the speakeasy,ecb29,http://www.reddit.com/r/Scotch/comments/2fp60i/double_talisker_review_175_nas_vs_speakeasy_5yr/,47.0,island,60.0,2014-09-06,talisker 5 the speakeasy
 18400,2015-03-04 09:24:21,talisker 5 the speakeasy,filez41,http://www.reddit.com/r/Scotch/comments/2ptwqp/review_6_mystery_sample_from_umattofmattfame/,,island,,2014-12-19,talisker 5 the speakeasy
 18401,2014-08-04 18:28:11,talisker 5 the speakeasy,mattofmattfame,http://www.reddit.com/r/Scotch/comments/2cmwt7/review_136_talisker_5_the_speakeasy/,80.0,island ,,2014-08-04,talisker 5 the speakeasy
-18402,2013-10-05 04:14:46,talisker 57° north,ayedfy,http://www.reddit.com/r/Scotch/comments/1npyz3/review_10_mystery_drams_from_uncletobys/ccl0blk,83.0,island ,130.0,2013-10-04,talisker 57° north
-18403,2014-01-11 17:22:41,talisker 57° north,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/1t76jo/review_talisker_57_north/,80.0,island ,,2013-12-18,talisker 57° north
-18404,2015-01-28 09:20:48,talisker 57° north,CandyMan77,http://www.reddit.com/r/Scotch/comments/2tyev7/review_10_tartan_ahoy_talisker_57_north/,96.0,island,,2015-01-28,talisker 57° north
-18405,,talisker 57° north,cjotto9,https://www.reddit.com/r/Scotch/comments/31qw7h/review_50_talisker_57n/?ref=search_posts,90.0,island,87.0,,talisker 57° north
-18406,2012-10-04 14:47:46,talisker 57° north,DE884,http://www.reddit.com/r/Scotch/comments/10yb2u/talisker_57_north_review/,87.0,island ,,2012-10-01,talisker 57° north
-18407,2016-01-26 13:03:19,talisker 57° north,DnD_References,https://www.reddit.com/r/Scotch/comments/42qdxg/review_8_talisker_storm_review_9_talisker_57_north/,93.0,island,65.0,2016-01-25,talisker 57° north
-18408,2013-05-19 12:33:26,talisker 57° north,Dworgi,http://www.reddit.com/r/Scotch/comments/1en1kc/review_20_talisker_57_north/ca1t6hi,92.0,island ,,2013-05-19,talisker 57° north
-18409,2013-12-08 01:49:27,talisker 57° north,ecb29,http://www.reddit.com/r/Scotch/comments/1sdih7/review_talisker_57_north/,69.0,island ,,2013-12-08,talisker 57° north
-18410,2014-12-12 05:33:06,talisker 57° north,fat-chunk,http://www.reddit.com/r/Scotch/comments/2o3dci/review_2_talisker_57_north/,92.0,island,,2014-12-03,talisker 57° north
-18411,2015-07-11 20:17:22,talisker 57° north,HawkI84,https://www.reddit.com/r/Scotch/comments/3cyvzu/review_85_talisker_57_north/,90.0,island,100.0,2015-07-11,talisker 57° north
-18412,2012-08-14 09:13:01,talisker 57° north,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/y78b7/reviews_triple_talisker_tuesday/,,island ,,2012-08-14,talisker 57° north
-18413,2017-01-11 20:52:35,talisker 57° north,Imaslapyou,https://www.reddit.com/r/Scotch/comments/5ngsri/review_29_talisker_57_north/?ref=share&ref_source=link,87.0,island,,2017-01-11,talisker 57° north
-18414,2015-12-17 15:25:12,talisker 57° north,JCappy,https://www.reddit.com/r/Scotch/comments/3x9ipm/reviews_5152_glendronach_21_parliament_and/,87.0,island,,2015-12-17,talisker 57° north
-18415,2013-12-31 13:20:04,talisker 57° north,Joan_de_Gant,http://www.reddit.com/r/Scotch/comments/1rwot3/review_15_talisker_57_north/,77.0,island ,58.0,2013-12-02,talisker 57° north
-18416,,talisker 57° north,kdz13,https://www.reddit.com/r/Scotch/comments/5a45ab/talisker_57_north_two_reviews/,92.0,island,,,talisker 57° north
-18417,2015-07-17 14:41:39,talisker 57° north,kinohead,https://www.reddit.com/r/Scotch/comments/393uk2/review_104_talisker_57_north/?,85.0,island,,2015-06-15,talisker 57° north
-18418,2014-01-24 13:21:06,talisker 57° north,Krisjoon,http://www.reddit.com/r/Scotch/comments/1vzy8z/talisker_57n_review_15/,88.0,island ,80.0,2014-01-23,talisker 57° north
-18419,2015-02-27 14:43:15,talisker 57° north,LetThereBeR0ck,http://www.reddit.com/r/Scotch/comments/2xcetx/talisker_time_four_reviews_from_the_isle_of_skye/,90.0,island,,2015-02-27,talisker 57° north
-18420,2016-02-25 11:30:02,talisker 57° north,maxrecline,https://www.reddit.com/r/Scotch/comments/47jy8n/you_talisker_you_brought_er_reviews_3236/,85.0,island,,2016-02-25,talisker 57° north
-18421,2015-05-06 20:28:24,talisker 57° north,muaddib99,http://www.reddit.com/r/Scotch/comments/354jbf/review_82_talisker_57_north/ ,89.0,island,,2015-05-06,talisker 57° north
-18422,2014-02-18 08:39:10,talisker 57° north,pepe_le_shoe,http://www.reddit.com/r/Scotch/comments/1y8rwr/talisker_57_north_review_11/,88.0,island ,,2014-02-18,talisker 57° north
-18423,2015-09-16 02:57:51,talisker 57° north,Red_Diesel,https://www.reddit.com/r/Scotch/comments/3kxcg3/review_3_talisker_57_north/,86.0,island,,2015-09-14,talisker 57° north
-18424,2016-04-08 16:11:10,talisker 57° north,reddbdb,https://www.reddit.com/r/Scotch/comments/4dydql/reviews_talisker_triple_threat/,91.0,island,100.0,2016-03-19,talisker 57° north
-18425,2014-01-09 12:05:00,talisker 57° north,Rhetoriclese,http://www.reddit.com/r/Scotch/comments/1tl3y2/review_talisker_57_north/,87.0,island ,90.0,2013-12-23,talisker 57° north
-18426,2015-10-23 11:19:32,talisker 57° north,Shane_IL,https://www.reddit.com/r/Scotch/comments/3px7jr/talisker_57_north_review_113/,94.0,island,,2015-10-23,talisker 57° north
-18427,2014-04-20 21:19:08,talisker 57° north,sphericalbovinae,http://www.reddit.com/r/Scotch/comments/23icgd/reviews_137_this_took_way_too_fucking_long/,86.0,island ,150.0,2014-04-20,talisker 57° north
-18428,2012-10-25 15:31:24,talisker 57° north,stenskott,http://www.reddit.com/r/Scotch/comments/1232dk/2nd_and_3rd_reviews_ardbeg_uigeadail_talisker_57/,92.0,island ,85.0,2012-10-25,talisker 57° north
-18429,2011-11-18 20:04:39,talisker 57° north,sunsolid,http://www.reddit.com/r/Scotch/comments/kd3hn/talisker_57_north_a_review/,96.0,island ,,2011-09-12,talisker 57° north
-18430,2014-07-08 08:06:57,talisker 57° north,TOModera,http://www.reddit.com/r/Scotch/comments/2a51st/talisker_57_north_review/,79.0,island ,,2014-07-08,talisker 57° north
-18431,2013-01-15 06:22:19,talisker 57° north,UncleTobys,http://www.reddit.com/r/Scotch/comments/16m4h2/review_talisker_57_north/,93.0,island ,130.0,2013-01-15,talisker 57° north
-18432,2013-05-03 13:10:13,talisker 57° north,UpYourButtJobu,http://www.reddit.com/r/Scotch/comments/1dmrfr/talisker_57_north_review_10/,93.0,island ,92.0,2013-05-03,talisker 57° north
-18433,2014-02-24 10:09:57,talisker 57° north,WhiskyBraj,http://www.reddit.com/r/Scotch/comments/1yswhc/review_8_talisker_57_north/,86.0,island ,,2014-02-25,talisker 57° north
+18402,2013-10-05 04:14:46,talisker 57 north,ayedfy,http://www.reddit.com/r/Scotch/comments/1npyz3/review_10_mystery_drams_from_uncletobys/ccl0blk,83.0,island ,130.0,2013-10-04,talisker 57 north
+18403,2014-01-11 17:22:41,talisker 57 north,bigmoneysalsa,http://www.reddit.com/r/Scotch/comments/1t76jo/review_talisker_57_north/,80.0,island ,,2013-12-18,talisker 57 north
+18404,2015-01-28 09:20:48,talisker 57 north,CandyMan77,http://www.reddit.com/r/Scotch/comments/2tyev7/review_10_tartan_ahoy_talisker_57_north/,96.0,island,,2015-01-28,talisker 57 north
+18405,,talisker 57 north,cjotto9,https://www.reddit.com/r/Scotch/comments/31qw7h/review_50_talisker_57n/?ref=search_posts,90.0,island,87.0,,talisker 57 north
+18406,2012-10-04 14:47:46,talisker 57 north,DE884,http://www.reddit.com/r/Scotch/comments/10yb2u/talisker_57_north_review/,87.0,island ,,2012-10-01,talisker 57 north
+18407,2016-01-26 13:03:19,talisker 57 north,DnD_References,https://www.reddit.com/r/Scotch/comments/42qdxg/review_8_talisker_storm_review_9_talisker_57_north/,93.0,island,65.0,2016-01-25,talisker 57 north
+18408,2013-05-19 12:33:26,talisker 57 north,Dworgi,http://www.reddit.com/r/Scotch/comments/1en1kc/review_20_talisker_57_north/ca1t6hi,92.0,island ,,2013-05-19,talisker 57 north
+18409,2013-12-08 01:49:27,talisker 57 north,ecb29,http://www.reddit.com/r/Scotch/comments/1sdih7/review_talisker_57_north/,69.0,island ,,2013-12-08,talisker 57 north
+18410,2014-12-12 05:33:06,talisker 57 north,fat-chunk,http://www.reddit.com/r/Scotch/comments/2o3dci/review_2_talisker_57_north/,92.0,island,,2014-12-03,talisker 57 north
+18411,2015-07-11 20:17:22,talisker 57 north,HawkI84,https://www.reddit.com/r/Scotch/comments/3cyvzu/review_85_talisker_57_north/,90.0,island,100.0,2015-07-11,talisker 57 north
+18412,2012-08-14 09:13:01,talisker 57 north,Hello_Nasty,http://www.reddit.com/r/Scotch/comments/y78b7/reviews_triple_talisker_tuesday/,,island ,,2012-08-14,talisker 57 north
+18413,2017-01-11 20:52:35,talisker 57 north,Imaslapyou,https://www.reddit.com/r/Scotch/comments/5ngsri/review_29_talisker_57_north/?ref=share&ref_source=link,87.0,island,,2017-01-11,talisker 57 north
+18414,2015-12-17 15:25:12,talisker 57 north,JCappy,https://www.reddit.com/r/Scotch/comments/3x9ipm/reviews_5152_glendronach_21_parliament_and/,87.0,island,,2015-12-17,talisker 57 north
+18415,2013-12-31 13:20:04,talisker 57 north,Joan_de_Gant,http://www.reddit.com/r/Scotch/comments/1rwot3/review_15_talisker_57_north/,77.0,island ,58.0,2013-12-02,talisker 57 north
+18416,,talisker 57 north,kdz13,https://www.reddit.com/r/Scotch/comments/5a45ab/talisker_57_north_two_reviews/,92.0,island,,,talisker 57 north
+18417,2015-07-17 14:41:39,talisker 57 north,kinohead,https://www.reddit.com/r/Scotch/comments/393uk2/review_104_talisker_57_north/?,85.0,island,,2015-06-15,talisker 57 north
+18418,2014-01-24 13:21:06,talisker 57 north,Krisjoon,http://www.reddit.com/r/Scotch/comments/1vzy8z/talisker_57n_review_15/,88.0,island ,80.0,2014-01-23,talisker 57 north
+18419,2015-02-27 14:43:15,talisker 57 north,LetThereBeR0ck,http://www.reddit.com/r/Scotch/comments/2xcetx/talisker_time_four_reviews_from_the_isle_of_skye/,90.0,island,,2015-02-27,talisker 57 north
+18420,2016-02-25 11:30:02,talisker 57 north,maxrecline,https://www.reddit.com/r/Scotch/comments/47jy8n/you_talisker_you_brought_er_reviews_3236/,85.0,island,,2016-02-25,talisker 57 north
+18421,2015-05-06 20:28:24,talisker 57 north,muaddib99,http://www.reddit.com/r/Scotch/comments/354jbf/review_82_talisker_57_north/ ,89.0,island,,2015-05-06,talisker 57 north
+18422,2014-02-18 08:39:10,talisker 57 north,pepe_le_shoe,http://www.reddit.com/r/Scotch/comments/1y8rwr/talisker_57_north_review_11/,88.0,island ,,2014-02-18,talisker 57 north
+18423,2015-09-16 02:57:51,talisker 57 north,Red_Diesel,https://www.reddit.com/r/Scotch/comments/3kxcg3/review_3_talisker_57_north/,86.0,island,,2015-09-14,talisker 57 north
+18424,2016-04-08 16:11:10,talisker 57 north,reddbdb,https://www.reddit.com/r/Scotch/comments/4dydql/reviews_talisker_triple_threat/,91.0,island,100.0,2016-03-19,talisker 57 north
+18425,2014-01-09 12:05:00,talisker 57 north,Rhetoriclese,http://www.reddit.com/r/Scotch/comments/1tl3y2/review_talisker_57_north/,87.0,island ,90.0,2013-12-23,talisker 57 north
+18426,2015-10-23 11:19:32,talisker 57 north,Shane_IL,https://www.reddit.com/r/Scotch/comments/3px7jr/talisker_57_north_review_113/,94.0,island,,2015-10-23,talisker 57 north
+18427,2014-04-20 21:19:08,talisker 57 north,sphericalbovinae,http://www.reddit.com/r/Scotch/comments/23icgd/reviews_137_this_took_way_too_fucking_long/,86.0,island ,150.0,2014-04-20,talisker 57 north
+18428,2012-10-25 15:31:24,talisker 57 north,stenskott,http://www.reddit.com/r/Scotch/comments/1232dk/2nd_and_3rd_reviews_ardbeg_uigeadail_talisker_57/,92.0,island ,85.0,2012-10-25,talisker 57 north
+18429,2011-11-18 20:04:39,talisker 57 north,sunsolid,http://www.reddit.com/r/Scotch/comments/kd3hn/talisker_57_north_a_review/,96.0,island ,,2011-09-12,talisker 57 north
+18430,2014-07-08 08:06:57,talisker 57 north,TOModera,http://www.reddit.com/r/Scotch/comments/2a51st/talisker_57_north_review/,79.0,island ,,2014-07-08,talisker 57 north
+18431,2013-01-15 06:22:19,talisker 57 north,UncleTobys,http://www.reddit.com/r/Scotch/comments/16m4h2/review_talisker_57_north/,93.0,island ,130.0,2013-01-15,talisker 57 north
+18432,2013-05-03 13:10:13,talisker 57 north,UpYourButtJobu,http://www.reddit.com/r/Scotch/comments/1dmrfr/talisker_57_north_review_10/,93.0,island ,92.0,2013-05-03,talisker 57 north
+18433,2014-02-24 10:09:57,talisker 57 north,WhiskyBraj,http://www.reddit.com/r/Scotch/comments/1yswhc/review_8_talisker_57_north/,86.0,island ,,2014-02-25,talisker 57 north
 18434,2016-11-02 03:34:11,talisker 8 provenance,NobleArc,https://www.reddit.com/r/Scotch/comments/5aorv3/reviews_4754_douglas_laing_offerings/,85.0,island,,2016-11-01,talisker 8 provenance
 18435,2016-10-27 09:25:25,talisker dark storm,belbivfreeordie,https://www.reddit.com/r/ScotchSwap/comments/59ioer/its_happening_2016_mystery_swap_review_thread_go/d99e359/?context=3,84.0,island,,2016-10-26,talisker dark storm
 18436,2013-07-15 02:40:28,talisker dark storm,Dworgi,http://www.reddit.com/r/Scotch/comments/1iauiu/reviews_3133_talisker_vertical_18_port_ruighe/cb2ntws,80.0,island ,60.0,2013-07-15,talisker dark storm
@@ -18609,17 +18608,17 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 18607,2015-02-27 18:34:28,taos lightning 17 rye k&l,sp1ip,http://www.reddit.com/r/bourbon/comments/2xbh1g/review_8_taos_lightning_17_year_rye_kl_cask_15/,80.0,rye,,2015-02-26,taos lightning 17 rye k&l
 18608,2015-05-11 13:00:10,taos lightning 17 rye k&l,TOModera,http://www.reddit.com/r/bourbon/comments/35l8ks/mystery_dram_from_kilrathi_review/,84.0,bourbon,,2015-05-11,taos lightning 17 rye k&l
 18609,2017-01-12 07:49:13,tasgall 30,The_edref,https://www.reddit.com/r/Scotch/comments/5njdb7/review_1_tasgall_30/,85.0,blend,,2017-01-12,tasgall 30
-18610,2011-11-18 20:39:27,té bheag,Bravado,http://www.reddit.com/r/Scotch/comments/hql0z/te_bheag_review/,84.0,blend,,2011-06-02,té bheag
-18611,2016-05-12 13:49:54,té bheag,cpfselfbuilt,https://www.reddit.com/r/Scotch/comments/4j26xo/review_3_t%C3%A9_bheag_blended_gaelic_whisky/,83.0,blend,,2016-05-12,té bheag
-18612,2015-02-15 18:36:20,té bheag,Dob4557,http://www.reddit.com/r/Scotch/comments/2w0u6f/t%C3%A9_bheag_my_humble_review/,85.0,blend,,2015-02-15,té bheag
-18613,2012-12-27 11:58:59,té bheag,Fleming007,http://www.reddit.com/r/Scotch/comments/10lp53/té_bheag_review/,90.0,blend,,2012-09-27,té bheag
-18614,2014-01-11 07:44:36,té bheag,gaxkang,http://www.reddit.com/r/Scotch/comments/1uyh6d/a_review_te_bheag/,85.0,blend,20.0,2014-01-11,té bheag
-18615,2012-09-19 22:26:53,té bheag,headlessparrot,http://www.reddit.com/r/Scotch/comments/1068m6/first_review_t%C3%A9_bheag_gaelic_whisky/,85.0,blend,,2012-09-19,té bheag
-18616,2012-06-14 20:03:38,té bheag,le_canuck,http://www.reddit.com/r/Scotch/comments/v2nc8/t%C3%A9_bheag_a_review/,80.0,blend,,2012-06-14,té bheag
-18617,2014-05-20 19:02:02,té bheag,muaddib99,http://www.reddit.com/r/Scotch/comments/262qwg/review_27_te_bheag_ncf_blend_best_blend_yet/,79.0,blend,37.0,2014-05-20,té bheag
-18618,2012-03-13 20:25:58,té bheag,StudioRat,http://www.reddit.com/r/Scotch/comments/qvjs2/review_te_bheag/,84.0,blend,,2012-03-13,té bheag
-18619,2015-04-21 08:32:58,té bheag,TOModera,http://www.reddit.com/r/Scotch/comments/33colk/t%C3%A9_bheag_review/,77.0,blend,,2015-04-21,té bheag
-18620,2015-04-06 00:02:55,té bheag,uninnocent,http://www.reddit.com/r/Scotch/comments/31lhbl/review_06_té_bheag_blended_scotch_whisky/,80.0,blend,,2015-04-05,té bheag
+18610,2011-11-18 20:39:27,t bheag,Bravado,http://www.reddit.com/r/Scotch/comments/hql0z/te_bheag_review/,84.0,blend,,2011-06-02,t bheag
+18611,2016-05-12 13:49:54,t bheag,cpfselfbuilt,https://www.reddit.com/r/Scotch/comments/4j26xo/review_3_t%C3%A9_bheag_blended_gaelic_whisky/,83.0,blend,,2016-05-12,t bheag
+18612,2015-02-15 18:36:20,t bheag,Dob4557,http://www.reddit.com/r/Scotch/comments/2w0u6f/t%C3%A9_bheag_my_humble_review/,85.0,blend,,2015-02-15,t bheag
+18613,2012-12-27 11:58:59,t bheag,Fleming007,http://www.reddit.com/r/Scotch/comments/10lp53/t_bheag_review/,90.0,blend,,2012-09-27,t bheag
+18614,2014-01-11 07:44:36,t bheag,gaxkang,http://www.reddit.com/r/Scotch/comments/1uyh6d/a_review_te_bheag/,85.0,blend,20.0,2014-01-11,t bheag
+18615,2012-09-19 22:26:53,t bheag,headlessparrot,http://www.reddit.com/r/Scotch/comments/1068m6/first_review_t%C3%A9_bheag_gaelic_whisky/,85.0,blend,,2012-09-19,t bheag
+18616,2012-06-14 20:03:38,t bheag,le_canuck,http://www.reddit.com/r/Scotch/comments/v2nc8/t%C3%A9_bheag_a_review/,80.0,blend,,2012-06-14,t bheag
+18617,2014-05-20 19:02:02,t bheag,muaddib99,http://www.reddit.com/r/Scotch/comments/262qwg/review_27_te_bheag_ncf_blend_best_blend_yet/,79.0,blend,37.0,2014-05-20,t bheag
+18618,2012-03-13 20:25:58,t bheag,StudioRat,http://www.reddit.com/r/Scotch/comments/qvjs2/review_te_bheag/,84.0,blend,,2012-03-13,t bheag
+18619,2015-04-21 08:32:58,t bheag,TOModera,http://www.reddit.com/r/Scotch/comments/33colk/t%C3%A9_bheag_review/,77.0,blend,,2015-04-21,t bheag
+18620,2015-04-06 00:02:55,t bheag,uninnocent,http://www.reddit.com/r/Scotch/comments/31lhbl/review_06_t_bheag_blended_scotch_whisky/,80.0,blend,,2015-04-05,t bheag
 18621,2012-09-05 22:01:49,teacher's highland cream,Ardentfrost,http://www.reddit.com/r/Scotch/comments/zf9ye/teachers_highland_cream_costeffective_first_review/,,blend,15.0,2012-09-05,teacher highland cream
 18622,2013-06-28 20:57:46,teacher's highland cream,baudtack,http://www.reddit.com/r/Scotch/comments/1hadhq/review_teachers_highland_cream/,75.0,blend,30.0,2013-06-28,teacher highland cream
 18623,2013-07-26 05:40:48,teacher's highland cream,danieljr1992,http://www.reddit.com/r/Scotch/comments/1hsp3e/review_4_teachers_highland_cream/,82.0,blend,35.0,2013-07-07,teacher highland cream
@@ -18897,11 +18896,11 @@ id,timestamp,whisky_name,reviewer_username,link,rating,style,bottle_price,review
 18895,2013-04-08 04:28:46,tomatin 7 2005 riegger's,primedape,http://www.reddit.com/r/Scotch/comments/1bwoi7/rieggers_tomatin_20052012_islecaskfinish/,66.0,highland ,33.0,2013-04-08,tomatin seven 2005 riegger
 18896,2017-01-31 17:43:02,tomatin 8 caribbean rum cask,Gr1ggs,https://www.reddit.com/r/Scotch/comments/5lkfu5/review_1216_casc_whisky_club_invergordon_18/,83.0,highland,,2017-02-01,tomatin 8 caribbean rum cask
 18897,2015-05-30 10:07:50,tomatin cask strength,cake_my_day,https://www.reddit.com/r/Scotch/comments/37ukwt/tomatin_cask_strength_a_review/,86.0,highland,,2015-05-30,tomatin cask strength
-18898,2014-01-05 16:47:19,tomatin cù bòcan,Dworgi,http://www.reddit.com/r/Scotch/comments/1tyi5k/review_115_tomatin_cu_bocan/cecpqgd ,55.0,highland ,,2013-12-29,tomatin cù bòcan
-18899,2014-10-29 14:20:29,tomatin cù bòcan,gibbonwl,http://www.reddit.com/r/Scotch/comments/2kpapp/review_3_tomatin_cu_bocan/ ,83.0,highland,,2014-10-29,tomatin cù bòcan
-18900,2015-04-07 16:41:58,tomatin cù bòcan,headlessparrot,http://www.reddit.com/r/Scotch/comments/31sq14/review_tomatin_c%C3%B9_b%C3%B2can/ ,79.0,highland,,2015-04-07,tomatin cù bòcan
-18901,2014-04-08 08:03:34,tomatin cù bòcan,TOModera,http://www.reddit.com/r/Scotch/comments/22ig0r/tomatin_undereview_12_15_18_18_cadenhead_20/,68.0,highland ,,2014-04-08,tomatin cù bòcan
-18902,2017-02-27 14:37:40,tomatin cù bòcan 1989 limited edition,cpfselfbuilt,https://www.reddit.com/r/Scotch/comments/5wj7oc/review_18_tomatin_cu_bocan_1989_limited_edition/,89.0,highland,,2017-02-27,tomatin cù bòcan 1989 limited edition
+18898,2014-01-05 16:47:19,tomatin c bcan,Dworgi,http://www.reddit.com/r/Scotch/comments/1tyi5k/review_115_tomatin_cu_bocan/cecpqgd ,55.0,highland ,,2013-12-29,tomatin c bcan
+18899,2014-10-29 14:20:29,tomatin c bcan,gibbonwl,http://www.reddit.com/r/Scotch/comments/2kpapp/review_3_tomatin_cu_bocan/ ,83.0,highland,,2014-10-29,tomatin c bcan
+18900,2015-04-07 16:41:58,tomatin c bcan,headlessparrot,http://www.reddit.com/r/Scotch/comments/31sq14/review_tomatin_c%C3%B9_b%C3%B2can/ ,79.0,highland,,2015-04-07,tomatin c bcan
+18901,2014-04-08 08:03:34,tomatin c bcan,TOModera,http://www.reddit.com/r/Scotch/comments/22ig0r/tomatin_undereview_12_15_18_18_cadenhead_20/,68.0,highland ,,2014-04-08,tomatin c bcan
+18902,2017-02-27 14:37:40,tomatin c bcan 1989 limited edition,cpfselfbuilt,https://www.reddit.com/r/Scotch/comments/5wj7oc/review_18_tomatin_cu_bocan_1989_limited_edition/,89.0,highland,,2017-02-27,tomatin c bcan 1989 limited edition
 18903,2016-10-15 13:59:03,tomatin decades,lvl1dramacenter,https://www.reddit.com/r/Scotch/comments/57nghs/reviews_2024_some_ob_tomatins/,87.0,highland,100.0,2016-10-15,tomatin
 18904,2013-10-18 19:05:45,tomatin decades,mattofmattfame,http://www.reddit.com/r/Scotch/comments/1oi459/the_official_rscotchswap_mystery_exchange_review/ccsbwv3,84.0,highland ,,2013-10-15,tomatin
 18905,2013-04-17 19:57:05,tomatin decades,midwestredditor,http://www.reddit.com/r/Scotch/comments/13t5oe/tomatin_decades_review_3/,73.0,highland ,100.0,2012-11-26,tomatin

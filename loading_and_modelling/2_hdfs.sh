@@ -7,10 +7,10 @@ FILELIST=`ls -l data/* | awk '{print $9}'`
 echo "" > $TEMPLATE
 for f in $FILELIST ; do
   FILENAME=`basename $f`
-  DIRNAME=`echo "${FILENAME%%.*}"`
+  DIRNAME=`echo "${FILENAME%%.*}_raw"`
   echo generating table $DIRNAME from file $FILENAME
   hdfs dfs -mkdir $HDFSDIR/$DIRNAME
-  hdfs dfs -put $f $HDFSDIR/$DIRNAME/$FILENAME
+  hdfs dfs -put $f $HDFSDIR/$DIRNAME/$FILENAME"_raw"
   printf "DROP TABLE $DIRNAME;\n" >> $TEMPLATE
   printf "CREATE EXTERNAL TABLE $DIRNAME (" >> $TEMPLATE
   HEADERS=`sed 's/,/ String,/g' headers/$FILENAME | sed 's/"//g'`
