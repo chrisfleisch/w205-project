@@ -20,7 +20,7 @@ echo "" > $TEMPLATE
 for f in $FILELIST; do
   FILENAME=`basename $f`
   TABLENAME=`echo "${FILENAME%%.*}"`
-  HEADERS=`sed 's/"//g' $HEADERSDIR/$FILENAME | sed 's/,/, /g'`
+  HEADERS=`sed 's/"//g' $HEADERSDIR/$FILENAME | sed 's/,/, /g' | sed '1s/^\xEF\xBB\xBF//' `
   printf "DROP TABLE $TABLENAME;\n" >> $TEMPLATE
   printf "CREATE TABLE $TABLENAME AS SELECT " >> $TEMPLATE
   printf "$HEADERS FROM $TABLENAME$RAWSUFFIX;\n\n" >> $TEMPLATE
