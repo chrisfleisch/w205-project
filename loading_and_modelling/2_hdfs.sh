@@ -13,7 +13,7 @@ for f in $FILELIST ; do
   hdfs dfs -put $f $HDFSDIR/$DIRNAME/$FILENAME"_raw"
   printf "DROP TABLE $DIRNAME;\n" >> $TEMPLATE
   printf "CREATE EXTERNAL TABLE $DIRNAME (" >> $TEMPLATE
-  HEADERS=`sed 's/,/ String,/g' headers/$FILENAME | sed 's/"//g'`
+  HEADERS=`sed 's/,/ String,/g' headers/$FILENAME | sed 's/"//g' | sed '1s/^\xEF\xBB\xBF//' `
   printf "$HEADERS String)\nROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'\nWITH SERDEPROPERTIES(\n\"separatorChar\"=\",\",\n\"quoteChar\"=\"\\\\\"\",\n\"escapeChar\"=\'\\\\\\\\\'\n)\nSTORED AS TEXTFILE\nLOCATION \'$HDFSDIR/$DIRNAME\';\n\n" >> $TEMPLATE
 done
 
