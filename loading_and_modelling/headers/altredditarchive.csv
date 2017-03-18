@@ -1,1 +1,1 @@
-id,timestamp,whiskyname,reviewerusername,link,rating,style,bottleprice,reviewdate,altbrand
+timestamp,whiskyname,reviewerusername,link,rating,style,bottleprice,reviewdate,altbrand,altbottleprice
