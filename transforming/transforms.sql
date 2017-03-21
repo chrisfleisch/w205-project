@@ -1,9 +1,9 @@
 
 DROP TABLE altredditarchive;
-CREATE TABLE altredditarchive AS SELECT timestamp, whiskyname, reviewerusername, link, cast(Rating as int), style, bottleprice, reviewdate, altbrand, cast(altbottleprice as float) FROM altredditarchive_raw;
+CREATE TABLE altredditarchive AS SELECT timestamp, whiskyname, reviewerusername, link, cast(Rating as int) as rating, style, bottleprice, reviewdate, altbrand, cast(altbottleprice as float) as altbottleprice FROM altredditarchive_raw;
 
 DROP TABLE altvaprices;
-CREATE TABLE altvaprices AS SELECT description, code, brand, size, age, cast(Proof as float), price, altbrand, cast(oz as float), cast(altprice as float), cast(altage as float) FROM altvaprices_raw;
+CREATE TABLE altvaprices AS SELECT description, code, brand, size, age, cast(Proof as float) as proof, price, altbrand, cast(oz as float) as oz, cast(altprice as float) as altprice, cast(altage as float) as altage FROM altvaprices_raw;
 
 DROP TABLE MetaCriticWhiskyDatabase;
 CREATE TABLE MetaCriticWhiskyDatabase AS SELECT Whisky, cast(MetaCritic as float), cast(STDEV as float), cast(Number as int), cast(Cost as float), Class, SuperCluster, Cluster, Country, Type FROM MetaCriticWhiskyDatabase_raw;
