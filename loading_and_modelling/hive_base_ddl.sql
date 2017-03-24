@@ -1,6 +1,6 @@
 
-DROP TABLE altredditarchive_raw;
-CREATE EXTERNAL TABLE altredditarchive_raw (timestamp String,whiskyname String,reviewerusername String,link String,rating String,style String,bottleprice String,reviewdate String,altbrand String,altbottleprice String)
+DROP TABLE metacritic_raw;
+CREATE EXTERNAL TABLE metacritic_raw (whisky String,metacritic String,stdev String,Number String,cost String,class String,supercluster String,cluster String,country String,type String,altbrand String)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
 WITH SERDEPROPERTIES(
 "separatorChar"=",",
@@ -8,32 +8,10 @@ WITH SERDEPROPERTIES(
 "escapeChar"='\\'
 )
 STORED AS TEXTFILE
-LOCATION '/user/w205/whiskey/altredditarchive_raw';
-
-DROP TABLE altvaprices_raw;
-CREATE EXTERNAL TABLE altvaprices_raw (description String,code String,brand String,size String,age String,proof String,price String,altbrand String,oz String,altprice String,altage String)
-ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
-WITH SERDEPROPERTIES(
-"separatorChar"=",",
-"quoteChar"="\"",
-"escapeChar"='\\'
-)
-STORED AS TEXTFILE
-LOCATION '/user/w205/whiskey/altvaprices_raw';
-
-DROP TABLE MetaCriticWhiskyDatabase_raw;
-CREATE EXTERNAL TABLE MetaCriticWhiskyDatabase_raw (Whisky String,MetaCritic String,STDEV String,Number String,Cost String,Class String,SuperCluster String,Cluster String,Country String,Type String)
-ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
-WITH SERDEPROPERTIES(
-"separatorChar"=",",
-"quoteChar"="\"",
-"escapeChar"='\\'
-)
-STORED AS TEXTFILE
-LOCATION '/user/w205/whiskey/MetaCriticWhiskyDatabase_raw';
+LOCATION '/user/w205/whiskey/metacritic_raw';
 
 DROP TABLE proof_raw;
-CREATE EXTERNAL TABLE proof_raw (Name String,Rating String,Rabble String,Price String)
+CREATE EXTERNAL TABLE proof_raw (name String,rating String,rabble String,price String,altbrand String)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
 WITH SERDEPROPERTIES(
 "separatorChar"=",",
@@ -43,8 +21,8 @@ WITH SERDEPROPERTIES(
 STORED AS TEXTFILE
 LOCATION '/user/w205/whiskey/proof_raw';
 
-DROP TABLE RedditWhiskyNetworkReviewArchiveReviewArchive_raw;
-CREATE EXTERNAL TABLE RedditWhiskyNetworkReviewArchiveReviewArchive_raw (Timestamp String,WhiskyName String,ReviewersRedditUsername String,LinkToRedditReview String,ReviewerRating String,WhiskyRegionorStyle String,FullBottlePricePaid String,DateofReview String)
+DROP TABLE redditarchive_raw;
+CREATE EXTERNAL TABLE redditarchive_raw (timestamp String,whiskyname String,reviewerusername String,link String,rating String,style String,bottleprice String,reviewdate String,altbrand String,altbottleprice String)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
 WITH SERDEPROPERTIES(
 "separatorChar"=",",
@@ -52,10 +30,10 @@ WITH SERDEPROPERTIES(
 "escapeChar"='\\'
 )
 STORED AS TEXTFILE
-LOCATION '/user/w205/whiskey/RedditWhiskyNetworkReviewArchiveReviewArchive_raw';
+LOCATION '/user/w205/whiskey/redditarchive_raw';
 
-DROP TABLE VAPriceList_raw;
-CREATE EXTERNAL TABLE VAPriceList_raw (Description String,Code String,Brand String,Size String,Age String,Proof String,Price String)
+DROP TABLE vaprices_raw;
+CREATE EXTERNAL TABLE vaprices_raw (description String,code String,brand String,size String,age String,proof String,price String,altbrand String,oz String,altprice String,altage String)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
 WITH SERDEPROPERTIES(
 "separatorChar"=",",
@@ -63,5 +41,5 @@ WITH SERDEPROPERTIES(
 "escapeChar"='\\'
 )
 STORED AS TEXTFILE
-LOCATION '/user/w205/whiskey/VAPriceList_raw';
+LOCATION '/user/w205/whiskey/vaprices_raw';
 
