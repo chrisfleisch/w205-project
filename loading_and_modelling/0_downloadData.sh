@@ -1,2 +1,2 @@
 mkdir data/
-cp ../data/* data/
+cp ../data_transformed/* data/

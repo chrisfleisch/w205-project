@@ -14,8 +14,8 @@ for f in data/*-*; do mv "$f" "${f//-/}" ; done
 for f in data/*_*; do mv "$f" "${f//_/}" ; done
 
 #The VA price list stinks and includes an additional line at the top of their CSV... Cmon guys. What is this amateur hour?
-VAFILE=data/VAPriceList.csv
-tail -n +2  $VAFILE > $VAFILE"_" ; mv $VAFILE"_" $VAFILE
+#VAFILE=data/VAPriceList.csv
+#tail -n +2  $VAFILE > $VAFILE"_" ; mv $VAFILE"_" $VAFILE
 
 #Strip out non-ascii characters which for some reason exist in some of these files.
 sed -i 's/[\d128-\d255]//g' data/*.csv

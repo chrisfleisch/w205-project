@@ -68,3 +68,5 @@ dependencies:
   - prompt-toolkit==1.0.9
   - python-levenshtein==0.12.0
   - sympy==0.7.6.1
+  - bs4==0.0.1
+  - lxml==3.7.3 
