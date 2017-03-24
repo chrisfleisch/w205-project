@@ -31,10 +31,6 @@ Put data into HDFS:
 
 `./load_data_lake.sh`
 
-Put data into hive:
-
-`hive -f hive_base_ddl.sql`
-
 Transform data in hive:
 
 `cd ../transforming`
