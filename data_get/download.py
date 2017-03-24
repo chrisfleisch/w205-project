@@ -5,7 +5,9 @@ import requests
 from bs4 import BeautifulSoup
 
 
-save_dir = os.path.join('..', 'data_source')
+dir_path = os.path.dirname(os.path.realpath(__file__))
+save_dir = os.path.join(dir_path, '..', 'data_source')
+
 
 def download():
     urls = {'reddit_archive': 'https://docs.google.com/spreadsheets/d/1X1HTxkI6SqsdpNSkSSivMzpxNT-oeTbjFFDdEkXD30o/export?format=csv&id=1X1HTxkI6SqsdpNSkSSivMzpxNT-oeTbjFFDdEkXD30o&gid=695409533',
@@ -23,12 +25,12 @@ def download():
 def scrape():
     url = 'http://www.proof66.com/liquor/american-bourbon-whiskey.html'
     r = requests.get(url)
-    soup = BeautifulSoup(r.text, 'lxml')
+    soup = BeautifulSoup(r.text, 'html5lib')
     category_grid = soup.find_all("section", {"id": "categorygrid"})
     section = category_grid[0].select("div[class=row]")
     headers = ["Name", "Rating", "Rabble", "Price"]
     final_rows = []
-    for s in xrange(len(section)):
+    for s in range(len(section)):
         cells = section[s].find_all("span", {"class": "font14s480"})
         name = cells[0].get_text()
         rating = cells[1].get_text()
@@ -37,7 +39,7 @@ def scrape():
         final_rows.append([name, rating, rabble, price])
 
     file_path = os.path.join(save_dir, 'proof66.csv')
-    with open(file_path, 'wb') as f:
+    with open(file_path, 'w') as f:
         writer = csv.writer(f)
         writer.writerow(headers)
         for row in final_rows:

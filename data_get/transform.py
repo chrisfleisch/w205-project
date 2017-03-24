@@ -5,8 +5,11 @@ import pandas as pd
 from transformations import (my_va_transform, my_size_transform, transform_currency,
     my_wc_transform, my_proof_transform)
 
-read_dir = os.path.join('..', 'data_source')
-save_dir = os.path.join('..', 'data_transformed')
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+read_dir = os.path.join(dir_path, '..', 'data_source')
+save_dir = os.path.join(dir_path, '..', 'data_transformed')
+
 
 def transform_data():
     # transform va price list
