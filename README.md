@@ -39,4 +39,7 @@ Transform data in hive:
 
 `hive -f transforms.sql`
 
-Test out the sql:
+Pull final table down as CSV:
+
+`hive -e 'select * from whiskey_business' | sed 's/[\t]/,/g'  > /home/w205/w205-project/whiskey_business.csv`
+
