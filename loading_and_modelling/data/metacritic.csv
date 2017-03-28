@@ -91,7 +91,7 @@ Redbreast Lustau Edition,8.81,0.39,4,$$$$,SingleMalt-like,ABC,C,Ireland,Malt,edi
 Aberlour 12yo Non-Chill-Filtered,8.8,0.25,11,$$$,SingleMalt-like,ABC,B,Scotland,Malt,12 aberlour chill filtered non
 Amrut PX Sherry Single Cask,8.8,0.45,8,$$$$,SingleMalt-like,ABC,A,India,Malt,amrut cask px sherry single
 GlenDronach Cask Strength (batch 5),8.8,0.16,8,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,5 batch cask glendronach strength
-Green Spot Château Léoville Barton,8.8,0.33,7,$$$$,SingleMalt-like,ABC,C,Ireland,Blend,barton château green léoville spot
+Green Spot Chteau Loville Barton,8.8,0.33,7,$$$$,SingleMalt-like,ABC,C,Ireland,Blend,barton chteau green loville spot
 Highland Park 15yo Fire,8.8,0.43,6,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,15 fire highland park
 Royal Brackla 21yo,8.8,0.18,4,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,21 brackla royal
 Aberlour A'Bunadh (Batch 48),8.79,0.53,4,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,48 a'bunadh aberlour batch
@@ -140,7 +140,7 @@ Mortlach 15yo (Gordon & MacPhail),8.66,0.36,12,$$$$,SingleMalt-like,ABC,C,Scotla
 Sullivans Cove French Oak,8.66,0.29,8,$$$$$+,SingleMalt-like,ABC,C,Tasmania,Malt,cove french oak sullivans
 Aberfeldy 18yo,8.65,0.26,6,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 aberfeldy
 Karuizawa Asama Vintages 1999-2000,8.65,0.44,9,$$$$$+,SingleMalt-like,ABC,C,Japan,Malt,1999 2000 asama karuizawa vintages
-Redbreast Mano a Lámh,8.65,0.44,3,$$$,SingleMalt-like,ABC,C,Ireland,Malt,a lámh mano redbreast
+Redbreast Mano a Lmh,8.65,0.44,3,$$$,SingleMalt-like,ABC,C,Ireland,Malt,a lmh mano redbreast
 Arran Malt Madeira Wine Cask,8.64,0.43,10,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask madeira malt wine
 Hazelburn 12yo (Springbank),8.64,0.25,14,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,12 hazelburn springbank
 Laphroaig PX Triple Matured,8.64,0.58,12,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,laphroaig matured px triple
@@ -148,7 +148,7 @@ Macallan 25yo Fine Oak,8.64,0.25,3,$$$$$+,SingleMalt-like,ABC,C,Scotland,Malt,25
 Macallan Reflexion,8.64,0.32,3,$$$$$+,SingleMalt-like,ABC,A,Scotland,Malt,macallan reflexion
 Balvenie 16yo Triple Cask,8.63,0.23,9,$$$$,SingleMalt-like,ABC,A,Scotland,Malt,16 balvenie cask triple
 AnCnoc 2000,8.62,0.17,4,$$$$,SingleMalt-like,ABC,C,Scotland,Malt,2000 ancnoc
-Glenmorangie A Midwinter Night’s Dram,8.62,0.35,3,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,a dram glenmorangie midwinter nights
+Glenmorangie A Midwinter Nights Dram,8.62,0.35,3,$$$$$,SingleMalt-like,ABC,A,Scotland,Malt,a dram glenmorangie midwinter nights
 Penderyn Portwood,8.61,0.41,5,$$$,SingleMalt-like,ABC,C,Wales,Malt,penderyn portwood
 Arran Malt Port Cask Finish,8.6,0.4,11,$$$,SingleMalt-like,ABC,C,Scotland,Malt,arran cask finish malt port
 Glengoyne 18yo,8.6,0.38,13,$$$$$,SingleMalt-like,ABC,C,Scotland,Malt,18 glengoyne
@@ -264,7 +264,7 @@ Amrut Herald,8.91,0.16,6,$$$$,SingleMalt-like,EF,E,India,Malt,amrut herald
 Glen Grant 25yo,8.9,0.19,3,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,25 glen grant
 Macallan Edition No. 2,8.9,0.13,7,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,2 edition macallan
 Amrut Fusion,8.89,0.26,23,$$$$,SingleMalt-like,EF,E,India,Malt,amrut fusion
-Arran Malt The Devil’s Punch Bowl (all chapters),8.89,0.3,9,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,all arran bowl chapters devils malt punch the
+Arran Malt The Devils Punch Bowl (all chapters),8.89,0.3,9,$$$$$,SingleMalt-like,EF,E,Scotland,Malt,all arran bowl chapters devils malt punch the
 Glenmorangie Ealanta,8.89,0.29,14,$$$$$+,SingleMalt-like,EF,F,Scotland,Malt,ealanta glenmorangie
 Arran Malt Bourbon Single Cask,8.88,0.2,9,$$$$,SingleMalt-like,EF,E,Scotland,Malt,arran cask malt single
 Kavalan Solist Ex-Bourbon,8.87,0.24,17,$$$$$,SingleMalt-like,EF,E,Taiwan,Malt,ex kavalan solist
@@ -690,7 +690,7 @@ Amrut Portpipe Peated Single Cask,8.83,0.35,9,$$$$,SingleMalt-like,J,J,India,Mal
 Ileach Peated Islay Cask Strength,8.83,0.38,8,$$$,SingleMalt-like,J,J,Scotland,Malt,cask ileach islay peated strength
 Longrow CV,8.82,0.3,15,$$$,SingleMalt-like,J,J,Scotland,Malt,cv longrow
 Longrow Peated,8.82,0.18,12,$$$,SingleMalt-like,J,J,Scotland,Malt,longrow peated
-Bunnahabhain Ceòbanach,8.81,0.27,11,$$$$,SingleMalt-like,J,J,Scotland,Malt,bunnahabhain ceòbanach
+Bunnahabhain Cebanach,8.81,0.27,11,$$$$,SingleMalt-like,J,J,Scotland,Malt,bunnahabhain cebanach
 Ichiro's Malt Chichibu The Peated,8.81,0.34,7,$$$$$+,SingleMalt-like,J,J,Japan,Malt,chichibu ichiro malt peated the
 Bruichladdich Octomore 6.3,8.78,0.62,8,$$$$$,SingleMalt-like,J,J,Scotland,Malt,6.3 bruichladdich octomore
 Kilchoman Machir Bay (all vintages),8.78,0.26,20,$$$$,SingleMalt-like,J,J,Scotland,Malt,all bay kilchoman machir vintages
@@ -738,10 +738,10 @@ Johnnie Walker Blue Label,8.53,0.37,14,$$$$$,Scotch-like,,,Scotland,Blend,blue j
 Teeling Single Grain (Wine Cask Finish),8.53,0.32,10,$$$,Scotch-like,,,Ireland,Grain,cask finish grain single teeling wine
 Cutty Sark Prohibition,8.52,0.5,11,$$,Scotch-like,,,Scotland,Blend,cutty prohibition sark
 Johnnie Walker Green Label,8.52,0.4,16,$$$$,Scotch-like,,,Scotland,Blend,green johnnie walker
-Johnnie Walker Explorer’s Club The Gold Route,8.49,0.34,8,$$$$,Scotch-like,,,Scotland,Blend,club explorers gold johnnie route the walker
+Johnnie Walker Explorers Club The Gold Route,8.49,0.34,8,$$$$,Scotch-like,,,Scotland,Blend,club explorers gold johnnie route the walker
 Johnnie Walker Platinum Label,8.49,0.43,14,$$$$,Scotch-like,,,Scotland,Blend,johnnie platinum walker
 The Nikka 12yo Premium Blended,8.49,0.14,3,$$$$,Scotch-like,,,Japan,Blend,12 blended nikka premium
-Té Bheag,8.47,0.29,14,$$,Scotch-like,,,Scotland,Blend,bheag té
+T Bheag,8.47,0.29,14,$$,Scotch-like,,,Scotland,Blend,bheag t
 Famous Grouse Gold Reserve 12yo,8.45,0.34,9,$$,Scotch-like,,,Scotland,Blend,12 famous gold grouse reserve
 Jameson Distiller's Safe Irish Whiskey,8.45,0.65,3,$$$$,Scotch-like,,,Ireland,Blend,distiller jameson safe
 Jameson Gold Reserve,8.44,0.42,9,$$$$,Scotch-like,,,Ireland,Blend,gold jameson reserve
@@ -750,14 +750,14 @@ Johnnie Walker Double Black,8.42,0.45,14,$$,Scotch-like,,,Scotland,Blend,black d
 Three Ships 10yo,8.42,0.38,9,$$$$,Scotch-like,,,South Africa,Blend,10 ships three
 Jameson Bold Irish Whiskey,8.38,0.4,3,$$$$,Scotch-like,,,Ireland,Blend,bold jameson
 Jameson Signature Reserve,8.38,0.32,5,$$,Scotch-like,,,Ireland,Blend,jameson reserve signature
-Johnnie Walker Explorer’s Club The Spice Road,8.37,0.57,9,$$,Scotch-like,,,Scotland,Blend,club explorers johnnie road spice the walker
+Johnnie Walker Explorers Club The Spice Road,8.37,0.57,9,$$,Scotch-like,,,Scotland,Blend,club explorers johnnie road spice the walker
 Jameson 12yo Special Reserve,8.36,0.24,10,$$$$,Scotch-like,,,Ireland,Blend,12 jameson reserve special
 Johnnie Walker Rye Cask Finish,8.36,0.59,5,$$$,Scotch-like,,,Scotland,Blend,cask finish johnnie rye walker
 Bushmills Black Bush,8.35,0.4,20,$$,Scotch-like,,,Ireland,Blend,black bush bushmills
 Kirin 50% Blend (Fuji Gotemba),8.35,0.49,3,$$$$,Scotch-like,,,Japan,Blend,50% blend fuji gotemba kirin
 Jameson Select Reserve (Black Barrel),8.34,0.38,16,$$,Scotch-like,,,Ireland,Blend,barrel black jameson reserve select
-Johnnie Walker Explorer’s Club The Royal Route,8.33,0.42,7,$$$$$,Scotch-like,,,Scotland,Blend,club explorers johnnie route royal the walker
-The Irishman Founder’s Reserve,8.32,0.38,6,$$,Scotch-like,,,Ireland,Blend,founders man reserve
+Johnnie Walker Explorers Club The Royal Route,8.33,0.42,7,$$$$$,Scotch-like,,,Scotland,Blend,club explorers johnnie route royal the walker
+The Irishman Founders Reserve,8.32,0.38,6,$$,Scotch-like,,,Ireland,Blend,founders man reserve
 Suntory Old Whisky,8.3,0.33,7,$$$,Scotch-like,,,Japan,Blend,old suntory
 Bank Note 5yo Blended Scotch,8.28,0.58,4,$,Scotch-like,,,Scotland,Blend,5 bank blended note
 Johnnie Walker Gold Label Reserve,8.28,0.34,16,$$$$,Scotch-like,,,Scotland,Blend,gold johnnie reserve walker
@@ -790,7 +790,7 @@ Dewar's 12yo,7.91,0.28,12,$$,Scotch-like,,,Scotland,Blend,12 dewar
 Islay Mist 8yo,7.91,0.46,9,$,Scotch-like,,,Scotland,Blend,8 islay mist
 Jameson Lively Irish Whiskey,7.91,0.39,3,$$$$,Scotch-like,,,Ireland,Blend,jameson lively
 Compass Box Orangerie,7.9,0.8,7,$$,Scotch-like,,,Scotland,Blend,box compass orangerie
-Johnnie Walker Explorer’s Club The Adventurer,7.88,0.06,3,$$,Scotch-like,,,Scotland,Blend,adventurer club explorers johnnie the walker
+Johnnie Walker Explorers Club The Adventurer,7.88,0.06,3,$$,Scotch-like,,,Scotland,Blend,adventurer club explorers johnnie the walker
 Jameson Irish Whiskey,7.82,0.51,19,$$,Scotch-like,,,Ireland,Blend,jameson
 Black Bottle (after 2013 re-launch),7.79,0.39,10,$$,Scotch-like,,,Scotland,Blend,2013 after black bottle launch re
 Tullamore Dew Blended,7.78,0.38,16,$$,Scotch-like,,,Ireland,Blend,blended dew tullamore
@@ -812,7 +812,7 @@ Lot 40 Cask Strength,9.25,0.13,3,,Rye-like,,,Canada,Rye,40 cask lot strength
 High West Rocky Mountain Rye 16yo,9.19,0.33,4,$$$$$,Rye-like,,,USA,Rye,16 high mountain rocky rye west
 High West Rocky Mountain Rye 21yo,9.12,0.25,7,$$$$$+,Rye-like,,,USA,Rye,21 high mountain rocky rye west
 Thomas H. Handy Sazerac,9.12,0.21,14,$$$$$+,Rye-like,,,USA,Rye,h. handy sazerac thomas
-High West Midwinter Night’s Dram Rye,9.11,0.2,11,$$$$$,Rye-like,,,USA,Rye,dram high midwinter nights rye west
+High West Midwinter Nights Dram Rye,9.11,0.2,11,$$$$$,Rye-like,,,USA,Rye,dram high midwinter nights rye west
 Gibson's Finest Rare 18yo,9.04,0.37,10,$$$$,Rye-like,,,Canada,Blend,18 finest gibson rare
 J.P. Wiser's Legacy,9.03,0.36,15,$$,Rye-like,,,Canada,Blend,j.p. legacy wiser
 Canadian Club 30yo,9.02,0.19,6,$$$$$,Rye-like,,,Canada,Blend,30 canadian club
@@ -828,7 +828,7 @@ Amrut Rye,8.91,0.09,3,$$$$,Rye-like,,,India,Rye,amrut rye
 Highwood Ninety Rye 20yo,8.89,0.24,9,$$,Rye-like,,,Canada,Blend,20 highwood ninety rye
 High West Bourye,8.88,0.22,7,$$$$,Rye-like,,,USA,Blend,bourye high west
 Forty Creek Evolution,8.85,0.63,7,$$$,Rye-like,,,Canada,Blend,creek evolution forty
-J.P. Wiser’s Red Letter,8.85,0.36,11,$$$$,Rye-like,,,Canada,Blend,j.p. letter red wisers
+J.P. Wisers Red Letter,8.85,0.36,11,$$$$,Rye-like,,,Canada,Blend,j.p. letter red wisers
 Whistlepig 10yo,8.84,0.43,15,$$$$,Rye-like,,,Canada,Blend,10 whistlepig
 "Forty Creek Confederation Oak (Batch A, B)",8.83,0.43,16,$$$,Rye-like,,,Canada,Blend,"a, b batch confederation creek forty oak"
 Crown Royal Hand Selected Barrel,8.82,0.28,8,$$$,Rye-like,,,Canada,Blend,barrel crown hand royal selected
@@ -856,7 +856,7 @@ High West Double Rye,8.68,0.32,13,$$,Rye-like,,,USA,Rye,double high rye west
 Gooderham & Worts Four Grain,8.67,0.27,10,$$,Rye-like,,,Canada,Blend,four gooderham grain worts
 Michter's Single Barrel Straight Rye,8.67,0.45,10,$$$,Rye-like,,,USA,Rye,barrel michter rye single straight
 Canadian Club 20yo,8.66,0.32,9,$$$,Rye-like,,,Canada,Blend,20 canadian club
-J.P. Wiser’s 18yo,8.66,0.4,14,$$$,Rye-like,,,Canada,Blend,18 j.p. wisers
+J.P. Wisers 18yo,8.66,0.4,14,$$$,Rye-like,,,Canada,Blend,18 j.p. wisers
 Russell's Reserve 6yo Rye,8.66,0.33,6,$$$,Rye-like,,,USA,Rye,6 reserve russell rye
 Stalk & Barrel 100% Rye,8.66,0.23,5,$$$,Rye-like,,,Canada,Blend,100% barrel rye stalk
 Jack Daniel's Single Barrel Rye,8.65,0.28,3,$$$,Rye-like,,,USA,Rye,barrel daniel jack rye single
@@ -884,7 +884,7 @@ High West Double Rye Campfire Barrel,8.49,0.3,4,$$$,Rye-like,,,USA,Rye,barrel ca
 Forty Creek Barrel Select,8.47,0.43,16,$,Rye-like,,,Canada,Blend,barrel creek forty select
 Woodford Reserve Straight Rye,8.46,0.25,8,$$,Rye-like,,,USA,Rye,reserve rye woodford
 Willett Family Estate 2yo Rye,8.44,0.3,7,$$$,Rye-like,,,USA,Rye,2 estate family rye willett
-Prichard’s Rye,8.43,0.31,3,$$$$,Rye-like,,,USA,Rye,prichards rye
+Prichards Rye,8.43,0.31,3,$$$$,Rye-like,,,USA,Rye,prichards rye
 High West Son of Bourye,8.41,0.44,10,$$$,Rye-like,,,USA,Blend,bourye high of son west
 Potter's Special Old,8.41,0.43,4,$,Rye-like,,,Canada,Blend,old potter special
 Stalk & Barrel Red Blend,8.41,0.49,4,$$,Rye-like,,,Canada,Blend,barrel blend red stalk
@@ -925,7 +925,7 @@ Collingwood,8.02,0.32,8,$$,Rye-like,,,Canada,Blend,collingwood
 Gibson's Finest Sterling,8.01,0.39,8,$,Rye-like,,,Canada,Blend,finest gibson sterling
 Pendleton (Let'er Buck),8.01,0.49,14,$$,Rye-like,,,Canada,Blend,buck let'er pendleton
 Templeton Rye,8.01,0.36,7,$$$,Rye-like,,,USA,Rye,rye templeton
-J.P. Wiser’s Rye,7.98,0.45,8,$,Rye-like,,,Canada,Blend,j.p. rye wisers
+J.P. Wisers Rye,7.98,0.45,8,$,Rye-like,,,Canada,Blend,j.p. rye wisers
 Wayne Gretzky No. 99 Red Cask,7.97,0.41,4,$$,Rye-like,,,Canada,Blend,99 cask gretzky red wayne
 Lohin McKinnon,7.95,0.06,3,$$$,Rye-like,,,Canada,Rye,lohin mckinnon
 Rich and Rare Reserve,7.95,0.31,6,$,Rye-like,,,Canada,Blend,and rare reserve rich
@@ -973,13 +973,13 @@ Michter's 10yo Single Barrel Bourbon,8.83,0.44,8,$$$$$+,Bourbon-like,,,USA,Bourb
 Eagle Rare 17yo,8.82,0.34,12,$$$$$+,Bourbon-like,,,USA,Bourbon,17 eagle rare
 Russell's Reserve Single Barrel,8.82,0.46,8,$$$$,Bourbon-like,,,USA,Bourbon,barrel reserve russell single
 Knob Creek Single Barrel Reserve Bourbon,8.8,0.27,10,$$$,Bourbon-like,,,USA,Bourbon,barrel creek knob reserve single
-Baker’s Kentucky Straight Bourbon 7yo,8.79,0.3,19,$$$,Bourbon-like,,,USA,Bourbon,7 bakers kentucky straight
+Bakers Kentucky Straight Bourbon 7yo,8.79,0.3,19,$$$,Bourbon-like,,,USA,Bourbon,7 bakers kentucky straight
 Maker's Mark 46,8.78,0.32,15,$$$,Bourbon-like,,,USA,Bourbon,46 maker mark
 J.P. Wiser's Last Barrels,8.76,0.31,7,$$$,Bourbon-like,,,Canada,Blend,barrels j.p. last wiser
 Pappy Van Winkle Family Reserve Bourbon 23yo,8.75,0.53,4,$$$$$+,Bourbon-like,,,USA,Bourbon,23 family pappy reserve van winkle
 Old Forester Birthday (2012-2016),8.74,0.15,9,$$$$$,Bourbon-like,,,USA,Bourbon,2012 2016 birthday forester old
 Wild Turkey Rare Breed,8.74,0.32,15,$$$,Bourbon-like,,,USA,Bourbon,breed rare turkey wild
-Angel’s Envy Rye Whiskey (Rum-finished),8.73,0.6,7,$$$$,Bourbon-like,,,USA,Bourbon,angels envy finished rum rye
+Angels Envy Rye Whiskey (Rum-finished),8.73,0.6,7,$$$$,Bourbon-like,,,USA,Bourbon,angels envy finished rum rye
 Blanton's Gold Kentucky Straight Bourbon,8.73,0.44,13,$$$$,Bourbon-like,,,USA,Bourbon,blanton gold kentucky straight
 Elmer T. Lee Single Barrel Bourbon,8.73,0.42,12,$$,Bourbon-like,,,USA,Bourbon,barrel elmer lee single t.
 Orphan Barrel Barterhouse Bourbon 20yo,8.73,0.4,12,$$$$$,Bourbon-like,,,USA,Bourbon,20 barrel barterhouse orphan
@@ -1030,7 +1030,7 @@ Old Fitzgerald Kentucky Straight Bourbon,8.42,0.53,6,$$,Bourbon-like,,,USA,Bourb
 Michter's Toasted Barrel,8.41,0.16,5,$$$$,Bourbon-like,,,USA,Bourbon,barrel michter toasted
 Old Grand-Dad Bourbon 100 BiB,8.4,0.52,9,$$,Bourbon-like,,,USA,Bourbon,100 bib dad grand old
 Woodford Reserve bourbon,8.4,0.36,18,$$,Bourbon-like,,,USA,Bourbon,reserve woodford
-Basil Hayden’s Kentucky Bourbon,8.38,0.26,15,$$$,Bourbon-like,,,USA,Bourbon,basil hayden
+Basil Haydens Kentucky Bourbon,8.38,0.26,15,$$$,Bourbon-like,,,USA,Bourbon,basil hayden
 Bulleit Bourbon,8.38,0.37,20,$$,Bourbon-like,,,USA,Bourbon,bulleit
 Michter's Sour Mash,8.36,0.06,3,$$$,Bourbon-like,,,USA,Bourbon,mash michter sour
 Old Forester Signature (100 Proof),8.36,0.4,8,$$,Bourbon-like,,,USA,Bourbon,100 forester old proof signature

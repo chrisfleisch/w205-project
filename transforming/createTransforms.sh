@@ -28,11 +28,11 @@ done
 
 #Update fields with right types
 for column in $INTVARS; do
-  sed -i "s/ $column,/ cast\($column as int\),/Ig" $TEMPLATE
-  sed -i "s/ $column FROM/ cast\($column as int\) FROM/Ig" $TEMPLATE
+  sed -i "s/ $column,/ cast\($column as int\) as $column,/Ig" $TEMPLATE
+  sed -i "s/ $column FROM/ cast\($column as int\) as $column FROM/Ig" $TEMPLATE
 done
 
 for column in $FLOATVARS; do
-  sed -i "s/ $column,/ cast\($column as float\),/Ig" $TEMPLATE
-  sed -i "s/ $column FROM/ cast\($column as float\) FROM/Ig" $TEMPLATE
+  sed -i "s/ $column,/ cast\($column as float\) as $column,/Ig" $TEMPLATE
+  sed -i "s/ $column FROM/ cast\($column as float\) as $column FROM/Ig" $TEMPLATE
 done
