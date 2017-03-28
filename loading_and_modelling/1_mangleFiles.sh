@@ -21,6 +21,9 @@ for f in data/*_*; do mv "$f" "${f//_/}" ; done
 sed -i 's/[\d128-\d255]//g' data/*.csv
 sed '1s/^\xEF\xBB\xBF//' data/*.csv
 
+#Replace "Unrated" entries with -1 so they can fit as integers.
+sed -i "s/,Unrated,/,-1,/g" data/*.csv
+
 #Generate headers into separate files
 mkdir headers
 for f in data/*.csv; do NEWFILE=headers/`basename ${f%.*}`".csv"; head -n 1 $f | sed 's/ //g' | sed 's/\///g' | sed 's/-//g' | sed 's/_//g' | sed 's///' > $NEWFILE;  done

@@ -1,5 +1,5 @@
-#proof_raw.rating is an integer, except for the "Unrated"
-#proof_raw.rabble is a float, except for the "Unrated"
+#Done. proof_raw.rating is an integer, except for the "Unrated"
+#Done. proof_raw.rabble is a float, except for the "Unrated"
 #redditwhiskynetworkreviewarchivereviewarchive_raw.reviewerrating is an int, except for the " "
 #redditwhiskynetworkreviewarchivereviewarchive_raw.fullbottlepricepaid is an float, but needs to have "$" removed, and converted into USD 
 #vapricelist_raw.age is an integer after removing "YR" and the null rows
