@@ -23,20 +23,26 @@ def download():
 
 
 def scrape():
-    url = 'http://www.proof66.com/liquor/american-bourbon-whiskey.html'
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text, 'html5lib')
-    category_grid = soup.find_all("section", {"id": "categorygrid"})
-    section = category_grid[0].select("div[class=row]")
-    headers = ["Name", "Rating", "Rabble", "Price"]
+    urls = ['http://www.proof66.com/liquor/american-whiskey.html',
+            'http://www.proof66.com/liquor/canadian-whisky.html',
+            'http://www.proof66.com/liquor/irish-whiskey.html',
+            'http://www.proof66.com/liquor/international-whisky.html',
+            'http://www.proof66.com/liquor/scotch-whisky.html']
+
     final_rows = []
-    for s in range(len(section)):
-        cells = section[s].find_all("span", {"class": "font14s480"})
-        name = cells[0].get_text()
-        rating = cells[1].get_text()
-        rabble = cells[2].get_text()
-        price = cells[3].get_text()
-        final_rows.append([name, rating, rabble, price])
+    for url in urls:
+        r = requests.get(url)
+        soup = BeautifulSoup(r.text, 'html5lib')
+        category_grid = soup.find_all("section", {"id": "categorygrid"})
+        section = category_grid[0].select("div[class=row]")
+        headers = ["Name", "Rating", "Rabble", "Price"]
+        for s in range(len(section)):
+            cells = section[s].find_all("span", {"class": "font14s480"})
+            name = cells[0].get_text()
+            rating = cells[1].get_text()
+            rabble = cells[2].get_text()
+            price = cells[3].get_text()
+            final_rows.append([name, rating, rabble, price])
 
     file_path = os.path.join(save_dir, 'proof66.csv')
     with open(file_path, 'w') as f:
