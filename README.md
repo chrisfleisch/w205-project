@@ -18,8 +18,17 @@ To remove the project:
 
 `conda remove --name w205-project --all`
 
+## Run all
 
-## Data setup
+Activate environment:
+
+`source activate w205-project`
+
+Run all scripts:
+`./runAll.sh`
+
+
+## Manual Data setup commands
 
 Download data to data source:
 
@@ -43,6 +52,10 @@ Transform data in hive:
 
 `hive -f transforms.sql`
 
-Pull final table down as CSV:
+Pull final table down as CSV with headers:
 
 `hive -e 'set hive.cli.print.header=true;select * from whiskey_business;' | sed 's/[\t]/,/g' | sed 's/whiskey_business\.//g' > export_data/data/whiskey_business.csv`
+
+Export data from csv to google sheets:
+
+`python export_data/spreadsheet.py`
