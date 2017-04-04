@@ -10,6 +10,10 @@ Activate env:
 
 `source activate w205-project`
 
+Update the env when activated if environment.yml is updated:
+
+`conda env update -f environment.yml`
+
 To remove the project:
 
 `conda remove --name w205-project --all`
@@ -41,5 +45,4 @@ Transform data in hive:
 
 Pull final table down as CSV:
 
-`hive -e 'select * from whiskey_business' | sed 's/[\t]/,/g'  > /home/w205/w205-project/whiskey_business.csv`
-
+`hive -e 'set hive.cli.print.header=true;select * from whiskey_business;' | sed 's/[\t]/,/g' | sed 's/whiskey_business\.//g' > export_data/data/whiskey_business.csv`
