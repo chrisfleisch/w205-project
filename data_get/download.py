@@ -22,7 +22,7 @@ def download():
                     handle.write(block)
 
 
-def scrape():
+def scrape_proof66():
     urls = ['http://www.proof66.com/liquor/american-whiskey.html',
             'http://www.proof66.com/liquor/canadian-whisky.html',
             'http://www.proof66.com/liquor/irish-whiskey.html',
@@ -52,7 +52,39 @@ def scrape():
             writer.writerow(row)
 
 
+def scrape_metacritic():
+    urls = ['http://whiskyanalysis.com/index.php/database/']
+    r = requests.get(urls[0])
+
+    soup = BeautifulSoup(r.text, 'html5lib')
+
+    table = soup.find_all("table", {"class": "igsv-table"})
+    th = table[0].select("th")
+
+    final_rows = []
+    final_headings = []
+    for cell in th:
+        final_headings.append(cell.get_text().lower().replace(' ', '_').replace('#', 'count'))
+
+    final_rows.append(final_headings)
+
+    rows = table[0].find_all('tbody')[0].find_all('tr')
+    for row in rows:
+        td = row.select('td')
+        cells = []
+        for cell in td:
+            cells.append(cell.get_text())
+        final_rows.append(cells)
+
+    file_path = os.path.join(save_dir, 'metacritic.csv')
+    with open(file_path, 'w') as f:
+        writer = csv.writer(f)
+        for row in final_rows:
+            writer.writerow(row)
+
+
 if __name__ == '__main__':
 
     download()
-    scrape()
+    scrape_proof66()
+    scrape_metacritic()

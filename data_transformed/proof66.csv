@@ -112,7 +112,7 @@ Colorado Gold Bourbon,490,Unrated,$42,colorado gold
 Colorado Gold Rocky Mountan Rye Whiskey,403,Unrated,$35,colorado gold mountan rocky rye
 Colters Run Bourbon Whiskey,387,Unrated,$40,colters run
 Commanders Unaged Rye Whiskey,374,Unrated,$45,commanders rye unaged
-Coopers Craft Bourbon,419,Unrated,$29,coopers
+Coopers Craft Bourbon,419,3.7,$29,coopers
 Coopers Mark Honey Bourbon,346,Unrated,$25,coopers honey mark
 Cooperstown Classic American Whiskey,395,3.0,$47,american classic cooperstown
 Copper Barrel Strawberry Moonshine,338,Unrated,$24,barrel copper moonshine strawberry
@@ -904,7 +904,7 @@ Deanston Virgin Oak Scotch,385,4.3,$33,deanston oak virgin
 Dewars 12yr Blended Scotch,574,3.7,$45,12 blended dewars
 Dewars 18yr Blended Scotch,675,4.0,$75,18 blended dewars
 Dewars Signature Blended Scotch,675,5.0,$254,blended dewars signature
-Dewars White Label Scratched Cask Scotch,430,4.1,$29,cask dewars scratched white
+Dewars White Label Scratched Cask Scotch,430,3.9,$29,cask dewars scratched white
 Douglas Drumlanrig Glen Grant 25yr Scotch,436,Unrated,$229,25 douglas drumlanrig glen grant
 Douglas Drumlanrig Macallan 21 Single Malt Scotch,336,Unrated,$189,21 douglas drumlanrig macallan
 Drumguish Single Malt Scotch,Unrated,Unrated,$25,drumguish
@@ -1029,7 +1029,7 @@ Isle of Jura 30yr Single Malt Scotch,603,Unrated,$550,30 isle jura of
 Isle of Jura Prophecy Scotch,584,4.5,$80,isle jura of prophecy
 Isle of Skye 12yr Scotch,507,Unrated,$37,12 isle of skye
 Isle of Skye 50yr Scotch,Unrated,Unrated,$1800,50 isle of skye
-J and B Scotch,481,2.3,$24,and b j
+J and B Scotch,481,2.4,$24,and b j
 John Barr Gold Label Blended Scotch,364,Unrated,$16,barr blended gold john
 John Barr Reserve Blend Scotch,515,Unrated,$25,barr blend john reserve
 John Walk and Sons King George V Scotch,481,4.7,$600,and george john king sons v walk

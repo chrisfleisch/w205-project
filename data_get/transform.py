@@ -37,7 +37,7 @@ def transform_data():
     w_archive['alt_bottle_price'] = w_archive['bottle_price'].map(lambda x: transform_currency(x))
 
     # transform whiskey critic
-    wc_df = pd.read_csv(os.path.join(read_dir, 'Meta-Critic Whisky Database.csv'))
+    wc_df = pd.read_csv(os.path.join(read_dir, 'metacritic.csv'))
     wc_df.columns = wc_df.columns.str.lower().str.replace(' ', '_')
     wc_df['alt_brand'] = wc_df['whisky'].map(lambda x: my_va_transform(x))
     wc_df['alt_brand'] = wc_df['alt_brand'].map(lambda x: my_wc_transform(x))
