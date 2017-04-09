@@ -1,6 +1,6 @@
 
 DROP TABLE metacritic_raw;
-CREATE EXTERNAL TABLE metacritic_raw (whisky String,metacritic String,stdev String,Number String,cost String,class String,supercluster String,cluster String,country String,type String,altbrand String)
+CREATE EXTERNAL TABLE metacritic_raw (whisky String,metacritic String,stdev String,count String,cost String,class String,supercluster String,cluster String,country String,type String,altbrand String)
 ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
 WITH SERDEPROPERTIES(
 "separatorChar"=",",

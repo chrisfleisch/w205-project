@@ -73,7 +73,7 @@ def scrape_metacritic():
         td = row.select('td')
         cells = []
         for cell in td:
-            cells.append(cell.get_text())
+            cells.append(cell.get_text().encode('ascii', 'ignore').decode('ascii'))
         final_rows.append(cells)
 
     file_path = os.path.join(save_dir, 'metacritic.csv')

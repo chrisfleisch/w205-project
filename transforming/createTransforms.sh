@@ -6,7 +6,7 @@
 #vapricelist_raw.price is a float after removing "$"
 #vapricelist_raw.size is a float that needs to be converted to ounces
 
-FLOATVARS='MetaCritic STDEV Rabble FullBottlePricePaid Proof Cost oz altprice altage altbottleprice'
+FLOATVARS='metacritic stdev Rabble FullBottlePricePaid Proof Cost oz altprice altage altbottleprice'
 INTVARS='Number ReviewerRating Rating'
 LOADINGDIR='../loading_and_modelling'
 DATADIR="$LOADINGDIR/data"

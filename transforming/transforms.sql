@@ -1,6 +1,6 @@
 
 DROP TABLE metacritic;
-CREATE TABLE metacritic AS SELECT whisky, cast(MetaCritic as float) as MetaCritic, cast(STDEV as float) as STDEV, cast(Number as int) as Number, cast(Cost as float) as Cost, class, supercluster, cluster, country, type, altbrand FROM metacritic_raw;
+CREATE TABLE metacritic AS SELECT whisky, cast(metacritic as float) as metacritic, cast(stdev as float) as stdev, count, cast(Cost as float) as Cost, class, supercluster, cluster, country, type, altbrand FROM metacritic_raw;
 
 DROP TABLE proof;
 CREATE TABLE proof AS SELECT name, cast(Rating as int) as Rating, cast(Rabble as float) as Rabble, price, altbrand FROM proof_raw;
