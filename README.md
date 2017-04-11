@@ -24,6 +24,9 @@ Activate environment:
 
 `source activate w205-project`
 
+Add google docs credentials to:
+`export_data/client_secret.json`
+
 Run all scripts:
 `./runAll.sh`
 
