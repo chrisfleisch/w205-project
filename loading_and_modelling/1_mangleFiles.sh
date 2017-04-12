@@ -24,6 +24,9 @@ sed '1s/^\xEF\xBB\xBF//' data/*.csv
 #Replace "Unrated" entries with -1 so they can fit as integers.
 sed -i "s/,Unrated,/,-1,/g" data/*.csv
 
+#Replace dollar amounts with strickly floats in proof66.csv
+sed -r 's/,\$([0-9\.]+)/,\1/g' -i data/proof*.csv
+
 #Generate headers into separate files
 mkdir headers
 for f in data/*.csv; do NEWFILE=headers/`basename ${f%.*}`".csv"; head -n 1 $f | sed 's/ //g' | sed 's/\///g' | sed 's/-//g' | sed 's/_//g' | sed 's///' > $NEWFILE;  done

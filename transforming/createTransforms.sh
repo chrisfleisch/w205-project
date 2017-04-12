@@ -1,3 +1,4 @@
+#Done. proof.price should be a float, after removing "$"
 #Done. proof_raw.rating is an integer, except for the "Unrated"
 #Done. proof_raw.rabble is a float, except for the "Unrated"
 #redditwhiskynetworkreviewarchivereviewarchive_raw.reviewerrating is an int, except for the " "
@@ -6,7 +7,7 @@
 #vapricelist_raw.price is a float after removing "$"
 #vapricelist_raw.size is a float that needs to be converted to ounces
 
-FLOATVARS='metacritic stdev Rabble FullBottlePricePaid Proof Cost oz altprice altage altbottleprice'
+FLOATVARS='metacritic stdev Rabble FullBottlePricePaid Proof Cost oz altprice altage altbottleprice Price'
 INTVARS='Number ReviewerRating Rating'
 LOADINGDIR='../loading_and_modelling'
 DATADIR="$LOADINGDIR/data"
