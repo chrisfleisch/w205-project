@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 dir_path = os.path.dirname(os.path.realpath(__file__))
 save_dir = os.path.join(dir_path, '..', 'data_source')
 
+header = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:32.0) Gecko/20100101 Firefox/51.0',}
 
 def download():
     urls = {'reddit_archive': 'https://docs.google.com/spreadsheets/d/1X1HTxkI6SqsdpNSkSSivMzpxNT-oeTbjFFDdEkXD30o/export?format=csv&id=1X1HTxkI6SqsdpNSkSSivMzpxNT-oeTbjFFDdEkXD30o&gid=695409533',
@@ -16,7 +17,7 @@ def download():
     for name, url in urls.items():
         file_path = os.path.join(save_dir, '{}.csv'.format(name))
         with open(file_path, 'wb') as handle:
-            response = requests.get(url, stream=True)
+            response = requests.get(url, stream=True, headers=header)
             if response.ok:
                 for block in response.iter_content(1024):
                     handle.write(block)
@@ -31,7 +32,7 @@ def scrape_proof66():
 
     final_rows = []
     for url in urls:
-        r = requests.get(url)
+        r = requests.get(url,  headers=header)
         soup = BeautifulSoup(r.text, 'html5lib')
         category_grid = soup.find_all("section", {"id": "categorygrid"})
         section = category_grid[0].select("div[class=row]")
@@ -54,7 +55,7 @@ def scrape_proof66():
 
 def scrape_metacritic():
     urls = ['http://whiskyanalysis.com/index.php/database/']
-    r = requests.get(urls[0])
+    r = requests.get(urls[0], headers=header)
 
     soup = BeautifulSoup(r.text, 'html5lib')
 
