@@ -1,6 +1,13 @@
 # w205-project
 
+Please run everything as the w205 user unless otherwise stated.
+The user should already have hadoop and hive installed and running.
+
 ## Env setup
+
+If you don't have anaconda installed already, please install it from:
+
+https://www.continuum.io/downloads#linux
 
 Setup conda env called "w205-project":
 
