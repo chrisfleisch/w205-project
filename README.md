@@ -58,9 +58,7 @@ Transform data in hive:
 
 `cd ../transforming`
 
-`./createTransforms.sh`
-
-`hive -f transforms.sql`
+`./allTransforms.sh`
 
 Pull final table down as CSV with headers:
 
