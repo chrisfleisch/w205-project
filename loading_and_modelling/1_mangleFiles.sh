@@ -19,7 +19,7 @@ for f in data/*_*; do mv "$f" "${f//_/}" ; done
 
 #Strip out non-ascii characters which for some reason exist in some of these files.
 sed -i 's/[\d128-\d255]//g' data/*.csv
-sed '1s/^\xEF\xBB\xBF//' data/*.csv
+sed -i '1s/^\xEF\xBB\xBF//' data/*.csv
 
 #Replace "Unrated" entries with -1 so they can fit as integers.
 sed -i "s/,Unrated,/,-1,/g" data/*.csv
