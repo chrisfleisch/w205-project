@@ -1,5 +1,7 @@
 # w205-project
 
+Please run everything as the w205 user unless otherwise stated.
+
 ## Env setup
 
 Setup conda env called "w205-project":
