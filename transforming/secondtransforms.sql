@@ -23,10 +23,12 @@ GROUP BY V.brand, V.altprice, V.oz, V.description;
 
 DROP TABLE whiskey_business;
 
-CREATE TABLE whiskey_business AS 
+CREATE TABLE whiskey_business AS
 SELECT   Name, Price, `# of oz`, `Type`,`Reddit score`, `Critic's score`,`Awards score`,`VA Price/oz`,`Market Price/oz`,
-Case 
+Case
 WHEN `Market Price/oz` IS NULL THEN 'No'
 ELSE 'Yes'
 END `Price Benchmark?`
 FROM whiskey_business_stage;
+
+
