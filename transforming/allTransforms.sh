@@ -1,4 +1,4 @@
 #!/bin/bash
 ./createTransforms.sh
-hive -f transforms.sql
-hive -f secondtransforms.sql
+/data/spark15/bin/spark-sql -f transforms.sql
+/data/spark15/bin/spark-sql -f secondtransforms.sql
