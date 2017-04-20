@@ -12,8 +12,8 @@ sum(M.MetaCritic)/count(M.MetaCritic) as `CriticScore`,
 sum(P.Rating)/count(P.Rating) as `AwardScore`, 
 sum(V.altprice)/sum(V.oz) as `VAPricePerOz`,
 Case 
-when V.oz in (25.360113) AND sum(P.Price) > 0 then ((sum(R.altbottleprice) + sum(P.price))/2)/sum(V.oz)
-when V.oz in (25.360113) AND sum(P.Price) IS NULL then sum(R.altbottleprice)/sum(V.oz) 
+when sum(P.Price) > 0 then ((sum(R.altbottleprice) + sum(P.price))/2)/sum(V.oz)
+when sum(P.Price) IS NULL then sum(R.altbottleprice)/sum(V.oz) 
 end as `MarketPricePerOz`
 From vaprices V 
 LEFT JOIN reddit_bottles  R on V.altbrand=R.altbrand 
