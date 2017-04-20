@@ -1,7 +1,24 @@
 # w205-project
 
 Please run everything as the w205 user unless otherwise stated.
+
 The user should already have hadoop and hive installed and running.
+
+More specifically, if you're booting a UCB instance, you can use the following commands:
+
+As root (update your dev to reflect where your EBS volume is):
+```
+mount /dev/xvdf /data
+/data/start_postgres.sh
+./start-hadoop.sh
+su - w205
+```
+
+As w205 (Optional):
+```
+/data/start_metastore.sh
+```
+
 
 ## Env setup
 
